@@ -48,7 +48,7 @@ Canada       Ottawa
 
 Central_African_Republic       Bangui
 
-Chad       NDjamena
+Chad       N'Djamena
 
 Chile       Santiago
 
@@ -78,7 +78,7 @@ Dominica       Roseau
 
 Dominican_Republic       Santo_Domingo
 
-Donetsk_Peoples_Republic       Donetsk
+Donetsk_People's_Republic       Donetsk
 
 East_Timor       Dili
 
@@ -114,7 +114,7 @@ Ghana       Accra
 
 Greece       Athens
 
-Grenada       St._Georges,_Grenada
+Grenada       St._George's,_Grenada
 
 Guatemala       Guatemala_City
 
@@ -193,172 +193,4 @@ Malta       Valletta
 Mauritania       Nouakchott
 
 Mauritius       Port_Louis
-
-Mexico       Mexico_City
-
-Moldova       Chișinău
-
-Mongolia       Ulaanbaatar
-
-Montenegro       Podgorica
-
-Morocco       Rabat
-
-Mozambique       Maputo
-
-Myanmar       Naypyidaw
-
-Namibia       Windhoek
-
-Nepal       Kathmandu
-
-Netherlands       Amsterdam
-
-New_Zealand       Wellington
-
-Nicaragua       Managua
-
-Niger       Niamey
-
-Nigeria       Abuja
-
-Niue       Alofi
-
-North_Korea       Pyongyang
-
-Northern_Cyprus       North_Nicosia
-
-Norway       Oslo
-
-Oman       Muscat,_Oman
-
-Pakistan       Islamabad
-
-Panama       Panama_City
-
-Papua_New_Guinea       Port_Moresby
-
-Paraguay       Asunción
-
-Peru       Lima
-
-Philippines       Manila
-
-Poland       Warsaw
-
-Qatar       Doha
-
-Republic_of_Ireland       Dublin
-
-Republic_of_the_Congo       Brazzaville
-
-Romania       Bucharest
-
-Russia       Moscow
-
-Rwanda       Kigali
-
-Saint_Lucia       Castries
-
-San_Marino       City_of_San_Marino
-
-Saudi_Arabia       Riyadh
-
-Senegal       Dakar
-
-Serbia       Belgrade
-
-Seychelles       Victoria,_Seychelles
-
-Sierra_Leone       Freetown
-
-Slovakia       Bratislava
-
-Slovenia       Ljubljana
-
-Solomon_Islands       Honiara
-
-Somalia       Mogadishu
-
-Somaliland       Hargeisa
-
-South_Africa       Cape_Town
-
-South_Africa       Pretoria
-
-South_Africa       Bloemfontein
-
-South_Korea       Seoul
-
-South_Sudan       Juba
-
-Spain       Madrid
-
-Sri_Lanka       Colombo
-
-Sri_Lanka       Sri_Jayawardenepura_Kotte
-
-Sudan       Khartoum
-
-Suriname       Paramaribo
-
-Swaziland       Mbabane
-
-Swaziland       Lobamba
-
-Sweden       Stockholm
-
-Switzerland       Bern
-
-Syria       Damascus
-
-São_Tomé_and_Príncipe       São_Tomé
-
-Taiwan       Taipei
-
-Tajikistan       Dushanbe
-
-Tanzania       Dodoma
-
-Thailand       Bangkok
-
-The_Gambia       Banjul
-
-Togo       Lomé
-
-Trinidad_and_Tobago       Port_of_Spain
-
-Tunisia       Tunis
-
-Turkey       Ankara
-
-Turkmenistan       Ashgabat
-
-Ukraine       Kiev
-
-United_Arab_Emirates       Abu_Dhabi
-
-United_Kingdom       London
-
-United_States       Washington,_D.C.
-
-Uruguay       Montevideo
-
-Uzbekistan       Tashkent
-
-Vanuatu       Port_Vila
-
-Venezuela       Caracas
-
-Vietnam       Hanoi
-
-Yemen       Abd_Rabbuh_Mansur_Hadi
-
-Yemen       Aden
-
-Yemen       Sanaa
-
-Zambia       Lusaka
-
-Zimbabwe       Harare
 

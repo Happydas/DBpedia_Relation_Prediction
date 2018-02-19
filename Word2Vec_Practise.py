@@ -41,17 +41,17 @@ model =  gensim.models.KeyedVectors.load_word2vec_format('D:/dl4j-files/GoogleNe
 #print('vocab:', model.vocab.keys())
 
 # to get the total word
-print(len(model.vocab))
+#print(len(model.vocab))
 
 
-"""
 if 'word' in model.vocab:
     size = 300  # word vector size
-    word = 'Michelle_Obama'  # word token
+    word = 'A._A._Gill'  # word token
 
     try:
         wordVector = model[word].reshape((1, size))
         print("found! ", word)
     except KeyError:
         print("not found! ", word)
- """
+
+

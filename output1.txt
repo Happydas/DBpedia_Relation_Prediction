@@ -26,7 +26,7 @@ Belgium       City_of_Brussels
 
 Belize       Belmopan
 
-Benin       Porto-Novo
+Benin       Porto_Novo
 
 Bolivia       Sucre
 
@@ -120,11 +120,11 @@ Guatemala       Guatemala_City
 
 Guinea       Conakry
 
-Guinea-Bissau       Bissau
+Guinea_Bissau       Bissau
 
 Guyana       Georgetown,_Guyana
 
-Haiti       Port-au-Prince
+Haiti       Port_au_Prince
 
 Honduras       Tegucigalpa
 

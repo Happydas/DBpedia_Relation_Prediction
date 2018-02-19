@@ -24,27 +24,22 @@ endpoint.setReturnFormat(JSON)
 # Note: The JSON returned by the SPARQL endpoint is converted to nested Python dictionaries, so additional parsing is not required.
 results = endpoint.query().convert()
 
-f= open("Capital.txt","w+", encoding="utf-8")
+f= io.open("Capital.txt","w+", encoding="utf-8")
 #for i in range(10):
     # f.write("This is line %d\r\n" % (i+1))
 # interpret the results:
 for res in results["results"]["bindings"] :
-    f.write("%s       %s\n\n" %  (res['country']['value'],  res['capital']['value']))
+ f.write("{0}       {1}\n\n" .format(res['country']['value'],  res['capital']['value']))
+    #f.write( "'%s'       '%s'\n\n" %  (res['country']['value'] + ' ' + res['capital']['value'] + '\n\n'))
+  #f.write("%s       %s\n\n" %  res['country']['value'],  res['capital']['value'])
 
+   # print("%s --> %s\n\n" % (res['country']['value'],  res['capital']['value']))
 
-'''
-    fin = open("Capital.txt")
-    fout = open("output.txt", "w+")
-    # delete_list = ['https://', 'http://', 'www.']
-    delete_list = ['http://dbpedia.org/resource/']
-    for line in fin:
-        for word in delete_list:
-            line = line.replace(word, "")
-        fout.write(line)
-    fin.close()
-    fout.close()
-    print('./ done')
-'''
+#f.write(res['country']['value']+' '+res['capital']['value']+'\n\n')
+
+#instr = "'%s', '%s', '%d', '%s', '%s', '%s', '%s'" % softname, procversion, int(percent), exe, description, company, procurl
+#instr = "'{0}', '{1}', '{2}', '{3}', '{4}', '{5}', '{6}'".format(softname, procversion, int(percent), exe, description, company, procurl)
+#instr = "'%s', '%s', '%d', '%s', '%s', '%s', '%s'" % (softname, procversion, int(percent), exe, description, company, procurl)
     #print (res['country']['value'],   res['capital']['value'])
 
 
