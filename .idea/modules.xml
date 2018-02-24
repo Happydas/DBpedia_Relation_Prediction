@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/DbPedia.iml" filepath="$PROJECT_DIR$/.idea/DbPedia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DBPedia Vector Representation.iml" filepath="$PROJECT_DIR$/.idea/DBPedia Vector Representation.iml" />
     </modules>
   </component>
 </project>

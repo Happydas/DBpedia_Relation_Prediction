@@ -1,4 +1,0 @@
-ccc@aaa.com
-vvv@aaa.com
-xxx@aaa.com
-zzz@aaa.com
