@@ -27,7 +27,7 @@ model =  gensim.models.KeyedVectors.load_word2vec_format('D:/dl4j-files/GoogleNe
 
 if 'word' in model.vocab:
     size = 300  # word vector size
-    word = 'Aaron_Spelling'  # word token
+    word = 'Bangladeshi_taka'  # word token
 
     try:
         wordVector = model[word].reshape((1, size))
