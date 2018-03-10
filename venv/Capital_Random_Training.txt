@@ -1,0 +1,574 @@
+1st random number:
+
+Rwanda Kigali
+
+5 random number:
+
+Colombia Bogotá
+
+Angola Luanda
+
+Greece Athens
+
+Eritrea Asmara
+
+Mali Bamako
+
+10 random number:
+
+Zambia Lusaka
+
+South_Africa Pretoria
+
+Swaziland Mbabane
+
+Hungary Budapest
+
+Pakistan Islamabad
+
+Mozambique Maputo
+
+Mali Bamako
+
+Honduras Tegucigalpa
+
+Greece Athens
+
+United_Kingdom London
+
+15 random number:
+
+Bulgaria Sofia
+
+Libya Tripoli
+
+Angola Luanda
+
+Japan Tokyo
+
+Solomon_Islands Honiara
+
+Russia Moscow
+
+Cameroon Yaoundé
+
+Suriname Paramaribo
+
+Liberia Monrovia
+
+Swaziland Mbabane
+
+Eritrea Asmara
+
+Sierra_Leone Freetown
+
+Romania Bucharest
+
+Tunisia Tunis
+
+Morocco Rabat
+
+20 random number:
+
+Zambia Lusaka
+
+Cyprus Nicosia
+
+Angola Luanda
+
+Tunisia Tunis
+
+Russia Moscow
+
+Estonia Tallinn
+
+Sierra_Leone Freetown
+
+Morocco Rabat
+
+Namibia Windhoek
+
+Malta Valletta
+
+Peru Lima
+
+Colombia Bogotá
+
+Madagascar Antananarivo
+
+Algeria Algiers
+
+Ecuador Quito
+
+Chile Santiago
+
+Romania Bucharest
+
+China Beijing
+
+France Paris
+
+Guinea Conakry
+
+25 random number:
+
+Taiwan Taipei
+
+Algeria Algiers
+
+Japan Tokyo
+
+Guinea Conakry
+
+Solomon_Islands Honiara
+
+Greece Athens
+
+Peru Lima
+
+Bahrain Manama
+
+Pakistan Islamabad
+
+Rwanda Kigali
+
+Malaysia Kuala_Lumpur
+
+Ukraine Kiev
+
+Chad N'Djamena
+
+Hungary Budapest
+
+Mozambique Maputo
+
+Eritrea Asmara
+
+Liberia Monrovia
+
+Ivory_Coast Abidjan
+
+Tunisia Tunis
+
+Austria Vienna
+
+Mali Bamako
+
+France Paris
+
+Afghanistan Kabul
+
+Nepal Kathmandu
+
+United_Kingdom London
+
+30 random number:
+
+Pakistan Islamabad
+
+Cyprus Nicosia
+
+Hungary Budapest
+
+Angola Luanda
+
+Cameroon Yaoundé
+
+Solomon_Islands Honiara
+
+Liberia Monrovia
+
+Greece Athens
+
+Morocco Rabat
+
+Turkey Ankara
+
+South_Africa Bloemfontein
+
+Laos Vientiane
+
+Turkmenistan Ashgabat
+
+France Paris
+
+Nepal Kathmandu
+
+Malaysia Kuala_Lumpur
+
+Azerbaijan Baku
+
+Ukraine Kiev
+
+Vietnam Hanoi
+
+Malta Valletta
+
+United_Kingdom London
+
+Algeria Algiers
+
+Norway Oslo
+
+Mozambique Maputo
+
+South_Korea Seoul
+
+Myanmar Naypyidaw
+
+Chad N'Djamena
+
+Belize Belmopan
+
+Bahrain Manama
+
+Eritrea Asmara
+
+35 random number:
+
+Turkmenistan Ashgabat
+
+Japan Tokyo
+
+Benin Porto_Novo
+
+Sierra_Leone Freetown
+
+Greece Athens
+
+Malta Valletta
+
+Austria Vienna
+
+Rwanda Kigali
+
+Yemen Sana'a
+
+Honduras Tegucigalpa
+
+Laos Vientiane
+
+Haiti Port_au_Prince
+
+Azerbaijan Baku
+
+Namibia Windhoek
+
+Solomon_Islands Honiara
+
+United_Kingdom London
+
+Algeria Algiers
+
+Malaysia Kuala_Lumpur
+
+France Paris
+
+Turkey Ankara
+
+Guinea Conakry
+
+Libya Tripoli
+
+Mozambique Maputo
+
+Estonia Tallinn
+
+Angola Luanda
+
+South_Africa Bloemfontein
+
+Cambodia Phnom_Penh
+
+Bahrain Manama
+
+Pakistan Islamabad
+
+Zambia Lusaka
+
+Peru Lima
+
+Bulgaria Sofia
+
+Romania Bucharest
+
+South_Africa Cape_Town
+
+Cyprus Nicosia
+
+40 random number:
+
+Turkmenistan Ashgabat
+
+Pakistan Islamabad
+
+Mozambique Maputo
+
+Hungary Budapest
+
+Sierra_Leone Freetown
+
+Romania Bucharest
+
+Austria Vienna
+
+Azerbaijan Baku
+
+Namibia Windhoek
+
+Suriname Paramaribo
+
+Afghanistan Kabul
+
+Cambodia Phnom_Penh
+
+Colombia Bogotá
+
+Malaysia Kuala_Lumpur
+
+Laos Vientiane
+
+Cameroon Yaoundé
+
+Honduras Tegucigalpa
+
+Liberia Monrovia
+
+Chile Santiago
+
+Chad N'Djamena
+
+Angola Luanda
+
+Benin Porto_Novo
+
+South_Africa Pretoria
+
+Malta Valletta
+
+United_Kingdom London
+
+France Paris
+
+Morocco Rabat
+
+Belize Belmopan
+
+Peru Lima
+
+Ivory_Coast Abidjan
+
+Bulgaria Sofia
+
+Vietnam Hanoi
+
+Ukraine Kiev
+
+Eritrea Asmara
+
+Japan Tokyo
+
+Russia Moscow
+
+Myanmar Naypyidaw
+
+Mali Bamako
+
+Madagascar Antananarivo
+
+Ecuador Quito
+
+45 random number:
+
+Nigeria Abuja
+
+Cambodia Phnom_Penh
+
+Tunisia Tunis
+
+Chile Santiago
+
+Ecuador Quito
+
+Myanmar Naypyidaw
+
+Eritrea Asmara
+
+Rwanda Kigali
+
+South_Africa Cape_Town
+
+Ivory_Coast Abidjan
+
+Turkmenistan Ashgabat
+
+Afghanistan Kabul
+
+Malta Valletta
+
+Zambia Lusaka
+
+Suriname Paramaribo
+
+Vietnam Hanoi
+
+Azerbaijan Baku
+
+Turkey Ankara
+
+Estonia Tallinn
+
+Mozambique Maputo
+
+Laos Vientiane
+
+Algeria Algiers
+
+Libya Tripoli
+
+Malaysia Kuala_Lumpur
+
+United_Kingdom London
+
+Madagascar Antananarivo
+
+South_Africa Pretoria
+
+Pakistan Islamabad
+
+Guinea Conakry
+
+Cameroon Yaoundé
+
+South_Korea Seoul
+
+Bahrain Manama
+
+Romania Bucharest
+
+Bulgaria Sofia
+
+Russia Moscow
+
+Liberia Monrovia
+
+South_Africa Bloemfontein
+
+Yemen Sana'a
+
+Austria Vienna
+
+Greece Athens
+
+Swaziland Mbabane
+
+Norway Oslo
+
+Nepal Kathmandu
+
+Chad N'Djamena
+
+Ukraine Kiev
+
+50 random number:
+
+Liberia Monrovia
+
+Malta Valletta
+
+Algeria Algiers
+
+Norway Oslo
+
+Ukraine Kiev
+
+Taiwan Taipei
+
+Tunisia Tunis
+
+Sierra_Leone Freetown
+
+Turkey Ankara
+
+Nepal Kathmandu
+
+Japan Tokyo
+
+Mali Bamako
+
+Greece Athens
+
+Benin Porto_Novo
+
+Estonia Tallinn
+
+Bulgaria Sofia
+
+Cambodia Phnom_Penh
+
+Azerbaijan Baku
+
+Nigeria Abuja
+
+Cyprus Nicosia
+
+Cameroon Yaoundé
+
+Honduras Tegucigalpa
+
+Solomon_Islands Honiara
+
+Suriname Paramaribo
+
+Pakistan Islamabad
+
+Myanmar Naypyidaw
+
+Yemen Sana'a
+
+Laos Vientiane
+
+Chile Santiago
+
+Russia Moscow
+
+Chad N'Djamena
+
+Afghanistan Kabul
+
+Hungary Budapest
+
+United_Kingdom London
+
+Ivory_Coast Abidjan
+
+South_Africa Pretoria
+
+Morocco Rabat
+
+Belize Belmopan
+
+Swaziland Mbabane
+
+Vietnam Hanoi
+
+France Paris
+
+China Beijing
+
+Zambia Lusaka
+
+Haiti Port_au_Prince
+
+Madagascar Antananarivo
+
+Libya Tripoli
+
+Malaysia Kuala_Lumpur
+
+South_Korea Seoul
+
+Eritrea Asmara
+
+Turkmenistan Ashgabat
+
