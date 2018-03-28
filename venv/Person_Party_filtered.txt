@@ -1,3 +1,19 @@
+A._George_Pradel Independent
+
+A._Joseph_DeNucci Democratic_Party
+
+A._Ralph_Mollis Democratic_Party
+
+Aaron_Michlewitz Democratic_Party
+
+Aaron_Peskin Democratic_Party
+
+Aaron_Reardon Democratic_Party
+
+Abbie_Cornett Democratic_Party
+
+Abdirahman_Farole Horseed
+
 Abdul_Bari_Siddiqui Rashtriya_Janata_Dal
 
 Abdul_Haq_Wasiq Taliban
@@ -12,11 +28,15 @@ Abdul_Mannan_Khan Bangladesh_Awami_League
 
 Abdul_Moyeen_Khan Bangladesh_Nationalist_Party
 
+Abdul_Rahim_Wardak Independent
+
 Abdul_Salam_Zaeef Taliban
 
 Abdul_Taib_Mahmud Parti_Pesaka_Bumiputera_Bersatu
 
 Abdul_Waseem Muttahida_Qaumi_Movement
+
+Abdullah_Gül Independent
 
 Abdulrahman_Kinana Chama_Cha_Mapinduzi
 
@@ -24,7 +44,21 @@ Abdus_Salam_Pintu Bangladesh_Nationalist_Party
 
 Abdus_Samad_Azad Bangladesh_Awami_League
 
+Abe_Fortas Democratic_Party
+
+Abel_Herrero Democratic_Party
+
+Abel_Tapia Democratic_Party
+
+Abolhassan_Banisadr Independent
+
+Abraham_Beame Democratic_Party
+
 Abraham_Iyambo SWAPO
+
+Abraham_Lincoln Whig_Party
+
+Abraham_Tolentino Liberal_Party
 
 Abu_Azmi Samajwadi_Party
 
@@ -34,21 +68,53 @@ Abul_Maal_Abdul_Muhith Bangladesh_Awami_League
 
 Aburizal_Bakrie Golkar
 
+Ad_Melkert Labour_Party
+
+Adam_Afriyie Conservative_Party
+
+Adam_Ebbin Democratic_Party
+
+Adam_Edelen Democratic_Party
+
 Adam_Kokesh Libertarian
 
 Adam_Malima Chama_Cha_Mapinduzi
 
+Adam_Parkhomenko Democratic_Party
+
+Adam_Schiff Democratic_Party
+
 Adam_Szejnfeld Civic_Platform
+
+Adam_Taliaferro Democratic_Party
 
 Adenan_Satem Parti_Pesaka_Bumiputera_Bersatu
 
 Adesh_Partap_Singh_Kairon Shiromani_Akali_Dal
 
+Adlai_Stevenson_III Democratic_Party
+
+Adolfo_Carrión_Jr. Independent
+
 Adolfo_Rodríguez_Saá Justicialist_Party
+
+Adrian_Fenty Democratic_Party
+
+Adrian_Flook Conservative_Party
+
+Adrian_Polansky Democratic_Party
+
+Adriano_Espaillat Democratic_Party
+
+Adriel_Hampton Democratic_Party
 
 Aengus_Ó_Snodaigh Sinn_Féin
 
 Afonso_Dhlakama RENAMO
+
+Agnes_Jongerius Labour_Party
+
+Agnes_Kant Socialist_Party
 
 Agnès_Maltais Parti_Québécois
 
@@ -62,9 +128,19 @@ Ahmad_Heryawan Prosperous_Justice_Party
 
 Ahmad_Husni_Hanadzlah Barisan_Nasional
 
+Ahmed_Aboutaleb Labour_Party
+
+Ahmed_Marcouch Labour_Party
+
 Ahmed_Qurei Fatah
 
 Ahmed_Thasmeen_Ali Dhivehi_Rayyithunge_Party
+
+Aideen_Hayden Labour_Party
+
+Aileen_Gunther Democratic_Party
+
+Airey_Neave Conservative_Party
 
 Ajay_Chandrakar Bharatiya_Janata_Party
 
@@ -82,23 +158,99 @@ Akhilesh_Yadav Samajwadi_Party
 
 Akihiro_Ota Komeito
 
+Akram_Chehayeb Progressive_Socialist_Party
+
 Akshay_Pratap_Singh Samajwadi_Party
+
+Al_Ater Democratic_Party
+
+Al_Gore Democratic_Party
+
+Al_McAffrey Democratic_Party
+
+Al_Sharpton Democratic_Party
 
 Alain_Courtois Reformist_Movement
 
+Alan_Beith Liberal_Party
+
 Alan_Beith Liberal_Democrats
+
+Alan_Butkovitz Democratic_Party
+
+Alan_Colmes Democratic_Party
+
+Alan_Gerson Democratic_Party
+
+Alan_Grayson Democratic_Party
+
+Alan_Haselhurst Conservative_Party
+
+Alan_Jilka Democratic_Party
+
+Alan_Khazei Democratic_Party
+
+Alan_Lowenthal Democratic_Party
+
+Alan_Meale Labour_Party
+
+Alan_Milburn Labour_Party
+
+Alan_Mollohan Democratic_Party
 
 Alan_Shatter Fine_Gael
 
+Alan_Solomont Democratic_Party
+
+Alastair_Campbell Labour_Party
+
+Albert_Bazeyan Republic
+
+Albert_Bore Labour_Party
+
+Albert_Kookesh Democratic_Party
+
+Albert_Rosellini Democratic_Party
+
 Alberto_Fernández Justicialist_Party
+
+Alberto_Romulo Independent
+
+Alberto_Torrico Democratic_Party
+
+Albio_Sires Democratic_Party
+
+Alcee_Hastings Democratic_Party
+
+Aldo_Brancher Forza_Italia
+
+Alec_Baldwin Democratic_Party
+
+Alejandro_Maldonado Unionist_Party
+
+Alejandro_Mayorkas Democratic_Party
+
+Alekos_Alavanos Plan_B
 
 Aleksandar_Vučić Serbian_Radical_Party
 
 Aleksander_Grad Civic_Platform
 
+Aleksander_Kwaśniewski Independent
+
+Alessandra_Mussolini Forza_Italia
+
+Alex_Gorsky Democratic_Party
+
+Alex_Knopp Democratic_Party
+
 Alex_Maskey Sinn_Féin
 
 Alex_Noerdin Golkar
+
+Alex_Penelas Democratic_Party
+
+Alex_Sink Democratic_Party
 
 Alex_Tamba_Brima Military_Junta
 
@@ -108,33 +260,105 @@ Alexander_Radkov Belaya_Rus
 
 Alexandre_Cloutier Parti_Québécois
 
+Alexandre_Mouton Democratic_Party
+
 Alexei_Arbatov Yabloko
 
+Alexei_Kudrin Independent
+
 Alexei_Navalny Yabloko
+
+Alexi_Giannoulias Democratic_Party
+
+Alexis_Herman Democratic_Party
 
 Alexis_Tsipras Synaspismos
 
 Alexis_Tsipras Syriza
 
+Alfre_Woodard Democratic_Party
+
+Alfred_DelBello Democratic_Party
+
+Alfred_Sant Labour_Party
+
+Alfredo_Lim Liberal_Party
+
+Alfredo_Palacio Independent
+
+Ali_Akbar_Javanfekr Independent
+
+Ali_Aujali Independent
+
 Ali_Hassan_Mwinyi Chama_Cha_Mapinduzi
 
 Ali_Mohamed_Shein Chama_cha_Mapinduzi
 
+Alice_Mahon Labour_Party
+
+Alice_Peisch Democratic_Party
+
+Alice_Rivlin Democratic_Party
+
+Alicia_Munnell Democratic_Party
+
+Alicia_Reece Democratic_Party
+
+Alison_Lundergan_Grimes Democratic_Party
+
+Alison_Seabeck Labour_Party
+
+Alistair_Burt Conservative_Party
+
 Alistair_Carmichael Liberal_Democrats
 
+Alistair_Darling Labour_Party
+
+Allan_Massie Conservative_Party
+
+Allen_Joines Democratic_Party
+
+Allen_Kukovich Democratic_Party
+
+Allison_Copening Democratic_Party
+
+Allyson_Schwartz Democratic_Party
+
 Alok_Kumar Samajwadi_Party
+
+Alok_Sharma Conservative_Party
 
 Alparslan_Türkeş Nationalist_Movement_Party
 
 Alphons_Kannanthanam Bharatiya_Janata_Party
 
+Altero_Matteoli Forza_Italia
+
+Althea_Garrison Independent
+
+Althea_Garrison Democratic_Party
+
+Alun_Cairns Conservative_Party
+
 Alun_Ffred_Jones Plaid_Cymru
 
+Alyson_Huber Democratic_Party
+
+Alyssa_Mastromonaco Democratic_Party
+
 Amado_Boudou Justicialist_Party
+
+Amadou_Toumani_Touré Independent
 
 Amani_Abeid_Karume Chama_Cha_Mapinduzi
 
 Amar_Agrawal Bharatiya_Janata_Party
+
+Ameya_Pawar Democratic_Party
+
+Ami_Bera Democratic_Party
+
+Amina_Mohamed Independent
 
 Amina_Salum_Ali Chama_Cha_Mapinduzi
 
@@ -142,9 +366,25 @@ Amine_Gemayel Kataeb_Party
 
 Amir_Hossain_Amu Bangladesh_Awami_League
 
+Amir_Kabir Independent
+
 Amir_Khadir Québec_Solidaire
 
+Amir_Syamsuddin Democratic_Party
+
 Amit_Shah Bharatiya_Janata_Party
+
+Amos_Tuck Whig_Party
+
+Amos_Tuck Independent
+
+Amos_Tuck Democratic_Party
+
+Amy_Paulin Democratic_Party
+
+Amy_Sue_Vruwink Democratic_Party
+
+Amy_Tuck Democratic_Party
 
 Anam_Ramanarayana_Reddy Telugu_Desam_Party
 
@@ -158,11 +398,25 @@ Anant_Kumar_Hegde Bharatiya_Janata_Party
 
 Ananth_Kumar Bharatiya_Janata_Party
 
+Anas_Sarwar Labour_Party
+
+Anastasia_Pittman Democratic_Party
+
+Anatoly_Chubais Independent
+
 Anbumani_Ramadoss Pattali_Makkal_Katchi
+
+Anders_Blewett Democratic_Party
+
+Anders_Fogh_Rasmussen Venstre
 
 Andimba_Toivo_ya_Toivo SWAPO
 
 Andimuthu_Raja Dravida_Munnetra_Kazhagam
+
+Andrea_Cabral Democratic_Party
+
+Andrea_Leadsom Conservative_Party
 
 Andrea_del_Rosario Nacionalista_Party
 
@@ -170,19 +424,99 @@ Andreas_Loverdos Panhellenic_Socialist_Movement
 
 Andreas_Papandreou Panhellenic_Socialist_Movement
 
+Andrei_Cherny Democratic_Party
+
+Andrew_Boff Conservative_Party
+
+Andrew_Bridgen Conservative_Party
+
 Andrew_Chenge Chama_Cha_Mapinduzi
 
+Andrew_Cuomo Democratic_Party
+
+Andrew_Gillum Democratic_Party
+
+Andrew_Halcro Independent
+
+Andrew_Kayiira Democratic_Party
+
+Andrew_Lansley Conservative_Party
+
+Andrew_Lloyd_Webber Conservative_Party
+
+Andrew_MacKinlay Labour_Party
+
+Andrew_Murrison Conservative_Party
+
+Andrew_Pelling Conservative_Party
+
+Andrew_Pelling Labour_Party
+
+Andrew_Robathan Conservative_Party
+
+Andrew_Romanoff Democratic_Party
+
+Andrew_Rosindell Conservative_Party
+
+Andrew_Selous Conservative_Party
+
 Andrew_Stunell Liberal_Democrats
+
+Andrew_Tyrie Conservative_Party
+
+Andrew_Wilkie Independent
+
+Andrew_Zwicker Democratic_Party
+
+Andris_Piebalgs Independent
+
+Andris_Piebalgs Unity
+
+Andris_Vilks Unity
 
 Andrzej_Olechowski Civic_Platform
 
 André_Boisclair Parti_Québécois
 
+André_Flahaut Parti_Socialiste
+
 Andrés_Manuel_López_Obrador Institutional_Revolutionary_Party
+
+Andrés_Velasco Independent
+
+Andy_Berke Democratic_Party
+
+Andy_Burnham Labour_Party
+
+Andy_Coulson Conservative_Party
+
+Andy_Dinniman Democratic_Party
+
+Andy_Griffith Democratic_Party
+
+Andy_Shallal Democratic_Party
+
+Aneesh_Chopra Democratic_Party
 
 Anerood_Jugnauth Mauritian_Militant_Movement
 
+Aneurin_Bevan Labour_Party
+
+Angel_Taveras Democratic_Party
+
+Angela_Giron Democratic_Party
+
+Angela_Watkinson Conservative_Party
+
 Angelino_Alfano Forza_Italia
+
+Angie_Bray Conservative_Party
+
+Angie_Paccione Democratic_Party
+
+Angus_McKelvey Democratic_Party
+
+Anies_Baswedan Independent
 
 Anil_Desai Shiv_Sena
 
@@ -200,11 +534,95 @@ Anil_Vij Bhartiya_Janta_Party
 
 Anis_Matta Prosperous_Justice_Party
 
+Anita_Alvarez Democratic_Party
+
+Anita_Dunn Democratic_Party
+
+Ann_Callis Democratic_Party
+
+Ann_Cryer Labour_Party
+
+Ann_Duplessis Democratic_Party
+
+Ann_Hraychuck Democratic_Party
+
+Ann_Kirkpatrick Democratic_Party
+
+Ann_Kobayashi Democratic_Party
+
+Ann_Lininger Democratic_Party
+
+Ann_Mallek Democratic_Party
+
+Ann_McKechin Labour_Party
+
+Ann_McLane_Kuster Democratic_Party
+
+Ann_Widdecombe Conservative_Party
+
+Ann_Winterton Conservative_Party
+
+Anna_Caballero Democratic_Party
+
 Anna_Diamantopoulou Panhellenic_Socialist_Movement
+
+Anna_Eshoo Democratic_Party
+
+Anna_Finocchiaro Democratic_Party
+
+Anna_Soubry Conservative_Party
 
 Anna_Tibaijuka Chama_Cha_Mapinduzi
 
+Anna_Tovar Democratic_Party
+
+Annabel_Palma Democratic_Party
+
+Annazette_Collins Democratic_Party
+
+Anne_Begg Labour_Party
+
+Anne_Cools Independent
+
+Anne_Gust Democratic_Party
+
+Anne_Holton Democratic_Party
+
+Anne_Snelgrove Labour_Party
+
+Anneliese_Dodds Labour_Party
+
+Annette_Dubas Democratic_Party
+
+Annette_Quijano Democratic_Party
+
+Annise_Parker Democratic_Party
+
 Anoop_Mishra Bharatiya_Janata_Party
+
+Anthony_Masiello Democratic_Party
+
+Anthony_Petruccelli Democratic_Party
+
+Anthony_Pollina Progressive_Party
+
+Anthony_Portantino Democratic_Party
+
+Anthony_Verga Democratic_Party
+
+Anthony_Weiner Democratic_Party
+
+Anthony_Zinni Democratic_Party
+
+Antigoni_Papadopoulou Democratic_Party
+
+Anton_Buttigieg Labour_Party
+
+Anton_Cermak Democratic_Party
+
+Anton_Gunn Democratic_Party
+
+Antonio_Bassolino Democratic_Party
 
 Antonio_Cerilles Lakas_Kampi_CMD
 
@@ -212,9 +630,21 @@ Antonio_Leviste Lakas_Kampi_CMD
 
 Antonio_Martino Forza_Italia
 
+Antonio_Martino Forza_Italia
+
 Antonio_Marzano Forza_Italia
 
 Antonio_Tajani Forza_Italia
+
+Antonio_Tajani Forza_Italia
+
+Antonio_Villaraigosa Democratic_Party
+
+Antonio_del_Rosario Liberal_Party
+
+António_Costa Socialist_Party
+
+António_Guterres Socialist_Party
 
 Anurag_Thakur Bharatiya_Janata_Party
 
@@ -226,15 +656,33 @@ Apostolos_Kaklamanis Panhellenic_Socialist_Movement
 
 Appachu_Ranjan Bhartiya_Janata_Party
 
+Aram_Sargsyan Republic
+
 Aravind_Limbavali Bharatiya_Janata_Party
 
 Archana_Nayak Biju_Janata_Dal
+
+Archibald_Cox Democratic_Party
+
+Archibald_Yell Democratic_Party
+
+Archie_Norman Conservative_Party
+
+Ari_Porth Democratic_Party
+
+Ariel_Sharon Liberal_Party
 
 Ariel_Sharon Likud
 
 Ariel_Sharon Kadima
 
+Aris_Melissaratos Democratic_Party
+
+Aristide_Briand Socialist_Party
+
 Arjun_Charan_Sethi Biju_Janata_Dal
+
+Arlen_Specter Democratic_Party
 
 Arlene_Foster Democratic_Unionist_Party
 
@@ -242,11 +690,31 @@ Arlene_Foster Ulster_Unionist_Party
 
 Armando_Guebuza FRELIMO
 
+Armond_Budish Democratic_Party
+
 Arnaldo_Otegi Sortu
+
+Arnaud_Montebourg Socialist_Party
+
+Arne_Duncan Democratic_Party
 
 Arnoldo_Alemán Constitutionalist_Liberal_Party
 
 Arseniy_Yatsenyuk Batkivshchyna
+
+Art_Agnos Democratic_Party
+
+Arthenia_Joyner Democratic_Party
+
+Arthur_Levitt Democratic_Party
+
+Arthur_Meighen Unionist_Party
+
+Artis_Pabriks Unity
+
+Artur_Davis Democratic_Party
+
+Arturo_Parisi Democratic_Party
 
 Arturo_Tolentino Nacionalista_Party
 
@@ -261,6 +729,8 @@ Arun_Verma Samajwadi_Party
 Arvind_Patel Bhartiya_Janata_Party
 
 Arvind_Sawant Shiv_Sena
+
+Asa_Packer Democratic_Party
 
 Ashish_Shelar Bharatiya_Janata_Party
 
@@ -280,13 +750,35 @@ Ashwini_Kumar_Choubey Bharatiya_Janata_Party
 
 Asit_Vora Bhartiya_Janata_Party
 
+Askar_Akayev Independent
+
 Askar_Mamin Nur_Otan
 
 Atal_Bihari_Vajpayee Bharatiya_Janata_Party
 
+Ataur_Rahman_Khan Jatiya_Party
+
 Attila_Mesterházy Hungarian_Socialist_Party
 
+Audie_Bock Democratic_Party
+
+Audrey_Pheffer Democratic_Party
+
 Augustine_Mahiga Chama_Cha_Mapinduzi
+
+Augusto_Amador Democratic_Party
+
+Augustus_Owsley_Stanley Democratic_Party
+
+Austan_Goolsbee Democratic_Party
+
+Austin_Badon Democratic_Party
+
+Austin_Gatt Nationalist_Party
+
+Austin_Peay Democratic_Party
+
+Avel_Gordly Democratic_Party
 
 Avinash_Chander Shiromani_Akali_Dal
 
@@ -294,9 +786,15 @@ Avinash_Rai_Khanna Bharatiya_Janata_Party
 
 Avril_Doyle Fine_Gael
 
+Ayaan_Hirsi_Ali Labour_Party
+
+Ayanna_Pressley Democratic_Party
+
 Ayanur_Manjunath Bharatiya_Janata_Party
 
 Ayong_Maliksi Laban_ng_Demokratikong_Pilipino
+
+Ayong_Maliksi Liberal_Party
 
 Ayong_Maliksi Pwersa_ng_Masang_Pilipino
 
@@ -308,17 +806,29 @@ Azan_Ismail Parti_Keadilan_Rakyat
 
 Azizan_Abdul_Razak Pakatan_Rakyat
 
+Azuma_Koshiishi Democratic_Party
+
+B._Lynn_Winmill Democratic_Party
+
 B._Sriramulu Bharatiya_Janata_Party
 
+Babette_Josephs Democratic_Party
+
 Babul_Supriyo Bharatiya_Janata_Party
+
+Babulal_Marandi Jharkhand_Vikas_Morcha
 
 Bachir_Gemayel Kataeb
 
 Bairbre_de_Brún Sinn_Féin
 
+Bakari_Sellers Democratic_Party
+
 Bakhyt_Sultanov Nur_Otan
 
 Bakhytzhan_Zhumagulov Nur_Otan
+
+Bako_Sahakyan Independent
 
 Baktykozha_Izmukhambetov Nur_Otan
 
@@ -354,9 +864,57 @@ Bangaru_Laxman Bharatiya_Janata_Party
 
 Banwarilal_Purohit Bharatiya_Janata_Party
 
+Barack_Obama Democratic_Party
+
+Barbara_Ann_Radnofsky Democratic_Party
+
+Barbara_Boxer Democratic_Party
+
+Barbara_Buckley Democratic_Party
+
+Barbara_Buono Democratic_Party
+
+Barbara_Favola Democratic_Party
+
+Barbara_Fleischauer Democratic_Party
+
+Barbara_Gronemus Democratic_Party
+
+Barbara_Hafer Democratic_Party
+
+Barbara_Lawton Democratic_Party
+
+Barbara_Lifton Democratic_Party
+
+Barbara_Mallory_Caraway Democratic_Party
+
+Barbara_McIlvaine_Smith Democratic_Party
+
+Barbara_Mikulski Democratic_Party
+
+Barbara_Pollastrini Democratic_Party
+
+Barbara_Sharief Democratic_Party
+
+Barbara_Toles Democratic_Party
+
 Barnaba_Marial_Benjamin SPLM
 
+Barney_Frank Democratic_Party
+
+Barry_Finegold Democratic_Party
+
+Barry_Grodenchik Democratic_Party
+
 Barry_McElduff Sinn_Féin
+
+Bart_Gordon Democratic_Party
+
+Bart_Peterson Democratic_Party
+
+Bart_Staes Groen
+
+Bart_Stupak Democratic_Party
 
 Basavaraj_Bommai Bharatiya_Janata_Party
 
@@ -366,13 +924,65 @@ Basil_Mramba Chama_Cha_Mapinduzi
 
 Batt_O'Keeffe Fianna_Fáil
 
+Beau_Biden Democratic_Party
+
+Bella_Abzug Democratic_Party
+
+Ben_Affleck Democratic_Party
+
+Ben_Cardin Democratic_Party
+
+Ben_Cayetano Democratic_Party
+
+Ben_Konop Democratic_Party
+
+Ben_Luján Democratic_Party
+
+Ben_Nesselhuf Democratic_Party
+
+Ben_Nevers Democratic_Party
+
+Ben_Nighthorse_Campbell Democratic_Party
+
+Ben_Ray_Luján Democratic_Party
+
+Ben_Westlund Democratic_Party
+
+Benedicto_Kiwanuka Democratic_Party
+
+Beng_Climaco Liberal_Party
+
 Beni_Prasad_Verma Samajwadi_Party
 
+Benigno_Aquino_III Liberal_Party
+
+Benigno_Aquino_Jr. Liberal_Party
+
+Benito_Juárez Liberal_Party
+
 Benjamin_Abalos Lakas_Kampi_CMD
+
+Benjamin_Civiletti Democratic_Party
+
+Benjamin_Disraeli Conservative_Party
+
+Benjamin_Lawsky Democratic_Party
 
 Benjamin_Mkapa Chama_cha_Mapinduzi
 
 Benjamin_Netanyahu Likud
+
+Bennie_Thompson Democratic_Party
+
+Bennion_Spencer Democratic_Party
+
+Benny_Napoleon Democratic_Party
+
+Benny_Petrus Democratic_Party
+
+Benoît_Hamon Socialist_Party
+
+Bernadette_Devlin_McAliskey Independent
 
 Bernard_Bigras Bloc_Québécois
 
@@ -380,19 +990,89 @@ Bernard_Drainville Parti_Québécois
 
 Bernard_Durkan Fine_Gael
 
+Bernard_Jenkin Conservative_Party
+
+Bernard_Kouchner Independent
+
 Bernard_Landry Parti_Québécois
+
+Bernard_LeBas Democratic_Party
 
 Bernard_Membe Chama_Cha_Mapinduzi
 
+Bernard_Weatherill Conservative_Party
+
 Bernard_Weatherill Crossbencher
+
+Bernard_Weinraub Democratic_Party
+
+Bernice_Mathews Democratic_Party
+
+Bernie_Buescher Democratic_Party
+
+Bernie_Hunhoff Democratic_Party
+
+Bernie_Sanders Democratic_Party
+
+Bernita_Sims Democratic_Party
+
+Bert_Koenders Labour_Party
+
+Berta_Gardner Democratic_Party
 
 Bertie_Ahern Fianna_Fáil
 
+Bertrand_Delanoë Socialist_Party
+
+Bess_Truman Democratic_Party
+
+Bessie_Braddock Labour_Party
+
+Beth_Brinkmann Democratic_Party
+
+Beth_Bye Democratic_Party
+
+Beth_Kerttula Democratic_Party
+
+Beth_Krom Democratic_Party
+
 Bethan_Jenkins Plaid_Cymru
+
+Beto_O'Rourke Democratic_Party
+
+Betsey_Stevenson Democratic_Party
+
+Betsi_DeVries Democratic_Party
+
+Betsy_Gotbaum Democratic_Party
+
+Betsy_Hannig Democratic_Party
+
+Betsy_Markey Democratic_Party
+
+Bette_Lasky Democratic_Party
 
 Betty_Boothroyd Crossbencher
 
+Betty_Castor Democratic_Party
+
+Betty_Karnette Democratic_Party
+
+Betty_Komp Democratic_Party
+
+Betty_Sutton Democratic_Party
+
+Bev_Desjarlais Independent
+
+Bev_Perdue Democratic_Party
+
+Bevan_Dufty Democratic_Party
+
 Beverley_Flynn Fianna_Fáil
+
+Beverley_Hughes Labour_Party
+
+Beverly_Marrero Democratic_Party
 
 Beyene_Petros Medrek
 
@@ -420,29 +1100,173 @@ Biju_Patnaik Janata_Dal
 
 Bikram_Singh_Majithia Shiromani_Akali_Dal
 
+Bill_Anoatubby Democratic_Party
+
+Bill_Bogaard Democratic_Party
+
+Bill_Clinton Democratic_Party
+
+Bill_DeWeese Democratic_Party
+
+Bill_Deedes Conservative_Party
+
+Bill_Delahunt Democratic_Party
+
+Bill_Esterson Labour_Party
+
+Bill_Feuerborn Democratic_Party
+
+Bill_Gluba Democratic_Party
+
+Bill_Gwatney Democratic_Party
+
+Bill_Halter Democratic_Party
+
+Bill_Lockyer Democratic_Party
+
+Bill_McCamley Democratic_Party
+
+Bill_Monning Democratic_Party
+
+Bill_Moyers Democratic_Party
+
+Bill_Olner Labour_Party
+
+Bill_Paparian Independent
+
+Bill_Pascrell Democratic_Party
+
+Bill_Patmon Democratic_Party
+
+Bill_Peduto Democratic_Party
+
+Bill_Rammell Labour_Party
+
+Bill_Ritter Democratic_Party
+
+Bill_Rosendahl Democratic_Party
+
+Bill_Sarto Democratic_Party
+
+Bill_Wielechowski Democratic_Party
+
+Bill_de_Blasio Democratic_Party
+
 Billy_Abit_Joo Parti_Rakyat_Sarawak
+
+Billy_Graham Democratic_Party
+
+Billy_Kenoi Democratic_Party
+
+Billy_Tauzin Democratic_Party
 
 Bimal_Gurung Gorkha_Janmukti_Morcha
 
 Bimalendra_Nidhi Nepali_Congress
 
+Birch_Bayh Democratic_Party
+
 Bishnu_Charan_Das Biju_Janata_Dal
+
+Biswanath_Chowdhury Revolutionary_Socialist_Party
+
+Blake_Oshiro Democratic_Party
+
+Blanche_Lincoln Democratic_Party
 
 Blas_Ople Laban_ng_Demokratikong_Pilipino
 
+Blondell_Reynolds_Brown Democratic_Party
+
+Bo_Gritz Populist_Party
+
+Bob_Ainsworth Labour_Party
+
+Bob_Beckel Democratic_Party
+
+Bob_Bergren Democratic_Party
+
+Bob_Blumenfield Democratic_Party
+
+Bob_Buckhorn Democratic_Party
+
+Bob_Constan Democratic_Party
+
+Bob_Deig Democratic_Party
+
+Bob_Etheridge Democratic_Party
+
+Bob_Filner Democratic_Party
+
+Bob_Katter Independent
+
+Bob_Kerrey Democratic_Party
+
+Bob_Menendez Democratic_Party
+
+Bob_Perciasepe Democratic_Party
+
+Bob_Shrum Democratic_Party
+
+Bob_Sindler Democratic_Party
+
+Bob_Tuke Democratic_Party
+
+Bob_Wareing Independent
+
+Bob_Wieckowski Democratic_Party
+
+Bob_Ziegelbauer Independent
+
+Bob_Ziegelbauer Democratic_Party
+
+Bobby_Badon Democratic_Party
+
+Bobby_Bright Democratic_Party
+
+Bobby_Rush Democratic_Party
+
+Bobby_Shriver Democratic_Party
+
 Bogdan_Borusewicz Civic_Platform
+
+Bogdan_Borusewicz Independent
 
 Bogdan_Klich Civic_Platform
 
 Bogdan_Zdrojewski Civic_Platform
 
+Bojan_Pajtić Democratic_Party
+
 Bolat_Zhamishev Nur_Otan
+
+Bonar_Law Conservative_Party
 
 Bongbong_Marcos Nacionalista_Party
 
+Bonnie_Cullison Democratic_Party
+
+Boris_Johnson Conservative_Party
+
 Boris_Nemtsov Solidarnost
 
+Boris_Yeltsin Independent
+
+Borris_Miles Democratic_Party
+
+Bothaina_Kamel Independent
+
 Boyko_Borissov GERB
+
+Božidar_Đelić Democratic_Party
+
+Brad_Avakian Democratic_Party
+
+Brad_Cathers Independent
+
+Brad_Ellsworth Democratic_Party
+
+Brad_Hutto Democratic_Party
 
 Brahmananda_Panda Biju_Janata_Dal
 
@@ -452,13 +1276,49 @@ Brajesh_Mishra Bharatiya_Janata_Party
 
 Brajesh_Pathak Bharatiya_Janata_Party
 
+Brenda_Clack Democratic_Party
+
+Brendan_Howlin Labour_Party
+
 Brendan_Kenneally Fianna_Fáil
 
+Brendan_Sharkey Democratic_Party
+
+Brent_Budowsky Democratic_Party
+
+Brent_Rathgeber Independent
+
+Brent_Yonts Democratic_Party
+
+Bret_Schundler Democratic_Party
+
+Brett_Hulsey Democratic_Party
+
+Brian_Beedenbender Democratic_Party
+
+Brian_Binley Conservative_Party
+
 Brian_Cowen Fianna_Fáil
+
+Brian_Iddon Labour_Party
+
+Brian_Iddon Labour_Party
+
+Brian_Schweitzer Democratic_Party
+
+Brian_Sedgemore Liberal_Democrats
 
 Brian_Storseth Conservative
 
 Brian_Ó_Domhnaill Fianna_Fáil
+
+Brickwood_Galuteria Democratic_Party
+
+Bridget_Phillipson Labour_Party
+
+Bridget_Prentice Labour_Party
+
+Brien_McMahon Democratic_Party
 
 Brijmohan_Agrawal Bharatiya_Janata_Party
 
@@ -466,13 +1326,69 @@ Brindaban_Goswami Asom_Gana_Parishad
 
 Bronisław_Komorowski Civic_Platform
 
+Bruce_Babbitt Democratic_Party
+
+Bruce_Botelho Democratic_Party
+
+Bruce_Braley Democratic_Party
+
+Bruce_Breslow Democratic_Party
+
+Bruce_Lunsford Democratic_Party
+
+Bruce_Sundlun Democratic_Party
+
+Bruno_Julliard Socialist_Party
+
+Bruno_Le_Roux Socialist_Party
+
+Bryan_Barbin Democratic_Party
+
+Bryan_Lentz Democratic_Party
+
+Bryce_Edgmon Democratic_Party
+
+Bubber_Epps Democratic_Party
+
+Buddy_Caldwell Democratic_Party
+
+Buddy_Dyer Democratic_Party
+
+Buddy_Leach Democratic_Party
+
+Buddy_MacKay Democratic_Party
+
+Buffie_McFadyen Democratic_Party
+
+Bull_Connor Democratic_Party
+
 Bull_Connor Dixiecrat
 
 Bullet_Prakash Bharatiya_Janata_Party
 
+Butch_Gautreaux Democratic_Party
+
+Buzz_Westfall Democratic_Party
+
+Byron_Dorgan Democratic_Party
+
+Byron_Mallott Democratic_Party
+
+Byron_Rushing Democratic_Party
+
+Byron_Sher Democratic_Party
+
+Børge_Brende Conservative_Party
+
 C._Rajagopalachari Swatantra_Party
 
+C._Rangarajan Independent
+
+Caitlin_Halligan Democratic_Party
+
 Caitríona_Ruane Sinn_Féin
+
+Calvin_Smyre Democratic_Party
 
 Camil_Bouchard Parti_Québécois
 
@@ -482,7 +1398,39 @@ Camillus_Glynn Fianna_Fáil
 
 Canaan_Banana ZANU
 
+Candy_Ruff Democratic_Party
+
 Caoimhghín_Ó_Caoláin Sinn_Féin
+
+Capri_Cafaro Democratic_Party
+
+Capricia_Marshall Democratic_Party
+
+Cardiss_Collins Democratic_Party
+
+Carl_Bergmanson Democratic_Party
+
+Carl_Danberg Democratic_Party
+
+Carl_Heastie Democratic_Party
+
+Carl_Kruger Democratic_Party
+
+Carl_Levin Democratic_Party
+
+Carl_McCall Democratic_Party
+
+Carl_Paladino Democratic_Party
+
+Carl_Sciortino Democratic_Party
+
+Carla_Blanchard_Dartez Democratic_Party
+
+Carlo_Azeglio_Ciampi Independent
+
+Carlo_Azeglio_Ciampi Democratic_Party
+
+Carlos_Henriquez Democratic_Party
 
 Carlos_Isagani_Zarate Bayan_Muna
 
@@ -490,27 +1438,117 @@ Carlos_Menem Justicialist_Party
 
 Carlos_Tomada Justicialist_Party
 
+Carlos_Truan Democratic_Party
+
+Carlos_Uresti Democratic_Party
+
 Carmelo_Abela Partit_Laburista
+
+Carmen_Chu Democratic_Party
+
+Carmencita_Reyes Liberal_Party
 
 Carmencita_Reyes Kilusang_Bagong_Lipunan
 
+Carmine_DeSapio Democratic_Party
+
+Carol_Alvarado Democratic_Party
+
+Carol_Browner Democratic_Party
+
+Carol_Chumney Democratic_Party
+
+Carol_Moseley_Braun Democratic_Party
+
+Carol_Ronen Democratic_Party
+
 Carole_Lavallée Bloc_Québécois
+
+Carole_Migden Democratic_Party
+
+Carolene_Mays Democratic_Party
+
+Caroline_Dinenage Conservative_Party
+
+Caroline_Fayard Democratic_Party
+
+Caroline_Flint Labour_Party
+
+Caroline_Kennedy Democratic_Party
+
+Caroline_Nokes Conservative_Party
 
 Caroline_Pidgeon Liberal_Democrats
 
+Caroline_Spelman Conservative_Party
+
+Carolyn_Cheeks_Kilpatrick Democratic_Party
+
+Carolyn_Dykema Democratic_Party
+
+Carolyn_Hugley Democratic_Party
+
 Carolyn_Leckie Scottish_Socialist_Party
+
+Carolyn_Maloney Democratic_Party
+
+Carolyn_McCarthy Democratic_Party
+
+Carolyn_Parrish Independent
+
+Carolyn_Tomei Democratic_Party
+
+Carte_Goodwin Democratic_Party
+
+Carty_Finkbeiner Democratic_Party
+
+Cass_Sunstein Democratic_Party
 
 Cassy_O'Connor Tasmanian_Greens
 
+Catherine_Ashton Labour_Party
+
+Catherine_Cortez_Masto Democratic_Party
+
+Catherine_McKinnell Labour_Party
+
+Catherine_Stihler Labour_Party
+
+Catherine_Trautmann Socialist_Party
+
+Cathy_Hudgins Democratic_Party
+
+Cathy_Osten Democratic_Party
+
+Cathy_Zoi Democratic_Party
+
 Catriona_Bhatia Liberal_Democrats
+
+Cecil_Bothwell Democratic_Party
+
+Cecile_Richards Democratic_Party
 
 Cecilia_Keaveney Fianna_Fáil
 
+Cecilia_Muñoz Democratic_Party
+
+Cedric_Glover Democratic_Party
+
+Celia_Barlow Labour_Party
+
 Celso_Lobregat Laban_ng_Demokratikong_Pilipino
+
+Cesar_Maia Democrats
 
 Cesar_Virata Kilusang_Bagong_Lipunan
 
 Cesare_Previti Forza_Italia
+
+Chad_Causey Democratic_Party
+
+Chaim_Herzog Alignment
+
+Chaka_Fattah Democratic_Party
 
 Chalerm_Yubamrung Pheu_Thai_Party
 
@@ -522,6 +1560,8 @@ Chandra_Mohan_Patowary Asom_Gana_Parishad
 
 Chandra_Mohan_Patowary Bharatiya_Janata_Party
 
+Chandra_Shekhar Samajwadi_Janata_Party
+
 Chandrakant_Khaire Shiv_Sena
 
 Chandrakant_Mokate Shiv_Sena
@@ -530,13 +1570,57 @@ Chandrasena_Wijesinghe Janatha_Vimukthi_Peramuna
 
 Chaovarat_Chanweerakul Bhumjaithai_Party
 
+Chap_Petersen Democratic_Party
+
+Charan_Singh Janata_Party
+
 Charanjit_Singh_Atwal Shiromani_Akali_Dal
 
+Charlene_Barshefsky Democratic_Party
+
+Charles_Bradlaugh Liberal_Party
+
+Charles_Foti Democratic_Party
+
 Charles_Haughey Fianna_Fáil
+
+Charles_Mainor Democratic_Party
+
+Charles_Mangion Labour_Party
+
+Charles_Meeker Democratic_Party
+
+Charles_Ogletree Democratic_Party
+
+Charles_Rangel Democratic_Party
+
+Charles_Stenholm Democratic_Party
+
+Charles_Tannock Conservative_Party
+
+Charles_Vanik Democratic_Party
+
+Charleta_Tavares Democratic_Party
+
+Charlie_Crist Democratic_Party
+
+Charlie_Elphicke Conservative_Party
+
+Charlie_Laster Democratic_Party
+
+Charlie_Luken Democratic_Party
 
 Charlie_McConalogue Fianna_Fáil
 
 Charlie_McCreevy Fianna_Fáil
+
+Charlie_Melancon Democratic_Party
+
+Charlie_Norr Democratic_Party
+
+Charlotte_Golar_Richie Democratic_Party
+
+Charlton_Heston Democratic_Party
 
 Chaturon_Chaisang Pheu_Thai_Party
 
@@ -548,29 +1632,211 @@ Chea_Vichea Sam_Rainsy_Party
 
 Cheam_Channy Sam_Rainsy_Party
 
+Chellie_Pingree Democratic_Party
+
+Chelsa_Wagner Democratic_Party
+
+Cherelle_Parker Democratic_Party
+
+Cheri_Jahn Democratic_Party
+
+Cherie_Blair Labour_Party
+
+Cheryl_Gillan Conservative_Party
+
+Chet_Culver Democratic_Party
+
+Chet_Dobis Democratic_Party
+
+Chet_Edwards Democratic_Party
+
 Chhedi_Paswan Bharatiya_Janata_Party
+
+Chi_Onwurah Labour_Party
 
 Chin_Peng Malayan_Communist_Party
 
 Chitra_Lekha_Yadav Nepali_Congress
 
+Chris_Beutler Democratic_Party
+
+Chris_Coons Democratic_Party
+
+Chris_Daggett Independent
+
+Chris_Danou Democratic_Party
+
+Chris_Dodd Democratic_Party
+
+Chris_Giunchigliani Democratic_Party
+
+Chris_Grayling Conservative_Party
+
+Chris_Hartcher Independent
+
 Chris_Huhne Liberal_Democrats
+
+Chris_Koster Democratic_Party
+
+Chris_Reykdal Democratic_Party
+
+Chris_Rothfuss Democratic_Party
+
+Chris_Sainato Democratic_Party
+
+Chris_Thyer Democratic_Party
+
+Chris_Ullo Democratic_Party
+
+Chris_Van_Hollen Democratic_Party
+
+Christian_Wolmar Labour_Party
 
 Christiane_Gagnon Bloc_Québécois
 
+Christie_Vilsack Democratic_Party
+
+Christina_Olague Democratic_Party
+
+Christina_Romer Democratic_Party
+
+Christine_Gregoire Democratic_Party
+
+Christine_Kehoe Democratic_Party
+
+Christine_McCafferty Labour_Party
+
 Christine_Milne Tasmanian_Greens
 
+Christine_Quinn Democratic_Party
+
+Christine_Rolfes Democratic_Party
+
+Christine_Scanlan Democratic_Party
+
+Christine_Sinicki Democratic_Party
+
+Christopher_Cabaldon Democratic_Party
+
+Christopher_Chope Conservative_Party
+
+Christopher_Pincher Conservative_Party
+
+Christopher_Speranzo Democratic_Party
+
 Christos_Papoutsis Panhellenic_Socialist_Movement
+
+Chuck_Espy Democratic_Party
+
+Chuck_Hassebrook Democratic_Party
+
+Chuck_Hopson Democratic_Party
+
+Chuck_Hoskin Democratic_Party
+
+Chuck_Schumer Democratic_Party
+
+Chuka_Umunna Labour_Party
 
 Ciaran_Brogan Fianna_Fáil
 
 Ciarán_Cannon Fine_Gael
 
+Ciarán_Lynch Labour_Party
+
+Cindy_Rosenwald Democratic_Party
+
+Cindy_Sheehan Independent
+
+Cindy_Sheehan Democratic_Party
+
+Ciro_Rodriguez Democratic_Party
+
+Cisco_McSorley Democratic_Party
+
+Claiborne_Pell Democratic_Party
+
+Claire_Kober Labour_Party
+
+Claire_McCaskill Democratic_Party
+
+Clare_Short Independent
+
+Clarence_Dupnik Democratic_Party
+
+Clarence_Lightner Democratic_Party
+
 Claude_Bachand Bloc_Québécois
+
+Claude_Bartolone Socialist_Party
+
+Claude_Moraes Labour_Party
+
+Claudia_Kauffman Democratic_Party
+
+Claudia_Webbe Labour_Party
+
+Claudio_Scajola Forza_Italia
+
+Claus_Hjort_Frederiksen Venstre
+
+Clayton_Hee Democratic_Party
+
+Clem_McSpadden Democratic_Party
+
+Clement_Attlee Labour_Party
+
+Clement_Freud Liberal_Party
+
+Clement_Haynsworth Democratic_Party
+
+Clement_Vallandigham Democratic_Party
+
+Clemente_Mastella Forza_Italia
+
+Cleo_Fields Democratic_Party
+
+Cleon_Turner Democratic_Party
+
+Cleta_Mitchell Democratic_Party
+
+Clifford_Durr Democratic_Party
 
 Clint_Eastwood Libertarian
 
+Clint_Stennett Democratic_Party
+
+Clint_Zweifel Democratic_Party
+
+Clive_Betts Labour_Party
+
+Clive_Efford Labour_Party
+
+Clover_Moore Independent
+
+Clyde_Fant Democratic_Party
+
+Clyde_Kersey Democratic_Party
+
+Clyde_Puli Nationalist_Party
+
+Coleen_Seng Democratic_Party
+
+Colin_Burgon Labour_Party
+
+Colin_Challen Labour_Party
+
+Colin_Pickthall Labour_Party
+
+Colin_Van_Ostern Democratic_Party
+
+Colleen_Hanabusa Democratic_Party
+
 Colm_Keaveney Fianna_Fáil
+
+Condoleezza_Rice Democratic_Party
+
+Connie_Pillich Democratic_Party
 
 Conor_Lenihan Fianna_Fáil
 
@@ -580,67 +1846,337 @@ Constance_Markievicz Fianna_Fáil
 
 Constance_Markievicz Sinn_Féin
 
+Corazon_Aquino Liberal_Party
+
+Cordell_Hull Democratic_Party
+
+Cornelia_Wallace Democratic_Party
+
+Corrine_Brown Democratic_Party
+
+Cory_Booker Democratic_Party
+
 Costas_Simitis Panhellenic_Socialist_Movement
+
+Craig_Eiland Democratic_Party
+
+Craig_Fitzhugh Democratic_Party
+
+Craig_Fugate Democratic_Party
+
+Craig_Pridemore Democratic_Party
+
+Creigh_Deeds Democratic_Party
+
+Crisanta_Duran Democratic_Party
 
 Crispin_Beltran Bayan_Muna
 
 Crispin_Beltran Anakpawis
 
+Crispin_Blunt Conservative_Party
+
+Crit_Luallen Democratic_Party
+
+Cruz_Bustamante Democratic_Party
+
+Cruz_Reynoso Democratic_Party
+
+Cuauhtémoc_Cárdenas Independent
+
 Cuauhtémoc_Cárdenas Institutional_Revolutionary_Party
 
+Cullie_Tarleton Democratic_Party
+
+Curren_Price Democratic_Party
+
+Curt_Anderson Democratic_Party
+
+Cyd_Ho Labour_Party
+
 Cynog_Dafis Plaid_Cymru
+
+Cynthia_L._Bauerly Democratic_Party
+
+Cynthia_McKinney Democratic_Party
+
+Cynthia_Nava Democratic_Party
+
+Cynthia_Stone_Creem Democratic_Party
 
 Cynthia_Villar Nacionalista_Party
 
 Cyprian_Brady Fianna_Fáil
 
+Cyril_Wecht Democratic_Party
+
+Cyrus_Vance Democratic_Party
+
 César_Pérez_Vivas COPEI
+
+Dadabhai_Naoroji Liberal_Party
 
 Dafydd_Wigley Plaid_Cymru
 
 Daggubati_Purandeswari Bharatiya_Janata_Party
 
+Dai_Havard Labour_Party
+
+Dale_Bumpers Democratic_Party
+
+Dale_Hargens Democratic_Party
+
+Dale_Kildee Democratic_Party
+
+Dale_Sheltrown Democratic_Party
+
+Dale_Sittig Democratic_Party
+
+Dalip_Singh_Saund Democratic_Party
+
 Daljit_Singh_Cheema Shiromani_Akali_Dal
 
 Damian_Hockney Veritas
 
+Dan_Besse Democratic_Party
+
+Dan_Boren Democratic_Party
+
+Dan_Gelber Democratic_Party
+
+Dan_Glickman Democratic_Party
+
+Dan_K._Morhaim Democratic_Party
+
+Dan_Kildee Democratic_Party
+
+Dan_Kotowski Democratic_Party
+
+Dan_Lipinski Democratic_Party
+
+Dan_Maffei Democratic_Party
+
+Dan_O'Herlihy Democratic_Party
+
+Dan_Onorato Democratic_Party
+
+Dan_Reneau Democratic_Party
+
+Dan_Rostenkowski Democratic_Party
+
+Dan_Sabbagh Labour_Party
+
+Dan_Snarr Democratic_Party
+
+Dan_Tangherlini Democratic_Party
+
+Dan_Voiculescu Conservative_Party
+
+Dana_Redd Democratic_Party
+
+Daniel_Akaka Democratic_Party
+
+Daniel_Dromm Democratic_Party
+
 Daniel_Filmus Justicialist_Party
+
+Daniel_Garodnick Democratic_Party
+
+Daniel_Inouye Democratic_Party
+
+Daniel_Kawczynski Conservative_Party
+
+Daniel_Mongiardo Democratic_Party
 
 Daniel_Paillé Parti_Québécois
 
 Daniel_Paillé Bloc_Québécois
 
+Daniel_Poneman Democratic_Party
+
 Daniel_Scioli Justicialist_Party
+
+Daniel_Tarullo Democratic_Party
 
 Daniel_Turp Parti_Québécois
 
 Daniel_Turp Bloc_Québécois
 
+Daniel_Yohannes Democratic_Party
+
+Daniel_Zeichner Labour_Party
+
+Danilo_Lim Liberal_Party
+
+Dannel_Malloy Democratic_Party
+
+Dante_Fascell Democratic_Party
+
 Danuta_Hübner Civic_Platform
+
+Dapper_O'Neil Democratic_Party
 
 Dara_Calleary Fianna_Fáil
 
 Darbari_Lal Bharatiya_Janata_Party
 
+Darcy_Burner Democratic_Party
+
 Dariga_Nazarbayeva Nur_Otan
 
+Dario_Franceschini Democratic_Party
+
+Dario_Herrera Democratic_Party
+
+Darlene_Mealy Democratic_Party
+
+Darrel_Aubertine Democratic_Party
+
+Darrell_McGraw Democratic_Party
+
+Darrell_Steinberg Democratic_Party
+
+Darryl_Rouson Democratic_Party
+
+Dave_Bieter Democratic_Party
+
+Dave_Bing Democratic_Party
+
+Dave_Cieslewicz Democratic_Party
+
+Dave_Freudenthal Democratic_Party
+
+Dave_Gallik Democratic_Party
+
+Dave_Loebsack Democratic_Party
+
+Dave_McCurdy Democratic_Party
+
+Dave_Nellist Socialist_Party
+
+Dave_Obey Democratic_Party
+
+David_Amess Conservative_Party
+
+David_Axelrod Democratic_Party
+
+David_Blunkett Labour_Party
+
+David_Boies Democratic_Party
+
+David_Chaytor Labour_Party
+
+David_Cicilline Democratic_Party
+
+David_Crausby Labour_Party
+
+David_Dinkins Democratic_Party
+
+David_Evennett Conservative_Party
+
+David_Gauke Conservative_Party
+
+David_Kilgour Independent
+
+David_Lammy Labour_Party
+
+David_Levdansky Democratic_Party
+
+David_Lidington Conservative_Party
+
 David_McNarry Ulster_Unionist_Party
+
+David_Miliband Labour_Party
 
 David_Mwakyusa Chama_Cha_Mapinduzi
 
 David_Namwandi SWAPO
 
+David_Orentlicher Democratic_Party
+
+David_Plouffe Democratic_Party
+
+David_Ruffley Conservative_Party
+
+David_Satcher Democratic_Party
+
+David_Schapira Democratic_Party
+
+David_Sokola Democratic_Party
+
+David_Weprin Democratic_Party
+
+David_Willetts Conservative_Party
+
+David_Winderlich Independent
+
 Daviz_Simango RENAMO
 
 Davy_Hyland Sinn_Féin
+
+Dawn_Clark_Netsch Democratic_Party
+
+Dawn_Primarolo Labour_Party
+
+Dawn_Purvis Independent
+
+Dawn_Zimmer Democratic_Party
+
+Dawnna_Dukes Democratic_Party
 
 Dayanand_Mandrekar Bharatiya_Janata_Party
 
 Dayanidhi_Maran Dravida_Munnetra_Kazhagam
 
+Daylin_Leach Democratic_Party
+
+Dayne_Walling Democratic_Party
+
+Dean_DePiero Democratic_Party
+
+Dean_Florez Democratic_Party
+
+Dean_Rusk Democratic_Party
+
+Dean_Takko Democratic_Party
+
+Deanna_Demuzio Democratic_Party
+
+Deb_Mell Democratic_Party
+
+Debbie_Abrahams Labour_Party
+
+Debbie_Dingell Democratic_Party
+
+Debbie_Halvorson Democratic_Party
+
+Debbie_Stabenow Democratic_Party
+
+Debbie_Wasserman_Schultz Democratic_Party
+
+Deberah_Kula Democratic_Party
+
+Deborah_Hersman Democratic_Party
+
+Deborah_Kafoury Democratic_Party
+
+Deborah_Markowitz Democratic_Party
+
+Deborah_Senn Democratic_Party
+
+Debra_Bowen Democratic_Party
+
+Debra_DeLee Democratic_Party
+
 Declan_Kearney Sinn_Féin
 
+Dede_Scozzafava Democratic_Party
+
+Dee_Dee_Myers Democratic_Party
+
 Dee_Doocey Liberal_Democrats
+
+Deedee_Corradini Democratic_Party
 
 Deendayal_Upadhyaya Bharatiya_Jana_Sangh
 
@@ -648,17 +2184,81 @@ Deepak_Sawant Shiv_Sena
 
 Deirdre_Clune Fine_Gael
 
+Delaine_Eastin Democratic_Party
+
+Della_Au_Belatti Democratic_Party
+
+Delores_McQuinn Democratic_Party
+
+Demetrios_Marantis Democratic_Party
+
+Demetrius_Atsalis Democratic_Party
+
+Denis_Guyer Democratic_Party
+
+Denis_Healey Labour_Party
+
+Denis_MacShane Labour_Party
+
+Denis_McDonough Democratic_Party
+
 Denis_Naughten Fine_Gael
 
 Denis_O'Donovan Fianna_Fáil
 
+Denis_Thatcher Conservative_Party
+
 Denis_Verdini Forza_Italia
+
+Denis_Verdini Forza_Italia
+
+Denise_Driehaus Democratic_Party
+
+Denise_Ilitch Democratic_Party
+
+Denise_L._Nappier Democratic_Party
+
+Denise_Majette Democratic_Party
+
+Dennie_Oxley Democratic_Party
+
+Dennis_Apuan Democratic_Party
+
+Dennis_Canario Democratic_Party
+
+Dennis_Cardoza Democratic_Party
+
+Dennis_DeConcini Democratic_Party
+
+Dennis_Feickert Democratic_Party
+
+Dennis_Kucinich Democratic_Party
+
+Dennis_Olshove Democratic_Party
+
+Derek_Chollet Democratic_Party
+
+Derek_Kilmer Democratic_Party
+
+Derek_Laud Conservatives
+
+Derek_Twigg Labour_Party
 
 Dermot_Ahern Fianna_Fáil
 
+Dermot_Lacey Labour_Party
+
 Dermot_Nesbitt Ulster_Unionist_Party
 
+Des_Browne Labour_Party
+
+Desirée_Rogers Democratic_Party
+
+Desmond_Swayne Conservative_Party
+
 Dessie_Larkin Fianna_Fáil
+
+Deval_Patrick Democratic_Party
 
 Devendra_Fadnavis Bharatiya_Janata_Party
 
@@ -676,6 +2276,50 @@ Dharmendra_Yadav Samajwadi_Party
 
 Dhruba_Bahadur_Pradhan Rastriya_Prajatantra_Party
 
+Dian_Slavens Democratic_Party
+
+Diana_DeGette Democratic_Party
+
+Diana_Dragutinović Democratic_Party
+
+Diana_Gribbon_Motz Democratic_Party
+
+Diana_Rauner Democratic_Party
+
+Diana_Reyna Democratic_Party
+
+Diane_Bilyeu Democratic_Party
+
+Diane_Denish Democratic_Party
+
+Diane_Ravitch Democratic_Party
+
+Diane_Rosenbaum Democratic_Party
+
+Diane_Savino Democratic_Party
+
+Dianne_Byrum Democratic_Party
+
+Dianne_Feinstein Democratic_Party
+
+Dianne_Primavera Democratic_Party
+
+Dianne_Wilkerson Democratic_Party
+
+Dick_Durbin Democratic_Party
+
+Dick_Gephardt Democratic_Party
+
+Dick_Molpus Democratic_Party
+
+Dick_Sawle Independent
+
+Dick_Taverne Labour_Party
+
+Didier_Migaud Socialist_Party
+
+Dido_Harding Conservative_Party
+
 Dilip_Ghosh Bharatiya_Janata_Party
 
 Dilip_Patel Bharatiya_Janata_Party
@@ -686,6 +2330,8 @@ Dimitris_Reppas Panhellenic_Socialist_Movement
 
 Dimple_Yadav Samajwadi_Party
 
+Dina_Titus Democratic_Party
+
 Dinesh_Gunawardena Mahajana_Eksath_Peramuna
 
 Dinesh_Kashyap Bharatiya_Janata_Party
@@ -694,37 +2340,205 @@ Dinesh_Sharma Bharatiya_Janata_Party
 
 Dinny_McGinley Fine_Gael
 
+Diosdado_Macapagal Liberal_Party
+
 Dipankar_Talukdar Bangladesh_Awami_League
 
 Dipu_Moni Bangladesh_Awami_League
 
 Diwakar_Raote Shiv_Sena
 
+Dolph_Briscoe Democratic_Party
+
+Domenic_Recchia Democratic_Party
+
+Domenic_Sarno Democratic_Party
+
 Domingo_Cavallo Justicialist_Party
 
 Dominic_Carman Liberal_Democrats
+
+Dominic_Grieve Conservative_Party
+
+Dominic_Hannigan Labour_Party
+
+Dominic_Raab Conservative_Party
+
+Don_Bonker Democratic_Party
+
+Don_Cazayoux Democratic_Party
+
+Don_Chipp Independent
+
+Don_Koivisto Democratic_Party
+
+Don_Perata Democratic_Party
+
+Don_Plusquellic Democratic_Party
+
+Don_Siegelman Democratic_Party
+
+Don_Walko Democratic_Party
+
+Donald_Berwick Democratic_Party
+
+Donald_Cookman Democratic_Party
+
+Donald_Cresitello Democratic_Party
+
+Donald_DeFronzo Democratic_Party
+
+Donald_Dewar Labour_Party
+
+Donald_Gelling Independent
+
+Donald_McEachin Democratic_Party
 
 Donald_Tusk Civic_Platform
 
 Donie_Cassidy Fianna_Fáil
 
+Donna_Brazile Democratic_Party
+
+Donna_Frye Democratic_Party
+
+Donna_Lupardo Democratic_Party
+
+Donna_Shalala Democratic_Party
+
+Donne_Trotter Democratic_Party
+
+Donovan_Dela_Cruz Democratic_Party
+
+Donzella_James Democratic_Party
+
+Dora_Olivo Democratic_Party
+
+Doris_Haddock Democratic_Party
+
+Doris_Matsui Democratic_Party
+
+Doug_Gansler Democratic_Party
+
+Doug_La_Follette Democratic_Party
+
+Douglas_Carswell Conservative_Party
+
 Douglas_Uggah_Embas Parti_Pesaka_Bumiputera_Bersatu
 
+Douglas_Wilder Democratic_Party
+
+Dov_Hikind Democratic_Party
+
+Dow_Constantine Democratic_Party
+
+Doğu_Perinçek Patriotic_Party
+
+Dragan_Jočić Independent
+
+Dragan_Primorac Independent
+
+Dragan_Šutanovac Democratic_Party
+
+Drew_Edmondson Democratic_Party
+
+Driss_Jettou Independent
+
+DuBose_Porter Democratic_Party
+
+Duke_Bainum Democratic_Party
+
+Duncan_Sandys Conservative_Party
+
 Durai_Murugan Dravida_Munnetra_Kazhagam
+
+Duraid_Kashmoula Independent
 
 Durmuş_Yılmaz Nationalist_Movement_Party
 
 Dushyant_Singh Bharatiya_Janata_Party
 
+Dustin_McDaniel Democratic_Party
+
+Dutch_Ruppersberger Democratic_Party
+
+Duvvuri_Subbarao Independent
+
+Dwaine_Caraway Democratic_Party
+
+Dwight_Takamine Democratic_Party
+
+Eamon_Gilmore Labour_Party
+
 Eamon_Scanlon Fianna_Fáil
 
 Eamonn_Coghlan Fine_Gael
 
+Earl_Blumenauer Democratic_Party
+
+Earl_Ray_Tomblin Democratic_Party
+
+Earle_Cabell Democratic_Party
+
+Earlean_Collins Democratic_Party
+
+Ed_Ableser Democratic_Party
+
+Ed_DeLaney Democratic_Party
+
+Ed_FitzGerald Democratic_Party
+
+Ed_Koch Democratic_Party
+
+Ed_Markey Democratic_Party
+
+Ed_Miliband Labour_Party
+
+Ed_Pawlowski Democratic_Party
+
+Ed_Perlmutter Democratic_Party
+
+Ed_Rendell Democratic_Party
+
+Ed_Vaizey Conservative_Party
+
+Ed_Whitfield Democratic_Party
+
+Edcel_Lagman Independent
+
+Edd_Houck Democratic_Party
+
+Eddie_Bernice_Johnson Democratic_Party
+
+Eddie_Day_Pashinski Democratic_Party
+
+Eddie_Fenech_Adami Nationalist_Party
+
+Eddie_Ilarde Liberal_Party
+
 Eddie_Ilarde Kilusang_Bagong_Lipunan
+
+Eddie_Panlilio Independent
 
 Edgar_Chatto Lakas_Kampi_CMD
 
+Edgar_Malepeai Democratic_Party
+
 Edgardo_Angara Laban_ng_Demokratikong_Pilipino
+
+Edite_Estrela Socialist_Party
+
+Edmund_Ho Independent
+
+Edmund_Muskie Democratic_Party
+
+Edmund_Pettus Democratic_Party
+
+Edolphus_Towns Democratic_Party
+
+Edu_Manzano Independent
+
+Eduard_Shevardnadze Independent
 
 Eduardo_Bours Institutional_Revolutionary_Party
 
@@ -736,15 +2550,55 @@ Eduardo_Gullas Nacionalista_Party
 
 Eduardo_Mondlane FRELIMO
 
+Eduardo_Paes Democrats
+
+Eduardo_Rodríguez Independent
+
+Edward_Casso Democratic_Party
+
+Edward_DeMarco Democratic_Party
+
+Edward_Garnier Conservative_Party
+
+Edward_Gibbon Whigs
+
+Edward_Hagedorn Liberal_Party
+
+Edward_J._Kasemeyer Democratic_Party
+
 Edward_Lowassa CHADEMA
 
 Edward_Lowassa Chama_cha_Mapinduzi
 
+Edward_Manibusan Democratic_Party
+
+Edward_Manibusan Independent
+
+Edward_Mezvinsky Democratic_Party
+
+Edward_Scicluna Labour_Party
+
 Edward_Ssekandi National_Resistance_Movement
+
+Edward_Staback Democratic_Party
+
+Edward_Timpson Conservative_Party
+
+Edwin_Lacierda Liberal_Party
 
 Edwin_Poots Democratic_Unionist_Party
 
+Edwin_Schlossberg Democratic_Party
+
+Edwina_Currie Conservative_Party
+
+Efren_Carrillo Democratic_Party
+
 Egon_Bahr SPD
+
+Ehsan_Jami Labour_Party
+
+Ehud_Barak Independence
 
 Ehud_Olmert Likud
 
@@ -752,21 +2606,91 @@ Ehud_Olmert Kadima
 
 Eibhlin_Byrne Fianna_Fáil
 
+Eileen_Donahoe Democratic_Party
+
+Eileen_Donoghue Democratic_Party
+
 Ekmeleddin_İhsanoğlu Nationalist_Movement_Party
 
 Eknath_Khadse Bharatiya_Janata_Party
 
 Eknath_Shinde Shiv_Sena
 
+Elaine_Alquist Democratic_Party
+
+Elaine_Coderre Democratic_Party
+
+Elaine_Nekritz Democratic_Party
+
+Elbert_Guillory Democratic_Party
+
+Eleanor_Holmes_Norton Democratic_Party
+
+Eleanor_Laing Conservative_Party
+
+Eleanor_Roosevelt Democratic_Party
+
+Eleanor_Sobel Democratic_Party
+
+Eleftherios_Venizelos Liberal_Party
+
+Elena_Kagan Democratic_Party
+
+Eleni_Theocharous Solidarity_Movement
+
+Eleni_Tsakopoulos_Kounalakis Democratic_Party
+
 Elfyn_Llwyd Plaid_Cymru
+
+Eli_Segal Democratic_Party
+
+Elijah_Cummings Democratic_Party
 
 Elijah_Ngurare SWAPO
 
+Elio_Di_Rupo Parti_Socialiste
+
+Eliot_Cutler Independent
+
+Eliot_Engel Democratic_Party
+
+Eliot_Glassheim Democratic_Party
+
+Eliot_Spitzer Democratic_Party
+
+Elizabeth_Dole Democratic_Party
+
+Elizabeth_Esty Democratic_Party
+
+Elizabeth_Frawley_Bagley Democratic_Party
+
+Elizabeth_Furse Democratic_Party
+
+Elizabeth_Holtzman Democratic_Party
+
+Elizabeth_Tisdahl Democratic_Party
+
+Elizabeth_Truss Conservative_Party
+
 Elizabeth_Truss Liberal_Democrats
+
+Ella_Vogelaar Labour_Party
+
+Ellen_Cogen_Lipton Democratic_Party
+
+Ellen_Jaffee Democratic_Party
+
+Ellen_Tauscher Democratic_Party
+
+Elliot_Morley Labour_Party
 
 Elliott_Stonecipher Nonpartisan
 
+Ellis_Arnall Democratic_Party
+
 Elpidio_Quirino Nacionalista_Party
+
+Elpidio_Quirino Liberal_Party
 
 Elsie_Lefebvre Parti_Québécois
 
@@ -774,11 +2698,37 @@ Elspeth_Attwooll Liberal_Democrats
 
 Elwyn_Watkins Liberal_Democrats
 
+Emanuel_Celler Democratic_Party
+
+Emanuel_Cleaver Democratic_Party
+
+Emer_Costello Labour_Party
+
+Emil_Jones Democratic_Party
+
+Emily_Thornberry Labour_Party
+
+Emma_Bonino Radical_Party
+
+Emma_McClarkin Conservative_Party
+
+Emmanuel_Mallia Labour_Party
+
+Emmanuel_Pelaez Liberal_Party
+
+Emmet_Stagg Labour_Party
+
 Emory_Folmar Gubernatorial
 
 Enda_Kenny Fine_Gael
 
+Eni_Faleomavaega Democratic_Party
+
 Enoch_Powell Ulster_Unionist_Party
+
+Enoch_Powell Conservative_Party
+
+Enrico_Letta Democratic_Party
 
 Enrique_Mendoza COPEI
 
@@ -786,33 +2736,145 @@ Enrique_Peña_Nieto Institutional_Revolutionary_Party
 
 Erastus_Uutoni SWAPO
 
+Eric_Fingerhut Democratic_Party
+
+Eric_Garcetti Democratic_Party
+
+Eric_Gioia Democratic_Party
+
+Eric_Griego Democratic_Party
+
+Eric_Holder Democratic_Party
+
+Eric_Illsley Labour_Party
+
+Eric_Martlew Labour_Party
+
+Eric_Ollerenshaw Conservative_Party
+
+Eric_Papenfuse Democratic_Party
+
+Eric_Pickles Conservative_Party
+
+Eric_Roozendaal Independent
+
+Eric_Schmidt Democratic_Party
+
+Eric_Schneiderman Democratic_Party
+
+Eric_Turkington Democratic_Party
+
 Erico_Aumentado Nacionalista_Party
 
+Erico_Basilio_Fabian Nacionalista_Party
+
+Erik_Poulsen Democratic_Party
+
 Erlan_Idrissov Nur_Otan
+
+Erna_Solberg Conservative_Party
+
+Ernest_Bevin Labour_Party
+
+Ernest_Gruening Democratic_Party
+
+Ernest_Hollings Democratic_Party
+
+Ernest_Marples Conservative_Party
+
+Ernest_Moniz Democratic_Party
 
 Ernesto_Maceda Nacionalista_Party
 
 Ernesto_Maceda Pwersa_ng_Masang_Pilipino
 
+Ernesto_Scorsone Democratic_Party
+
 Ernesto_Zedillo Institutional_Revolutionary_Party
+
+Ernie_Chambers Independent
+
+Erroll_Davis Democratic_Party
+
+Erskine_Bowles Democratic_Party
+
+Ertharin_Cousin Democratic_Party
+
+Esam_Omeish Democratic_Party
 
 Esmael_Mangudadatu Lakas_Kampi_CMD
 
+Esmael_Mangudadatu Liberal_Party
+
 Esmond_Birnie Ulster_Unionist_Party
+
+Espen_Barth_Eide Labour_Party
+
+Esperanza_Aguirre Liberal_Party
+
+Essam_Sharaf Independent
+
+Estelle_Morris Labour_Party
+
+Estes_Kefauver Democratic_Party
+
+Esther_Manheimer Democratic_Party
+
+Esther_McVey Conservative_Party
+
+Ethan_Berkowitz Democratic_Party
+
+Ethan_Strimling Democratic_Party
+
+Ethel_Kennedy Democratic_Party
+
+Etta_Rosales Liberal_Party
 
 Eugene_Chien Kuomintang
 
+Eugene_DePasquale Democratic_Party
+
+Eugene_Talmadge Democratic_Party
+
+Eugene_V._Debs Democratic_Party
+
 Eugène_Terre'Blanche Afrikaner_Weerstandsbeweging
+
+Eunice_Kennedy_Shriver Democratic_Party
 
 Eurig_Wyn Plaid_Cymru
 
 Eva_Perón Justicialist_Party
 
+Evan_Bayh Democratic_Party
+
+Evan_Dobelle Democratic_Party
+
+Evan_Jenne Democratic_Party
+
 Evangelos_Venizelos Panhellenic_Socialist_Movement
+
+Evarist_Bartolo Labour_Party
+
+Eveline_Herfkens Labour_Party
+
+Evelio_Javier Liberal_Party
+
+Evelyn_Gandy Democratic_Party
+
+Evie_Hudak Democratic_Party
 
 Ewa_Kopacz Civic_Platform
 
+Exequiel_Javier Liberal_Party
+
 Ezekiel_Maige Chama_Cha_Mapinduzi
+
+Ezer_Weizman Yahad
+
+Fabian_Núñez Democratic_Party
+
+Facundo_Quiroga Federales
 
 Fadel_Muhammad Golkar_Party
 
@@ -820,29 +2882,53 @@ Fadillah_Yusof Parti_Pesaka_Bumiputera_Bersatu
 
 Faggan_Singh_Kulaste Bharatiya_Janata_Party
 
+Faisal_Saleh_Hayat Independent
+
 Faisal_Subzwari Muttahida_Qaumi_Movement
+
+Fakhruddin_Ahmed Independent
 
 Farah_Karimi GreenLeft
 
+Farhat_Rajhi Independent
+
 Farooq_Sattar Muttahida_Qaumi_Movement
 
+Farouk_Shami Democratic_Party
+
 Faruk_Khan Awami_League
+
+Fatima_Jinnah Independent
 
 Fatimah_Abdullah Parti_Pesaka_Bumiputera_Bersatu
 
 Fausto_Bertinotti Communist_Refoundation_Party
 
+Fauzi_Bowo Democratic_Party
+
 Fazle_Noor_Taposh Bangladesh_Awami_League
+
+Federico_Peña Democratic_Party
+
+Feliciano_Belmonte_Jr. Liberal_Party
 
 Felipe_Solá Justicialist_Party
 
 Felisa_Miceli Justicialist_Party
 
+Felix_Rohatyn Democratic_Party
+
+Felix_Roque Democratic_Party
+
 Femke_Halsema GreenLeft
 
 Ferdinand_Marcos Kilusang_Bagong_Lipunan
 
+Ferdinando_Imposimato Independent
+
 Fergus_O'Dowd Fine_Gael
+
+Fernando_Ferrer Democratic_Party
 
 Fernando_Poe_Jr. Koalisyon_ng_Nagkakaisang_Pilipino
 
@@ -854,9 +2940,35 @@ Filip_Dewinter Vlaams_Belang
 
 Filip_Dewinter Vlaams_Blok
 
+Fiona_Ma Democratic_Party
+
+Fiona_Mactaggart Labour_Party
+
+Fiona_Shackleton Conservative_Party
+
+Fiorello_H._La_Guardia Progressive_Party
+
+Firdous_Ashiq_Awan PML
+
+Florencio_Abad Liberal_Party
+
+Florencio_Miraflores Liberal_Party
+
+Floyd_Esquibel Democratic_Party
+
+Floyd_Prozanski Democratic_Party
+
 Fong_Chan_Onn Barisan_Nasional
 
+Fouad_Mebazaa Independent
+
 Fra_McCann Sinn_Féin
+
+Fran_Ulmer Democratic_Party
+
+Francesco_Rutelli Democratic_Party
+
+Francesco_Rutelli Radical_Party
 
 Francie_Brolly Sinn_Féin
 
@@ -864,37 +2976,153 @@ Francie_Molloy Sinn_Féin
 
 Francine_Lalonde Bloc_Québécois
 
+Francis_Ford_Coppola Democratic_Party
+
+Francis_Maude Conservative_Party
+
 Francis_Pangilinan Laban_ng_Demokratikong_Pilipino
+
+Francis_Pangilinan Liberal_Party
+
+Francis_Tolentino Liberal_Party
+
+Francis_X._Bellotti Democratic_Party
+
+Francisco_Assis Socialist_Party
 
 Francisco_Tatad Laban_ng_Demokratikong_Pilipino
 
 Francisco_Tatad Kilusang_Bagong_Lipunan
 
+Franco_Carraro Forza_Italia
+
+Franco_Debono Nationalist_Party
+
+Franco_Frattini Independent
+
 Franco_Frattini Forza_Italia
+
+Franco_Marini Democratic_Party
+
+Franco_Parisi Independent
 
 Franco_Zeffirelli Forza_Italia
 
+Frank_A._Sedita Democratic_Party
+
+Frank_Ballance Democratic_Party
+
+Frank_Barnitz Democratic_Party
+
+Frank_Chopp Democratic_Party
+
+Frank_Cownie Democratic_Party
+
+Frank_Dermody Democratic_Party
+
+Frank_DiCicco Democratic_Party
+
+Frank_Fasi Democratic_Party
+
 Frank_Feighan Fine_Gael
+
+Frank_Heemskerk Labour_Party
+
+Frank_Holleman Democratic_Party
+
+Frank_Kassela Democratic_Party
+
+Frank_Kloucek Democratic_Party
+
+Frank_Kratovil Democratic_Party
+
+Frank_LaGrotta Democratic_Party
+
+Frank_LaMere Democratic_Party
+
+Frank_Lausche Democratic_Party
+
+Frank_Lautenberg Democratic_Party
 
 Frank_McCoubrey Democratic_Unionist_Party
 
+Frank_Mrvan Democratic_Party
+
+Frank_O'Bannon Democratic_Party
+
+Frank_Pallone Democratic_Party
+
+Frank_Pistella Democratic_Party
+
+Frank_Skartados Democratic_Party
+
+Frank_Smizik Democratic_Party
+
+Frank_Zappa Independent
+
+Franke_Wilmer Democratic_Party
+
+Franklin_D._Roosevelt Democratic_Party
+
+Franklin_Drilon Liberal_Party
+
+Franklin_Raines Democratic_Party
+
+Frans_Timmermans Labour_Party
+
+François_Bozizé Independent
+
 François_Gendron Parti_Québécois
+
+François_Hollande Socialist_Party
 
 François_Legault Parti_Québécois
 
+François_Mitterrand Socialist_Party
+
+Fred_Belardi Democratic_Party
+
 Fred_Cobain Democratic_Unionist_Party
 
+Fred_DuVal Democratic_Party
+
+Fred_Hochberg Democratic_Party
+
+Fred_Hofheinz Democratic_Party
+
+Fred_Keeley Democratic_Party
+
+Fred_Phelps Democratic_Party
+
+Fred_Risser Democratic_Party
+
 Freddy_Bernal PSUV
+
+Fredenil_Castro Liberal_Party
+
+Frederica_Wilson Democratic_Party
+
+Froilan_Tenorio Democratic_Party
 
 Fuziah_Salleh Parti_Keadilan_Rakyat
 
 G._Kishan_Reddy Bharatiya_Janata_Party
 
+G._Mennen_Williams Democratic_Party
+
+G._Oliver_Koppell Democratic_Party
+
+Gabriel_Oprea Independent
+
 Gabriele_Albertini Forza_Italia
+
+Gabrielle_Giffords Democratic_Party
 
 Gaddar Telangana_Praja_Front
 
 Gade_Venkata_Reddy Telugu_Desam_Party
+
+Gael_Tarleton Democratic_Party
 
 Gagan_Thapa Nepali_Congress
 
@@ -902,45 +3130,259 @@ Gaganjit_Singh_Barnala Shiromani_Akali_Dal
 
 Gagik_Tsarukyan Prosperous_Armenia
 
+Gail_Chasey Democratic_Party
+
+Gail_Gutsche Democratic_Party
+
+Gail_Riecken Democratic_Party
+
+Gail_Schoettler Democratic_Party
+
+Gailanne_Cariddi Democratic_Party
+
 Gajanan_Kirtikar Shiv_Sena
+
+Gale_Brewer Democratic_Party
+
+Gale_D._Candaras Democratic_Party
 
 Ganesh_Karnik Bharatiya_Janata_Party
 
 Ganesh_Naik Shiv_Sena
 
+Garnet_Coleman Democratic_Party
+
 Garret_FitzGerald Fine_Gael
+
+Garry_Mauro Democratic_Party
+
+Gary_Ackerman Democratic_Party
+
+Gary_Condit Democratic_Party
+
+Gary_Forby Democratic_Party
+
+Gary_Gensler Democratic_Party
+
+Gary_Hannig Democratic_Party
+
+Gary_Hooser Democratic_Party
+
+Gary_Leitzell Independent
+
+Gary_Locke Democratic_Party
+
+Gary_Schaer Democratic_Party
+
+Gary_Sherrer Democratic_Party
+
+Gary_Siplin Democratic_Party
+
+Gary_Titley Labour_Party
+
+Gary_Trauner Democratic_Party
+
+Gaston_Caperton Democratic_Party
+
+Gatewood_Galbraith Democratic_Party
+
+Gavan_O'Connor Independent
+
+Gavin_Barwell Conservative_Party
+
+Gavin_Newsom Democratic_Party
+
+Gavin_Strang Labour_Party
+
+Gavyn_Davies Labour_Party
+
+Gaye_Symington Democratic_Party
+
+Gayle_Slossberg Democratic_Party
+
+Gaylord_Nelson Democratic_Party
+
+Gaynor_Cawley Democratic_Party
 
 Gebran_Bassil Free_Patriotic_Movement
 
 Gebran_Tueni Qornet_Shehwan_Gathering
 
+Geert_Wilders Independent
+
 Gegong_Apang Bharatiya_Janata_Party
 
+Gemma_Tumelty Labour_Party
+
+Gene_Jeffress Democratic_Party
+
+Gene_Sperling Democratic_Party
+
+Gene_Stipe Democratic_Party
+
+Geoff_Hoon Labour_Party
+
+Geoffrey_Fieger Democratic_Party
+
+Geoffrey_Howe Conservative_Party
+
+Geoffrey_Van_Orden Conservative_Party
+
+George_Abela Labour_Party
+
+George_Borg_Olivier Nationalist_Party
+
+George_Busbee Democratic_Party
+
+George_Chellah Patriotic_Front
+
+George_Darany Democratic_Party
+
+George_Eighmey Democratic_Party
+
+George_Gascón Democratic_Party
+
+George_Gaulrapp Democratic_Party
+
+George_Gaynes Democratic_Party
+
+George_Jepsen Democratic_Party
+
+George_Kerevan Labour_Party
+
+George_Keverian Democratic_Party
+
+George_Maragos Democratic_Party
+
+George_McGovern Democratic_Party
+
 George_Mkuchika Chama_Cha_Mapinduzi
+
+George_Moscone Democratic_Party
+
+George_Osborne Conservative_Party
 
 George_Papandreou Panhellenic_Socialist_Movement
 
 George_Petalotis Panhellenic_Socialist_Movement
 
+George_Pullicino Nationalist_Party
+
+George_Soros Democratic_Party
+
+George_Stephanopoulos Democratic_Party
+
+George_Tenet Democratic_Party
+
+Georgi_Parvanov Independent
+
 Georgi_Parvanov Bulgarian_Socialist_Party
+
+Gerald_Boudreaux Democratic_Party
+
+Gerald_Garson Democratic_Party
+
+Gerald_Geis Republican
+
+Gerald_Howarth Conservative_Party
+
+Gerald_L._Baliles Democratic_Party
+
+Gerald_LaValle Democratic_Party
+
+Gerald_Mullery Democratic_Party
+
+Gerald_Rafshoon Democratic_Party
+
+Gerald_Theunissen Democratic_Party
+
+Gerald_Zahorchak Democratic_Party
+
+Geraldine_Ferraro Democratic_Party
+
+Geraldo_Alicea Democratic_Party
+
+Gerard_Leone Democratic_Party
+
+Gerardo_Roxas Liberal_Party
+
+Gerardo_Sandoval Democratic_Party
+
+Gerd_Leers Labour_Party
 
 Gerry_Adams Sinn_Féin
 
+Gerry_Connolly Democratic_Party
+
+Gerry_Pollet Democratic_Party
+
+Gerry_Sutcliffe Labour_Party
+
 Gertrude_Mongella Chama_Cha_Mapinduzi
+
+Gery_Chico Democratic_Party
 
 Ghanshyam_Tiwari Bharatiya_Janata_Party
 
+Ghazi_Aridi Progressive_Socialist_Party
+
 Ghulam_Farooq_Wardak Hezbi_Islami
 
+Ghulam_Ishaq_Khan Independent
+
+Gian_Mario_Spacca Democratic_Party
+
+Giancarlo_Galan Forza_Italia
+
+Gianfranco_Rotondi Forza_Italia
+
 Gianluca_Buonanno Lega_Nord
+
+Gianni_Letta Forza_Italia
+
+Gianni_Pittella Democratic_Party
+
+Gib_Lewis Democratic_Party
+
+Gideon_Welles Democratic_Party
+
+Gil_Cedillo Democratic_Party
+
+Gil_Duran Democratic_Party
+
+Gil_Garcetti Democratic_Party
+
+Gil_Kerlikowske Democratic_Party
 
 Gil_Puyat Nacionalista_Party
 
 Gilbert_Bukenya National_Resistance_Movement
 
+Gilbert_Houngbo Independent
+
+Gilberto_Hinojosa Democratic_Party
+
+Gilda_Jacobs Democratic_Party
+
+Giles_Chichester Conservative_Party
+
 Gilles_Duceppe Bloc_Québécois
 
 Gilles_Taillon Action_démocratique_du_Québec
+
+Gillian_Merron Labour_Party
+
+Gillian_Shephard Conservative_Party
+
+Gina_Glantz Democratic_Party
+
+Gina_McCarthy Democratic_Party
+
+Gina_Raimondo Democratic_Party
+
+Ginny_Burdick Democratic_Party
+
+Gino_Cauchi Labour_Party
 
 Giorgos_Papakonstantinou Panhellenic_Socialist_Movement
 
@@ -950,17 +3392,55 @@ Giriraj_Singh Bharatiya_Janata_Party
 
 Girish_Bapat Bharatiya_Janata_Party
 
+Girolamo_Sirchia Independent
+
+Gisela_Stuart Labour_Party
+
+Gitte_Lillelund_Bech Venstre
+
+Giuliano_Amato Democratic_Party
+
+Giuliano_Ferrara Independent
+
 Giuliano_Ferrara Forza_Italia
+
+Giuliano_Pisapia Independent
 
 Giuliano_Urbani Forza_Italia
 
+Giulio_Andreotti Independent
+
 Giulio_Tremonti Forza_Italia
+
+Giuseppe_Fioroni Democratic_Party
+
+Gladys_Spellman Democratic_Party
+
+Glen_Browder Democratic_Party
+
+Glen_Maxey Democratic_Party
+
+Glenis_Willmott Labour_Party
+
+Glenn_Ivey Democratic_Party
+
+Glenn_Nye Democratic_Party
+
+Glenn_Poshard Democratic_Party
 
 Gloria_Macapagal_Arroyo Laban_ng_Demokratikong_Pilipino
 
 Gloria_Macapagal_Arroyo Kabalikat_ng_Malayang_Pilipino
 
+Gloria_Molina Democratic_Party
+
+Gloria_Negrete_McLeod Democratic_Party
+
+Gloria_Tristani Democratic_Party
+
 Godfrey_Binaisa National_Resistance_Movement
+
+Goh_Kun Democratic_Party
 
 Golda_Meir Mapai
 
@@ -970,21 +3450,87 @@ Gopal_Shetty Bharatiya_Janata_Party
 
 Gopinath_Munde Bhartiya_Janata_Party
 
+Gordon_Bajnai Together
+
 Gordon_Birtwistle Liberal_Democrats
+
+Gordon_Bradbery Independent
+
+Gordon_Brown Labour_Party
+
+Gordon_Hintz Democratic_Party
+
+Gordon_Mowrer Democratic_Party
+
+Gore_Vidal Democratic_Party
 
 Govind_Patel Bhartiya_Janata_Party
 
+Grace_Meng Democratic_Party
+
+Grace_Padaca Independent
+
+Grant_Shapps Conservative_Party
+
 Greg_Gutfeld Libertarian
+
+Greg_Jergeson Democratic_Party
+
+Greg_Macpherson Democratic_Party
 
 Greg_Mulholland Liberal_Democrats
 
+Greg_Nickels Democratic_Party
+
+Greg_Skrepenak Democratic_Party
+
+Greg_Stumbo Democratic_Party
+
+Greg_Vitali Democratic_Party
+
+Gregg_Takayama Democratic_Party
+
+Gregorio_Sablan Democratic_Party
+
+Gregorio_Sablan Independent
+
+Gregory_Fajt Democratic_Party
+
+Gregory_Jaczko Democratic_Party
+
+Gregory_Meeks Democratic_Party
+
+Gregory_Peck Democratic_Party
+
+Greta_Goodwin Democratic_Party
+
+Gretchen_Whitmer Democratic_Party
+
+Grete_Faremo Labour_Party
+
+Greville_Janner Labour_Party
+
+Grigol_Mgaloblishvili Independent
+
+Grigol_Vashadze Independent
+
 Grigory_Yavlinsky Yabloko
+
+Gro_Harlem_Brundtland Labour_Party
+
+Grover_Cleveland Democratic_Party
 
 Grzegorz_Schetyna Civic_Platform
 
+Guglielmo_Epifani Democratic_Party
+
 Guia_Gomez Pwersa_ng_Masang_Pilipino
 
+Guido_Calabresi Democratic_Party
+
 Guido_Crosetto Forza_Italia
+
+Guillermo_Linares Democratic_Party
 
 Gulab_Chand_Kataria Bharatiya_Janata_Party
 
@@ -994,15 +3540,35 @@ Gurcharan_Singh_Tohra Shiromani_Gurdwara_Parbandhak_Committee
 
 Gurnam_Singh Shiromani_Akali_Dal
 
+Gus_Douglass Democratic_Party
+
 Gusty_Spence Progressive_Unionist_Party
+
+Guto_Bebb Conservative_Party
+
+Guy_Boutilier Independent
 
 Guy_Boutilier Wildrose_Alliance_Party
 
 Guy_Chevrette Parti_Québécois
 
+Guy_Glodis Democratic_Party
+
+Guy_Guzzone Democratic_Party
+
+Gwen_Margolis Democratic_Party
+
+Gwendolyn_Faison Democratic_Party
+
 Gwendolyn_Garcia Lakas_Kampi_CMD
 
 Gwenllian_Lansdown Plaid_Cymru
+
+Gwyn_Prosser Labour_Party
+
+Gwyneth_Dunwoody Labour_Party
+
+Gyles_Brandreth Conservative_Party
 
 Gyula_Horn Hungarian_Socialist_Party
 
@@ -1014,57 +3580,291 @@ Gábor_Vona Jobbik
 
 Hage_Geingob SWAPO
 
+Hakeem_Jeffries Democratic_Party
+
+Hale_Boggs Democratic_Party
+
+Halldór_Ásgrímsson Progressive_Party
+
+Hamid_Mirzadeh Independent
+
+Hampton_Dellinger Democratic_Party
+
+Hank_Coe Republican
+
+Hanna_Suchocka Solidarity
+
+Hannah_Pingree Democratic_Party
+
+Hannibal_Hamlin Democratic_Party
+
+Hans_Dunshee Democratic_Party
+
+Hans_Enoksen Forward
+
 Harak_Singh_Rawat Bhartiya_Janta_Party
 
 Harcharan_Bains Shiromani_Akali_Dal
 
 Hardeep_Singh_Puri Bharatiya_Janata_Party
 
+Hari_Sevugan Democratic_Party
+
 Harin_Pathak Bharatiya_Janata_Party
+
+Harold_Haugh Democratic_Party
+
+Harold_Hongju_Koh Democratic_Party
+
+Harold_Janeway Democratic_Party
+
+Harold_Macmillan Conservative_Party
+
+Harold_Metts Democratic_Party
+
+Harold_Nicolson Labour_Party
+
+Harold_Volkmer Democratic_Party
+
+Harold_Weinbrecht Democratic_Party
+
+Harriet_Harman Labour_Party
+
+Harriet_Miers Democratic_Party
+
+Harriett_Baldwin Conservative_Party
+
+Harriett_Stanley Democratic_Party
 
 Harrison_Mwakyembe Chama_Cha_Mapinduzi
 
+Harry_Belafonte Democratic_Party
+
+Harry_Connick_Sr. Democratic_Party
+
+Harry_Meshel Democratic_Party
+
+Harry_Osterman Democratic_Party
+
+Harry_Reid Democratic_Party
+
+Harry_Shorstein Democratic_Party
+
+Harry_Teague Democratic_Party
+
+Harry_van_Bommel Socialist_Party
+
 Harsimrat_Kaur_Badal Shiromani_Akali_Dal
 
+Harvey_Gantt Democratic_Party
+
+Harvey_Milk Democratic_Party
+
+Harvey_Munford Democratic_Party
+
+Harvey_Weinstein Democratic_Party
+
+Harvey_Weisenberg Democratic_Party
+
 Hasanul_Haq_Inu Jatiya_Samajtantrik_Dal
+
+Hassan_Abshir_Farah Independent
 
 Hassan_Mahmood_Khandker Bangladesh_Awami_League
 
 Hassan_Nasrallah Hezbollah
 
+Hassan_Nemazee Democratic_Party
+
+Hattie_Caraway Democratic_Party
+
+Hazel_Blears Labour_Party
+
+Hazel_McCallion Independent
+
+Heath_Mello Democratic_Party
+
+Heath_Shuler Democratic_Party
+
+Heather_Higginbottom Democratic_Party
+
+Heather_Mizeur Democratic_Party
+
+Heather_Steans Democratic_Party
+
+Heather_Zichal Democratic_Party
+
+Hector_Balderas Democratic_Party
+
 Heherson_Alvarez Laban_ng_Demokratikong_Pilipino
+
+Heidi_Davison Democratic_Party
+
+Heidi_Shierholz Democratic_Party
+
+Helen_Boosalis Democratic_Party
+
+Helen_Gahagan_Douglas Democratic_Party
+
+Helen_Klanderud Democratic_Party
+
+Helen_Shiller Democratic_Party
+
+Helen_Sommers Democratic_Party
+
+Helen_Suzman Progressive_Party
+
+Helen_Zille Democratic_Party
+
+Helene_Schneider Democratic_Party
+
+Helio_Melo Democratic_Party
 
 Helmut_Angula SWAPO
 
 Hemlal_Murmu Bharatiya_Janata_Party
 
+Henri_Emmanuelli Socialist_Party
+
 Henrique_Capriles_Radonski Copei
 
+Henrique_Rosa Independent
+
+Henry_Cisneros Democratic_Party
+
+Henry_Cuellar Democratic_Party
+
+Henry_Fonda Democratic_Party
+
+Henry_Waxman Democratic_Party
+
+Herb_Conaway Democratic_Party
+
+Herb_Kirsh Democratic_Party
+
+Herb_Kohl Democratic_Party
+
+Herb_Rozell Democratic_Party
+
+Herb_Wesson Democratic_Party
+
+Herbert_Bautista Liberal_Party
+
+Herman_Badillo Democratic_Party
+
+Herman_Talmadge Democratic_Party
+
+Hermes_Binner Socialist_Party
+
+Hermina_Morita Democratic_Party
+
+Herminia_Roman Liberal_Party
+
 Heydar_Aliyev CPSU
+
+Heywood_Broun Socialist_Party
 
 Hidipo_Hamutenya SWAPO
 
 Hifikepunye_Pohamba SWAPO
 
+Hilario_Davide_III Liberal_Party
+
+Hilary_Benn Labour_Party
+
+Hilary_Rosen Democratic_Party
+
+Hilda_Solis Democratic_Party
+
+Hillary_Clinton Democratic_Party
+
 Himanta_Biswa_Sarma Bharatiya_Janata_Party
+
+Hinton_Mitchem Democratic_Party
 
 Hira_Singh_Gabria Shiromani_Akali_Dal
 
+Hiram_Monserrate Democratic_Party
+
+Hob_Bryan Democratic_Party
+
+Hodding_Carter Democratic_Party
+
+Hodding_Carter_III Democratic_Party
+
+Holly_Raser Democratic_Party
+
+Horace_Greeley Whig_Party
+
+Horace_Mann Whig_Party
+
+Horatio_Seymour Democratic_Party
+
+Howard_Berman Democratic_Party
+
+Howard_Dean Democratic_Party
+
+Howard_Metzenbaum Democratic_Party
+
+Howard_Stern Libertarian_Party
+
+Howard_Stoate Labour_Party
+
+Howard_Wolfson Democratic_Party
+
+Howell_Heflin Democratic_Party
+
+Hubert_Humphrey Democratic_Party
+
+Huey_Long Democratic_Party
+
+Hugh_Bayley Labour_Party
+
+Hugh_Gaitskell Labour_Party
+
+Hugh_Nibley Democratic_Party
+
+Hugh_Rodham Democratic_Party
+
 Hugo_Moyano Justicialist_Party
+
+Hugo_Swire Conservative_Party
 
 Hukam_Singh Janata_Dal
 
+Huma_Abedin Democratic_Party
+
 Humberto_Moreira Institutional_Revolutionary_Party
 
+Humfrey_Malins Conservative_Party
+
 Hussein_Mwinyi Chama_Cha_Mapinduzi
+
+Hussein_Onn Independent
+
+Hywel_Francis Labour_Party
 
 Hywel_Williams Plaid_Cymru
 
 Héctor_Timerman Justicialist_Party
 
+Iain_Dale Conservative_Party
+
+Iain_Duncan_Smith Conservative_Party
+
+Iain_Macleod Conservative_Party
+
+Iajuddin_Ahmed Independent
+
+Ian_Bowles Democratic_Party
+
+Ian_Cawsey Labour_Party
+
 Ian_Paisley Democratic_Unionist_Party
 
 Ian_Swales Liberal_Democrats
+
+Ibrahim_Dabbashi Independent
 
 Idris_Jusoh Barisan_Nasional
 
@@ -1072,7 +3872,19 @@ Ieuan_Wyn_Jones Plaid_Cymru
 
 Ignacio_Bunye Lakas_Kampi_CMD
 
+Ignazio_Marino Democratic_Party
+
 Igor_Chudinov Ak_Jol
+
+Igor_Shuvalov Independent
+
+Igor_Smirnov Republic
+
+Ikaika_Anderson Democratic_Party
+
+Ike_Skelton Democratic_Party
+
+Ilya_Ponomarev Left_Front
 
 Ilya_Yashin Solidarnost
 
@@ -1092,13 +3904,31 @@ Imran_Farooq Muttahida_Qaumi_Movement
 
 Imre_Szekeres Hungarian_Socialist_Party
 
+Inez_Dickens Democratic_Party
+
+Inez_Tenenbaum Democratic_Party
+
+Inonge_Wina Patriotic_Front
+
 Iqbal_Mehmood Samajwadi_Party
 
 Iqbal_Qadri Muttahida_Qaumi_Movement
 
+Ira_Ruskin Democratic_Party
+
+Ira_Silverstein Democratic_Party
+
+Iris_Estabrook Democratic_Party
+
 Iris_Robinson Democratic_Unionist_Party
 
+Iris_Robinson Independent
+
 Isa_Qassim Al_Wefaq
+
+Ishenbai_Kadyrbekov Independent
+
+Isidro_Ungab Liberal_Party
 
 Isidro_Ungab Pwersa_ng_Masang_Pilipino
 
@@ -1118,11 +3948,59 @@ István_Hiller Hungarian_Socialist_Party
 
 Ivailo_Kalfin Bulgarian_Socialist_Party
 
+Ivan_Mikloš Democratic_Party
+
+Ivana_Bacik Labour_Party
+
+Ivanka_Trump Independent
+
+Ivo_Sanader Independent
+
+Ivor_Caplin Labour_Party
+
+J._Christian_Bollwage Democratic_Party
+
+J._Gary_Pretlow Democratic_Party
+
+J._Millard_Tawes Democratic_Party
+
 JV_Ejercito Pwersa_ng_Masang_Pilipino
 
 Jacek_Rostowski Civic_Platform
 
+Jack_Dromey Labour_Party
+
+Jack_Hidary Independent
+
+Jack_Markell Democratic_Party
+
+Jack_Mildren Democratic_Party
+
+Jack_Minore Democratic_Party
+
+Jack_Seiler Democratic_Party
+
+Jack_Straw Labour_Party
+
+Jackie_Cilley Democratic_Party
+
+Jackie_Speier Democratic_Party
+
+Jackie_Walorski Republican
+
+Jacob_Ruppert Democratic_Party
+
+Jacqueline_Kennedy_Onassis Democratic_Party
+
+Jacques_Delors Socialist_Party
+
 Jacques_Parizeau Parti_Québécois
+
+Jacques_Rueff Independent
+
+Jacqui_Lait Conservative_Party
+
+Jacqui_Smith Labour_Party
 
 Jagadish_Shettar Bharatiya_Janata_Party
 
@@ -1134,6 +4012,8 @@ Jagdish_Pradhan Bharatiya_Janata_Party
 
 Jaggesh Bharatiya_Janata_Party
 
+Jagjivan_Ram Congress
+
 Jagpal Bahujan_Samaj_Party
 
 Jahangir_Kabir_Nanak Bangladesh_Awami_League
@@ -1142,33 +4022,151 @@ Jai_Bhagwan_Goyal Bharatiya_Janata_Party
 
 Jai_Prakash Samajwadi_Party
 
+Jaime_Gama Socialist_Party
+
 Jaime_Lusinchi Acción_Democrática
 
 Jakaya_Kikwete Chama_Cha_Mapinduzi
 
+Jake_Godbold Democratic_Party
+
+Jake_McGoldrick Democratic_Party
+
+Jake_Siewert Democratic_Party
+
 Jale_Baba Soqosoqo_Duavata_ni_Lewenivanua
+
+Jamby_Madrigal Independent
 
 Jamby_Madrigal Laban_ng_Demokratikong_Pilipino
 
+Jamby_Madrigal Liberal_Party
+
+James_Abourezk Democratic_Party
+
+James_Amann Democratic_Party
+
+James_Arbuthnot Conservative_Party
+
+James_Balcer Democratic_Party
+
+James_Brochin Democratic_Party
+
+James_Brokenshire Conservative_Party
+
+James_Buskey Democratic_Party
+
+James_Carville Democratic_Party
+
+James_Casorio Democratic_Party
+
+James_Clappison Conservative_Party
+
+James_Comey Independent
+
+James_Duddridge Conservative_Party
+
+James_Ohrenschall Democratic_Party
+
+James_Plaskitt Labour_Party
+
 James_Soong Kuomintang
+
+James_Spallone Democratic_Party
+
+James_Traficant Democratic_Party
+
+Jamie_Dimon Democratic_Party
+
+Jamie_Gorelick Democratic_Party
+
+Jamie_Raskin Democratic_Party
+
+Jamilah_Nasheed Democratic_Party
+
+Jan_Drago Democratic_Party
+
+Jan_Egeland Labour_Party
 
 Jan_Krzysztof_Bielecki Civic_Platform
 
+Jan_Kubice Independent
+
+Jan_Marijnissen Socialist_Party
+
+Jan_Pronk Labour_Party
+
 Jan_Rokita Civic_Platform
+
+Jan_Schakowsky Democratic_Party
 
 Janardan_Singh_Sigriwal Bharatiya_Janata_Party
 
+Jane_Harman Democratic_Party
+
+Jane_Holl_Lute Democratic_Party
+
 Janeshwar_Mishra Samajwadi_Party
+
+Janet_Cowell Democratic_Party
+
+Janet_DiFiore Democratic_Party
+
+Janet_Napolitano Democratic_Party
+
+Janet_Reno Democratic_Party
+
+Janet_Woollard Independent
+
+Janet_Yellen Democratic_Party
+
+Janice_Hahn Democratic_Party
+
+Janis_Ringhand Democratic_Party
 
 Janmeja_Singh_Sekhon Shiromani_Akali_Dal
 
+Jannie_Blackwell Democratic_Party
+
+Janusz_Lewandowski Solidarity
+
 Janusz_Lewandowski Civic_Platform
+
+Jared_Huffman Democratic_Party
+
+Jared_Polis Democratic_Party
+
+Jaret_Gibbons Democratic_Party
+
+Jari_Askins Democratic_Party
+
+Jarrett_Barrios Democratic_Party
+
+Jason_Altmire Democratic_Party
+
+Jason_Chaffetz Democratic_Party
 
 Jaswant_Singh Bharatiya_Janata_Party
 
 Jatuporn_Prompan Pheu_Thai_Party
 
+Javier_Salas Democratic_Party
+
+Jay_Carney Democratic_Party
+
+Jay_Fisette Democratic_Party
+
+Jay_Garner Democratic_Party
+
+Jay_Goyal Democratic_Party
+
+Jay_Inslee Democratic_Party
+
 Jay_Narayan_Vyas Bharatiya_Janata_Party
+
+Jay_Nixon Democratic_Party
+
+Jay_Rockefeller Democratic_Party
 
 Jay_Sonza Kilusang_Bagong_Lipunan
 
@@ -1184,13 +4182,53 @@ Jayant_Sinha Bhartiya_Janta_Party
 
 Jayaram_Komati Telugu_Desam_Party
 
+Jean_Carnahan Democratic_Party
+
 Jean_Dorion Bloc_Québécois
 
+Jean_Godden Democratic_Party
+
+Jean_Kahwaji Independent
+
 Jean_Lapierre Bloc_Quebecois
+
+Jean_Monestime Democratic_Party
+
+Jean_Quan Democratic_Party
+
+Jean_Schodorf Democratic_Party
+
+Jeane_Kirkpatrick Democratic_Party
+
+Jeanette_Fitzsimons Alliance
+
+Jeanne_Hulit Democratic_Party
+
+Jeanne_Lambrew Democratic_Party
+
+Jeanne_Shaheen Democratic_Party
+
+Jeb_Spaulding Democratic_Party
+
+Jeff_Bingaman Democratic_Party
+
+Jeff_Merkley Democratic_Party
+
+Jeff_Roorda Democratic_Party
+
+Jeff_Steinborn Democratic_Party
+
+Jeff_Yarbro Democratic_Party
+
+Jeffrey_Davidow Democratic_Party
+
+Jeffrey_Dinowitz Democratic_Party
 
 Jeffrey_Donaldson Democratic_Unionist_Party
 
 Jeffrey_Donaldson Ulster_Unionist_Party
+
+Jeffrey_Katzenberg Democratic_Party
 
 Jeffrey_Kitingan Parti_Bersatu_Rakyat_Sabah
 
@@ -1198,11 +4236,71 @@ Jeffrey_Kitingan Parti_Bersatu_Sabah
 
 Jeffrey_Kitingan Parti_Keadilan_Rakyat
 
+Jeffrey_Schoenberg Democratic_Party
+
+Jeffrey_Zients Democratic_Party
+
+Jeh_Johnson Democratic_Party
+
+Jehmu_Greene Democratic_Party
+
+Jen_Psaki Democratic_Party
+
+Jennifer_Brunner Democratic_Party
+
+Jennifer_Granholm Democratic_Party
+
+Jennifer_Palmieri Democratic_Party
+
+Jennifer_Shilling Democratic_Party
+
+Jennifer_Veiga Democratic_Party
+
+Jenny_Durkan Democratic_Party
+
+Jens_Stoltenberg Labour_Party
+
+Jere_Beasley Democratic_Party
+
+Jeremy_Corbyn Labour_Party
+
+Jeremy_Lefroy Conservative_Party
+
+Jeremy_Nordquist Democratic_Party
+
+Jeri_Muoio Democratic_Party
+
+Jero_Wacik Democratic_Party
+
+Jerrold_Nadler Democratic_Party
+
+Jerry_Abramson Democratic_Party
+
 Jerry_Buttimer Fine_Gael
+
+Jerry_Lundergan Democratic_Party
+
+Jerry_McNerney Democratic_Party
+
+Jerry_Parisella Democratic_Party
+
+Jerry_Springer Democratic_Party
+
+Jerry_Stermer Democratic_Party
 
 Jerzy_Buzek Civic_Platform
 
 Jesse_Chacón PSUV
+
+Jesse_Helms Democratic_Party
+
+Jesse_Jackson Democratic_Party
+
+Jesse_Laslovich Democratic_Party
+
+Jesse_Robredo Liberal_Party
+
+Jessica_Lappin Democratic_Party
 
 Jesus_Crispin_Remulla Nacionalista_Party
 
@@ -1210,17 +4308,91 @@ Jesus_Crispin_Remulla Pwersa_ng_Masang_Pilipino
 
 Jesus_Dureza Laban_ng_Demokratikong_Pilipino
 
+Jigme_Thinley Independent
+
+Jill_Biden Democratic_Party
+
+Jill_Schupp Democratic_Party
+
+Jill_Techel Democratic_Party
+
 Jim_Allister Traditional_Unionist_Voice
+
+Jim_Ananich Democratic_Party
+
+Jim_Anderton Alliance
+
+Jim_Argue Democratic_Party
 
 Jim_Bollan Scottish_Socialist_Party
 
+Jim_Clyburn Democratic_Party
+
+Jim_Donelon Democratic_Party
+
+Jim_Doyle Democratic_Party
+
+Jim_Dunnam Democratic_Party
+
+Jim_Ferlo Democratic_Party
+
+Jim_Henson Democratic_Party
+
+Jim_Himes Democratic_Party
+
+Jim_Holperin Democratic_Party
+
+Jim_Jontz Democratic_Party
+
+Jim_Kastama Democratic_Party
+
+Jim_Leishman Labour_Party
+
+Jim_Marurai Democratic_Party
+
+Jim_Matheson Democratic_Party
+
+Jim_McGreevey Democratic_Party
+
+Jim_Naugle Democratic_Party
+
+Jim_Oberstar Democratic_Party
+
+Jim_Paice Conservative_Party
+
+Jim_Riesberg Democratic_Party
+
+Jim_Saleam Independent
+
+Jim_Saleam Progressive_Conservative_Party
+
+Jim_Schellinger Democratic_Party
+
+Jim_Suttle Democratic_Party
+
+Jimmy_Carter Democratic_Party
+
 Jimmy_Deenihan Fine_Gael
+
+Jimmy_Delshad Democratic_Party
 
 Jimmy_Devins Fianna_Fáil
 
+Jimmy_Durante Democratic_Party
+
+Jimmy_LaSalvia Independent
+
+Jimmy_Naifeh Democratic_Party
+
 Jimmy_Spratt Democratic_Unionist_Party
 
+Jimmy_Van_Bramer Democratic_Party
+
 Jinggoy_Estrada Pwersa_ng_Masang_Pilipino
+
+Jo_Ellen_Litz Democratic_Party
+
+Jo_Grimond Liberal_Party
 
 Jo_Grimond Liberal_Democrats
 
@@ -1228,11 +4400,85 @@ Jo_Swinson Liberal_Democrats
 
 Joachim_Baxla Trinamool_Congress
 
+Joachim_Baxla Revolutionary_Socialist_Party
+
+Joan_Bakewell Labour_Party
+
+Joan_Growe Democratic_Party
+
+Joan_Humble Labour_Party
+
+Joan_Kroc Democratic_Party
+
+Joan_Millman Democratic_Party
+
+Joan_Mondale Democratic_Party
+
+Joan_Ruddock Labour_Party
+
+Joan_Wagnon Democratic_Party
+
+Joan_Walley Labour_Party
+
+Joanna_Tuffy Labour_Party
+
+Ed_Ableser Democratic_Party
+
+Ed_DeLaney Democratic_Party
+
+Ed_FitzGerald Democratic_Party
+
+Ed_Koch Democratic_Party
+
+Ed_Markey Democratic_Party
+
+Ed_Miliband Labour_Party
+
+Ed_Pawlowski Democratic_Party
+
+Ed_Perlmutter Democratic_Party
+
+Ed_Rendell Democratic_Party
+
+Ed_Vaizey Conservative_Party
+
+Ed_Whitfield Democratic_Party
+
+Edcel_Lagman Independent
+
+Edd_Houck Democratic_Party
+
+Eddie_Bernice_Johnson Democratic_Party
+
+Eddie_Day_Pashinski Democratic_Party
+
+Eddie_Fenech_Adami Nationalist_Party
+
+Eddie_Ilarde Liberal_Party
+
 Eddie_Ilarde Kilusang_Bagong_Lipunan
+
+Eddie_Panlilio Independent
 
 Edgar_Chatto Lakas_Kampi_CMD
 
+Edgar_Malepeai Democratic_Party
+
 Edgardo_Angara Laban_ng_Demokratikong_Pilipino
+
+Edite_Estrela Socialist_Party
+
+Edmund_Ho Independent
+
+Edmund_Muskie Democratic_Party
+
+Edmund_Pettus Democratic_Party
+
+Edolphus_Towns Democratic_Party
+
+Edu_Manzano Independent
+
+Eduard_Shevardnadze Independent
 
 Eduardo_Bours Institutional_Revolutionary_Party
 
@@ -1244,15 +4490,55 @@ Eduardo_Gullas Nacionalista_Party
 
 Eduardo_Mondlane FRELIMO
 
+Eduardo_Paes Democrats
+
+Eduardo_Rodríguez Independent
+
+Edward_Casso Democratic_Party
+
+Edward_DeMarco Democratic_Party
+
+Edward_Garnier Conservative_Party
+
+Edward_Gibbon Whigs
+
+Edward_Hagedorn Liberal_Party
+
+Edward_J._Kasemeyer Democratic_Party
+
 Edward_Lowassa CHADEMA
 
 Edward_Lowassa Chama_cha_Mapinduzi
 
+Edward_Manibusan Democratic_Party
+
+Edward_Manibusan Independent
+
+Edward_Mezvinsky Democratic_Party
+
+Edward_Scicluna Labour_Party
+
 Edward_Ssekandi National_Resistance_Movement
+
+Edward_Staback Democratic_Party
+
+Edward_Timpson Conservative_Party
+
+Edwin_Lacierda Liberal_Party
 
 Edwin_Poots Democratic_Unionist_Party
 
+Edwin_Schlossberg Democratic_Party
+
+Edwina_Currie Conservative_Party
+
+Efren_Carrillo Democratic_Party
+
 Egon_Bahr SPD
+
+Ehsan_Jami Labour_Party
+
+Ehud_Barak Independence
 
 Ehud_Olmert Likud
 
@@ -1260,21 +4546,91 @@ Ehud_Olmert Kadima
 
 Eibhlin_Byrne Fianna_Fáil
 
+Eileen_Donahoe Democratic_Party
+
+Eileen_Donoghue Democratic_Party
+
 Ekmeleddin_İhsanoğlu Nationalist_Movement_Party
 
 Eknath_Khadse Bharatiya_Janata_Party
 
 Eknath_Shinde Shiv_Sena
 
+Elaine_Alquist Democratic_Party
+
+Elaine_Coderre Democratic_Party
+
+Elaine_Nekritz Democratic_Party
+
+Elbert_Guillory Democratic_Party
+
+Eleanor_Holmes_Norton Democratic_Party
+
+Eleanor_Laing Conservative_Party
+
+Eleanor_Roosevelt Democratic_Party
+
+Eleanor_Sobel Democratic_Party
+
+Eleftherios_Venizelos Liberal_Party
+
+Elena_Kagan Democratic_Party
+
+Eleni_Theocharous Solidarity_Movement
+
+Eleni_Tsakopoulos_Kounalakis Democratic_Party
+
 Elfyn_Llwyd Plaid_Cymru
+
+Eli_Segal Democratic_Party
+
+Elijah_Cummings Democratic_Party
 
 Elijah_Ngurare SWAPO
 
+Elio_Di_Rupo Parti_Socialiste
+
+Eliot_Cutler Independent
+
+Eliot_Engel Democratic_Party
+
+Eliot_Glassheim Democratic_Party
+
+Eliot_Spitzer Democratic_Party
+
+Elizabeth_Dole Democratic_Party
+
+Elizabeth_Esty Democratic_Party
+
+Elizabeth_Frawley_Bagley Democratic_Party
+
+Elizabeth_Furse Democratic_Party
+
+Elizabeth_Holtzman Democratic_Party
+
+Elizabeth_Tisdahl Democratic_Party
+
+Elizabeth_Truss Conservative_Party
+
 Elizabeth_Truss Liberal_Democrats
+
+Ella_Vogelaar Labour_Party
+
+Ellen_Cogen_Lipton Democratic_Party
+
+Ellen_Jaffee Democratic_Party
+
+Ellen_Tauscher Democratic_Party
+
+Elliot_Morley Labour_Party
 
 Elliott_Stonecipher Nonpartisan
 
+Ellis_Arnall Democratic_Party
+
 Elpidio_Quirino Nacionalista_Party
+
+Elpidio_Quirino Liberal_Party
 
 Elsie_Lefebvre Parti_Québécois
 
@@ -1282,11 +4638,37 @@ Elspeth_Attwooll Liberal_Democrats
 
 Elwyn_Watkins Liberal_Democrats
 
+Emanuel_Celler Democratic_Party
+
+Emanuel_Cleaver Democratic_Party
+
+Emer_Costello Labour_Party
+
+Emil_Jones Democratic_Party
+
+Emily_Thornberry Labour_Party
+
+Emma_Bonino Radical_Party
+
+Emma_McClarkin Conservative_Party
+
+Emmanuel_Mallia Labour_Party
+
+Emmanuel_Pelaez Liberal_Party
+
+Emmet_Stagg Labour_Party
+
 Emory_Folmar Gubernatorial
 
 Enda_Kenny Fine_Gael
 
+Eni_Faleomavaega Democratic_Party
+
 Enoch_Powell Ulster_Unionist_Party
+
+Enoch_Powell Conservative_Party
+
+Enrico_Letta Democratic_Party
 
 Enrique_Mendoza COPEI
 
@@ -1294,33 +4676,145 @@ Enrique_Peña_Nieto Institutional_Revolutionary_Party
 
 Erastus_Uutoni SWAPO
 
+Eric_Fingerhut Democratic_Party
+
+Eric_Garcetti Democratic_Party
+
+Eric_Gioia Democratic_Party
+
+Eric_Griego Democratic_Party
+
+Eric_Holder Democratic_Party
+
+Eric_Illsley Labour_Party
+
+Eric_Martlew Labour_Party
+
+Eric_Ollerenshaw Conservative_Party
+
+Eric_Papenfuse Democratic_Party
+
+Eric_Pickles Conservative_Party
+
+Eric_Roozendaal Independent
+
+Eric_Schmidt Democratic_Party
+
+Eric_Schneiderman Democratic_Party
+
+Eric_Turkington Democratic_Party
+
 Erico_Aumentado Nacionalista_Party
 
+Erico_Basilio_Fabian Nacionalista_Party
+
+Erik_Poulsen Democratic_Party
+
 Erlan_Idrissov Nur_Otan
+
+Erna_Solberg Conservative_Party
+
+Ernest_Bevin Labour_Party
+
+Ernest_Gruening Democratic_Party
+
+Ernest_Hollings Democratic_Party
+
+Ernest_Marples Conservative_Party
+
+Ernest_Moniz Democratic_Party
 
 Ernesto_Maceda Nacionalista_Party
 
 Ernesto_Maceda Pwersa_ng_Masang_Pilipino
 
+Ernesto_Scorsone Democratic_Party
+
 Ernesto_Zedillo Institutional_Revolutionary_Party
+
+Ernie_Chambers Independent
+
+Erroll_Davis Democratic_Party
+
+Erskine_Bowles Democratic_Party
+
+Ertharin_Cousin Democratic_Party
+
+Esam_Omeish Democratic_Party
 
 Esmael_Mangudadatu Lakas_Kampi_CMD
 
+Esmael_Mangudadatu Liberal_Party
+
 Esmond_Birnie Ulster_Unionist_Party
+
+Espen_Barth_Eide Labour_Party
+
+Esperanza_Aguirre Liberal_Party
+
+Essam_Sharaf Independent
+
+Estelle_Morris Labour_Party
+
+Estes_Kefauver Democratic_Party
+
+Esther_Manheimer Democratic_Party
+
+Esther_McVey Conservative_Party
+
+Ethan_Berkowitz Democratic_Party
+
+Ethan_Strimling Democratic_Party
+
+Ethel_Kennedy Democratic_Party
+
+Etta_Rosales Liberal_Party
 
 Eugene_Chien Kuomintang
 
+Eugene_DePasquale Democratic_Party
+
+Eugene_Talmadge Democratic_Party
+
+Eugene_V._Debs Democratic_Party
+
 Eugène_Terre'Blanche Afrikaner_Weerstandsbeweging
+
+Eunice_Kennedy_Shriver Democratic_Party
 
 Eurig_Wyn Plaid_Cymru
 
 Eva_Perón Justicialist_Party
 
+Evan_Bayh Democratic_Party
+
+Evan_Dobelle Democratic_Party
+
+Evan_Jenne Democratic_Party
+
 Evangelos_Venizelos Panhellenic_Socialist_Movement
+
+Evarist_Bartolo Labour_Party
+
+Eveline_Herfkens Labour_Party
+
+Evelio_Javier Liberal_Party
+
+Evelyn_Gandy Democratic_Party
+
+Evie_Hudak Democratic_Party
 
 Ewa_Kopacz Civic_Platform
 
+Exequiel_Javier Liberal_Party
+
 Ezekiel_Maige Chama_Cha_Mapinduzi
+
+Ezer_Weizman Yahad
+
+Fabian_Núñez Democratic_Party
+
+Facundo_Quiroga Federales
 
 Fadel_Muhammad Golkar_Party
 
@@ -1328,29 +4822,53 @@ Fadillah_Yusof Parti_Pesaka_Bumiputera_Bersatu
 
 Faggan_Singh_Kulaste Bharatiya_Janata_Party
 
+Faisal_Saleh_Hayat Independent
+
 Faisal_Subzwari Muttahida_Qaumi_Movement
+
+Fakhruddin_Ahmed Independent
 
 Farah_Karimi GreenLeft
 
+Farhat_Rajhi Independent
+
 Farooq_Sattar Muttahida_Qaumi_Movement
 
+Farouk_Shami Democratic_Party
+
 Faruk_Khan Awami_League
+
+Fatima_Jinnah Independent
 
 Fatimah_Abdullah Parti_Pesaka_Bumiputera_Bersatu
 
 Fausto_Bertinotti Communist_Refoundation_Party
 
+Fauzi_Bowo Democratic_Party
+
 Fazle_Noor_Taposh Bangladesh_Awami_League
+
+Federico_Peña Democratic_Party
+
+Feliciano_Belmonte_Jr. Liberal_Party
 
 Felipe_Solá Justicialist_Party
 
 Felisa_Miceli Justicialist_Party
 
+Felix_Rohatyn Democratic_Party
+
+Felix_Roque Democratic_Party
+
 Femke_Halsema GreenLeft
 
 Ferdinand_Marcos Kilusang_Bagong_Lipunan
 
+Ferdinando_Imposimato Independent
+
 Fergus_O'Dowd Fine_Gael
+
+Fernando_Ferrer Democratic_Party
 
 Fernando_Poe_Jr. Koalisyon_ng_Nagkakaisang_Pilipino
 
@@ -1362,9 +4880,35 @@ Filip_Dewinter Vlaams_Belang
 
 Filip_Dewinter Vlaams_Blok
 
+Fiona_Ma Democratic_Party
+
+Fiona_Mactaggart Labour_Party
+
+Fiona_Shackleton Conservative_Party
+
+Fiorello_H._La_Guardia Progressive_Party
+
+Firdous_Ashiq_Awan PML
+
+Florencio_Abad Liberal_Party
+
+Florencio_Miraflores Liberal_Party
+
+Floyd_Esquibel Democratic_Party
+
+Floyd_Prozanski Democratic_Party
+
 Fong_Chan_Onn Barisan_Nasional
 
+Fouad_Mebazaa Independent
+
 Fra_McCann Sinn_Féin
+
+Fran_Ulmer Democratic_Party
+
+Francesco_Rutelli Democratic_Party
+
+Francesco_Rutelli Radical_Party
 
 Francie_Brolly Sinn_Féin
 
@@ -1372,37 +4916,153 @@ Francie_Molloy Sinn_Féin
 
 Francine_Lalonde Bloc_Québécois
 
+Francis_Ford_Coppola Democratic_Party
+
+Francis_Maude Conservative_Party
+
 Francis_Pangilinan Laban_ng_Demokratikong_Pilipino
+
+Francis_Pangilinan Liberal_Party
+
+Francis_Tolentino Liberal_Party
+
+Francis_X._Bellotti Democratic_Party
+
+Francisco_Assis Socialist_Party
 
 Francisco_Tatad Laban_ng_Demokratikong_Pilipino
 
 Francisco_Tatad Kilusang_Bagong_Lipunan
 
+Franco_Carraro Forza_Italia
+
+Franco_Debono Nationalist_Party
+
+Franco_Frattini Independent
+
 Franco_Frattini Forza_Italia
+
+Franco_Marini Democratic_Party
+
+Franco_Parisi Independent
 
 Franco_Zeffirelli Forza_Italia
 
+Frank_A._Sedita Democratic_Party
+
+Frank_Ballance Democratic_Party
+
+Frank_Barnitz Democratic_Party
+
+Frank_Chopp Democratic_Party
+
+Frank_Cownie Democratic_Party
+
+Frank_Dermody Democratic_Party
+
+Frank_DiCicco Democratic_Party
+
+Frank_Fasi Democratic_Party
+
 Frank_Feighan Fine_Gael
+
+Frank_Heemskerk Labour_Party
+
+Frank_Holleman Democratic_Party
+
+Frank_Kassela Democratic_Party
+
+Frank_Kloucek Democratic_Party
+
+Frank_Kratovil Democratic_Party
+
+Frank_LaGrotta Democratic_Party
+
+Frank_LaMere Democratic_Party
+
+Frank_Lausche Democratic_Party
+
+Frank_Lautenberg Democratic_Party
 
 Frank_McCoubrey Democratic_Unionist_Party
 
+Frank_Mrvan Democratic_Party
+
+Frank_O'Bannon Democratic_Party
+
+Frank_Pallone Democratic_Party
+
+Frank_Pistella Democratic_Party
+
+Frank_Skartados Democratic_Party
+
+Frank_Smizik Democratic_Party
+
+Frank_Zappa Independent
+
+Franke_Wilmer Democratic_Party
+
+Franklin_D._Roosevelt Democratic_Party
+
+Franklin_Drilon Liberal_Party
+
+Franklin_Raines Democratic_Party
+
+Frans_Timmermans Labour_Party
+
+François_Bozizé Independent
+
 François_Gendron Parti_Québécois
+
+François_Hollande Socialist_Party
 
 François_Legault Parti_Québécois
 
+François_Mitterrand Socialist_Party
+
+Fred_Belardi Democratic_Party
+
 Fred_Cobain Democratic_Unionist_Party
 
+Fred_DuVal Democratic_Party
+
+Fred_Hochberg Democratic_Party
+
+Fred_Hofheinz Democratic_Party
+
+Fred_Keeley Democratic_Party
+
+Fred_Phelps Democratic_Party
+
+Fred_Risser Democratic_Party
+
 Freddy_Bernal PSUV
+
+Fredenil_Castro Liberal_Party
+
+Frederica_Wilson Democratic_Party
+
+Froilan_Tenorio Democratic_Party
 
 Fuziah_Salleh Parti_Keadilan_Rakyat
 
 G._Kishan_Reddy Bharatiya_Janata_Party
 
+G._Mennen_Williams Democratic_Party
+
+G._Oliver_Koppell Democratic_Party
+
+Gabriel_Oprea Independent
+
 Gabriele_Albertini Forza_Italia
+
+Gabrielle_Giffords Democratic_Party
 
 Gaddar Telangana_Praja_Front
 
 Gade_Venkata_Reddy Telugu_Desam_Party
+
+Gael_Tarleton Democratic_Party
 
 Gagan_Thapa Nepali_Congress
 
@@ -1410,45 +5070,259 @@ Gaganjit_Singh_Barnala Shiromani_Akali_Dal
 
 Gagik_Tsarukyan Prosperous_Armenia
 
+Gail_Chasey Democratic_Party
+
+Gail_Gutsche Democratic_Party
+
+Gail_Riecken Democratic_Party
+
+Gail_Schoettler Democratic_Party
+
+Gailanne_Cariddi Democratic_Party
+
 Gajanan_Kirtikar Shiv_Sena
+
+Gale_Brewer Democratic_Party
+
+Gale_D._Candaras Democratic_Party
 
 Ganesh_Karnik Bharatiya_Janata_Party
 
 Ganesh_Naik Shiv_Sena
 
+Garnet_Coleman Democratic_Party
+
 Garret_FitzGerald Fine_Gael
+
+Garry_Mauro Democratic_Party
+
+Gary_Ackerman Democratic_Party
+
+Gary_Condit Democratic_Party
+
+Gary_Forby Democratic_Party
+
+Gary_Gensler Democratic_Party
+
+Gary_Hannig Democratic_Party
+
+Gary_Hooser Democratic_Party
+
+Gary_Leitzell Independent
+
+Gary_Locke Democratic_Party
+
+Gary_Schaer Democratic_Party
+
+Gary_Sherrer Democratic_Party
+
+Gary_Siplin Democratic_Party
+
+Gary_Titley Labour_Party
+
+Gary_Trauner Democratic_Party
+
+Gaston_Caperton Democratic_Party
+
+Gatewood_Galbraith Democratic_Party
+
+Gavan_O'Connor Independent
+
+Gavin_Barwell Conservative_Party
+
+Gavin_Newsom Democratic_Party
+
+Gavin_Strang Labour_Party
+
+Gavyn_Davies Labour_Party
+
+Gaye_Symington Democratic_Party
+
+Gayle_Slossberg Democratic_Party
+
+Gaylord_Nelson Democratic_Party
+
+Gaynor_Cawley Democratic_Party
 
 Gebran_Bassil Free_Patriotic_Movement
 
 Gebran_Tueni Qornet_Shehwan_Gathering
 
+Geert_Wilders Independent
+
 Gegong_Apang Bharatiya_Janata_Party
 
+Gemma_Tumelty Labour_Party
+
+Gene_Jeffress Democratic_Party
+
+Gene_Sperling Democratic_Party
+
+Gene_Stipe Democratic_Party
+
+Geoff_Hoon Labour_Party
+
+Geoffrey_Fieger Democratic_Party
+
+Geoffrey_Howe Conservative_Party
+
+Geoffrey_Van_Orden Conservative_Party
+
+George_Abela Labour_Party
+
+George_Borg_Olivier Nationalist_Party
+
+George_Busbee Democratic_Party
+
+George_Chellah Patriotic_Front
+
+George_Darany Democratic_Party
+
+George_Eighmey Democratic_Party
+
+George_Gascón Democratic_Party
+
+George_Gaulrapp Democratic_Party
+
+George_Gaynes Democratic_Party
+
+George_Jepsen Democratic_Party
+
+George_Kerevan Labour_Party
+
+George_Keverian Democratic_Party
+
+George_Maragos Democratic_Party
+
+George_McGovern Democratic_Party
+
 George_Mkuchika Chama_Cha_Mapinduzi
+
+George_Moscone Democratic_Party
+
+George_Osborne Conservative_Party
 
 George_Papandreou Panhellenic_Socialist_Movement
 
 George_Petalotis Panhellenic_Socialist_Movement
 
+George_Pullicino Nationalist_Party
+
+George_Soros Democratic_Party
+
+George_Stephanopoulos Democratic_Party
+
+George_Tenet Democratic_Party
+
+Georgi_Parvanov Independent
+
 Georgi_Parvanov Bulgarian_Socialist_Party
+
+Gerald_Boudreaux Democratic_Party
+
+Gerald_Garson Democratic_Party
+
+Gerald_Geis Republican
+
+Gerald_Howarth Conservative_Party
+
+Gerald_L._Baliles Democratic_Party
+
+Gerald_LaValle Democratic_Party
+
+Gerald_Mullery Democratic_Party
+
+Gerald_Rafshoon Democratic_Party
+
+Gerald_Theunissen Democratic_Party
+
+Gerald_Zahorchak Democratic_Party
+
+Geraldine_Ferraro Democratic_Party
+
+Geraldo_Alicea Democratic_Party
+
+Gerard_Leone Democratic_Party
+
+Gerardo_Roxas Liberal_Party
+
+Gerardo_Sandoval Democratic_Party
+
+Gerd_Leers Labour_Party
 
 Gerry_Adams Sinn_Féin
 
+Gerry_Connolly Democratic_Party
+
+Gerry_Pollet Democratic_Party
+
+Gerry_Sutcliffe Labour_Party
+
 Gertrude_Mongella Chama_Cha_Mapinduzi
+
+Gery_Chico Democratic_Party
 
 Ghanshyam_Tiwari Bharatiya_Janata_Party
 
+Ghazi_Aridi Progressive_Socialist_Party
+
 Ghulam_Farooq_Wardak Hezbi_Islami
 
+Ghulam_Ishaq_Khan Independent
+
+Gian_Mario_Spacca Democratic_Party
+
+Giancarlo_Galan Forza_Italia
+
+Gianfranco_Rotondi Forza_Italia
+
 Gianluca_Buonanno Lega_Nord
+
+Gianni_Letta Forza_Italia
+
+Gianni_Pittella Democratic_Party
+
+Gib_Lewis Democratic_Party
+
+Gideon_Welles Democratic_Party
+
+Gil_Cedillo Democratic_Party
+
+Gil_Duran Democratic_Party
+
+Gil_Garcetti Democratic_Party
+
+Gil_Kerlikowske Democratic_Party
 
 Gil_Puyat Nacionalista_Party
 
 Gilbert_Bukenya National_Resistance_Movement
 
+Gilbert_Houngbo Independent
+
+Gilberto_Hinojosa Democratic_Party
+
+Gilda_Jacobs Democratic_Party
+
+Giles_Chichester Conservative_Party
+
 Gilles_Duceppe Bloc_Québécois
 
 Gilles_Taillon Action_démocratique_du_Québec
+
+Gillian_Merron Labour_Party
+
+Gillian_Shephard Conservative_Party
+
+Gina_Glantz Democratic_Party
+
+Gina_McCarthy Democratic_Party
+
+Gina_Raimondo Democratic_Party
+
+Ginny_Burdick Democratic_Party
+
+Gino_Cauchi Labour_Party
 
 Giorgos_Papakonstantinou Panhellenic_Socialist_Movement
 
@@ -1458,17 +5332,55 @@ Giriraj_Singh Bharatiya_Janata_Party
 
 Girish_Bapat Bharatiya_Janata_Party
 
+Girolamo_Sirchia Independent
+
+Gisela_Stuart Labour_Party
+
+Gitte_Lillelund_Bech Venstre
+
+Giuliano_Amato Democratic_Party
+
+Giuliano_Ferrara Independent
+
 Giuliano_Ferrara Forza_Italia
+
+Giuliano_Pisapia Independent
 
 Giuliano_Urbani Forza_Italia
 
+Giulio_Andreotti Independent
+
 Giulio_Tremonti Forza_Italia
+
+Giuseppe_Fioroni Democratic_Party
+
+Gladys_Spellman Democratic_Party
+
+Glen_Browder Democratic_Party
+
+Glen_Maxey Democratic_Party
+
+Glenis_Willmott Labour_Party
+
+Glenn_Ivey Democratic_Party
+
+Glenn_Nye Democratic_Party
+
+Glenn_Poshard Democratic_Party
 
 Gloria_Macapagal_Arroyo Laban_ng_Demokratikong_Pilipino
 
 Gloria_Macapagal_Arroyo Kabalikat_ng_Malayang_Pilipino
 
+Gloria_Molina Democratic_Party
+
+Gloria_Negrete_McLeod Democratic_Party
+
+Gloria_Tristani Democratic_Party
+
 Godfrey_Binaisa National_Resistance_Movement
+
+Goh_Kun Democratic_Party
 
 Golda_Meir Mapai
 
@@ -1478,21 +5390,87 @@ Gopal_Shetty Bharatiya_Janata_Party
 
 Gopinath_Munde Bhartiya_Janata_Party
 
+Gordon_Bajnai Together
+
 Gordon_Birtwistle Liberal_Democrats
+
+Gordon_Bradbery Independent
+
+Gordon_Brown Labour_Party
+
+Gordon_Hintz Democratic_Party
+
+Gordon_Mowrer Democratic_Party
+
+Gore_Vidal Democratic_Party
 
 Govind_Patel Bhartiya_Janata_Party
 
+Grace_Meng Democratic_Party
+
+Grace_Padaca Independent
+
+Grant_Shapps Conservative_Party
+
 Greg_Gutfeld Libertarian
+
+Greg_Jergeson Democratic_Party
+
+Greg_Macpherson Democratic_Party
 
 Greg_Mulholland Liberal_Democrats
 
+Greg_Nickels Democratic_Party
+
+Greg_Skrepenak Democratic_Party
+
+Greg_Stumbo Democratic_Party
+
+Greg_Vitali Democratic_Party
+
+Gregg_Takayama Democratic_Party
+
+Gregorio_Sablan Democratic_Party
+
+Gregorio_Sablan Independent
+
+Gregory_Fajt Democratic_Party
+
+Gregory_Jaczko Democratic_Party
+
+Gregory_Meeks Democratic_Party
+
+Gregory_Peck Democratic_Party
+
+Greta_Goodwin Democratic_Party
+
+Gretchen_Whitmer Democratic_Party
+
+Grete_Faremo Labour_Party
+
+Greville_Janner Labour_Party
+
+Grigol_Mgaloblishvili Independent
+
+Grigol_Vashadze Independent
+
 Grigory_Yavlinsky Yabloko
+
+Gro_Harlem_Brundtland Labour_Party
+
+Grover_Cleveland Democratic_Party
 
 Grzegorz_Schetyna Civic_Platform
 
+Guglielmo_Epifani Democratic_Party
+
 Guia_Gomez Pwersa_ng_Masang_Pilipino
 
+Guido_Calabresi Democratic_Party
+
 Guido_Crosetto Forza_Italia
+
+Guillermo_Linares Democratic_Party
 
 Gulab_Chand_Kataria Bharatiya_Janata_Party
 
@@ -1502,15 +5480,35 @@ Gurcharan_Singh_Tohra Shiromani_Gurdwara_Parbandhak_Committee
 
 Gurnam_Singh Shiromani_Akali_Dal
 
+Gus_Douglass Democratic_Party
+
 Gusty_Spence Progressive_Unionist_Party
+
+Guto_Bebb Conservative_Party
+
+Guy_Boutilier Independent
 
 Guy_Boutilier Wildrose_Alliance_Party
 
 Guy_Chevrette Parti_Québécois
 
+Guy_Glodis Democratic_Party
+
+Guy_Guzzone Democratic_Party
+
+Gwen_Margolis Democratic_Party
+
+Gwendolyn_Faison Democratic_Party
+
 Gwendolyn_Garcia Lakas_Kampi_CMD
 
 Gwenllian_Lansdown Plaid_Cymru
+
+Gwyn_Prosser Labour_Party
+
+Gwyneth_Dunwoody Labour_Party
+
+Gyles_Brandreth Conservative_Party
 
 Gyula_Horn Hungarian_Socialist_Party
 
@@ -1522,57 +5520,291 @@ Gábor_Vona Jobbik
 
 Hage_Geingob SWAPO
 
+Hakeem_Jeffries Democratic_Party
+
+Hale_Boggs Democratic_Party
+
+Halldór_Ásgrímsson Progressive_Party
+
+Hamid_Mirzadeh Independent
+
+Hampton_Dellinger Democratic_Party
+
+Hank_Coe Republican
+
+Hanna_Suchocka Solidarity
+
+Hannah_Pingree Democratic_Party
+
+Hannibal_Hamlin Democratic_Party
+
+Hans_Dunshee Democratic_Party
+
+Hans_Enoksen Forward
+
 Harak_Singh_Rawat Bhartiya_Janta_Party
 
 Harcharan_Bains Shiromani_Akali_Dal
 
 Hardeep_Singh_Puri Bharatiya_Janata_Party
 
+Hari_Sevugan Democratic_Party
+
 Harin_Pathak Bharatiya_Janata_Party
+
+Harold_Haugh Democratic_Party
+
+Harold_Hongju_Koh Democratic_Party
+
+Harold_Janeway Democratic_Party
+
+Harold_Macmillan Conservative_Party
+
+Harold_Metts Democratic_Party
+
+Harold_Nicolson Labour_Party
+
+Harold_Volkmer Democratic_Party
+
+Harold_Weinbrecht Democratic_Party
+
+Harriet_Harman Labour_Party
+
+Harriet_Miers Democratic_Party
+
+Harriett_Baldwin Conservative_Party
+
+Harriett_Stanley Democratic_Party
 
 Harrison_Mwakyembe Chama_Cha_Mapinduzi
 
+Harry_Belafonte Democratic_Party
+
+Harry_Connick_Sr. Democratic_Party
+
+Harry_Meshel Democratic_Party
+
+Harry_Osterman Democratic_Party
+
+Harry_Reid Democratic_Party
+
+Harry_Shorstein Democratic_Party
+
+Harry_Teague Democratic_Party
+
+Harry_van_Bommel Socialist_Party
+
 Harsimrat_Kaur_Badal Shiromani_Akali_Dal
 
+Harvey_Gantt Democratic_Party
+
+Harvey_Milk Democratic_Party
+
+Harvey_Munford Democratic_Party
+
+Harvey_Weinstein Democratic_Party
+
+Harvey_Weisenberg Democratic_Party
+
 Hasanul_Haq_Inu Jatiya_Samajtantrik_Dal
+
+Hassan_Abshir_Farah Independent
 
 Hassan_Mahmood_Khandker Bangladesh_Awami_League
 
 Hassan_Nasrallah Hezbollah
 
+Hassan_Nemazee Democratic_Party
+
+Hattie_Caraway Democratic_Party
+
+Hazel_Blears Labour_Party
+
+Hazel_McCallion Independent
+
+Heath_Mello Democratic_Party
+
+Heath_Shuler Democratic_Party
+
+Heather_Higginbottom Democratic_Party
+
+Heather_Mizeur Democratic_Party
+
+Heather_Steans Democratic_Party
+
+Heather_Zichal Democratic_Party
+
+Hector_Balderas Democratic_Party
+
 Heherson_Alvarez Laban_ng_Demokratikong_Pilipino
+
+Heidi_Davison Democratic_Party
+
+Heidi_Shierholz Democratic_Party
+
+Helen_Boosalis Democratic_Party
+
+Helen_Gahagan_Douglas Democratic_Party
+
+Helen_Klanderud Democratic_Party
+
+Helen_Shiller Democratic_Party
+
+Helen_Sommers Democratic_Party
+
+Helen_Suzman Progressive_Party
+
+Helen_Zille Democratic_Party
+
+Helene_Schneider Democratic_Party
+
+Helio_Melo Democratic_Party
 
 Helmut_Angula SWAPO
 
 Hemlal_Murmu Bharatiya_Janata_Party
 
+Henri_Emmanuelli Socialist_Party
+
 Henrique_Capriles_Radonski Copei
 
+Henrique_Rosa Independent
+
+Henry_Cisneros Democratic_Party
+
+Henry_Cuellar Democratic_Party
+
+Henry_Fonda Democratic_Party
+
+Henry_Waxman Democratic_Party
+
+Herb_Conaway Democratic_Party
+
+Herb_Kirsh Democratic_Party
+
+Herb_Kohl Democratic_Party
+
+Herb_Rozell Democratic_Party
+
+Herb_Wesson Democratic_Party
+
+Herbert_Bautista Liberal_Party
+
+Herman_Badillo Democratic_Party
+
+Herman_Talmadge Democratic_Party
+
+Hermes_Binner Socialist_Party
+
+Hermina_Morita Democratic_Party
+
+Herminia_Roman Liberal_Party
+
 Heydar_Aliyev CPSU
+
+Heywood_Broun Socialist_Party
 
 Hidipo_Hamutenya SWAPO
 
 Hifikepunye_Pohamba SWAPO
 
+Hilario_Davide_III Liberal_Party
+
+Hilary_Benn Labour_Party
+
+Hilary_Rosen Democratic_Party
+
+Hilda_Solis Democratic_Party
+
+Hillary_Clinton Democratic_Party
+
 Himanta_Biswa_Sarma Bharatiya_Janata_Party
+
+Hinton_Mitchem Democratic_Party
 
 Hira_Singh_Gabria Shiromani_Akali_Dal
 
+Hiram_Monserrate Democratic_Party
+
+Hob_Bryan Democratic_Party
+
+Hodding_Carter Democratic_Party
+
+Hodding_Carter_III Democratic_Party
+
+Holly_Raser Democratic_Party
+
+Horace_Greeley Whig_Party
+
+Horace_Mann Whig_Party
+
+Horatio_Seymour Democratic_Party
+
+Howard_Berman Democratic_Party
+
+Howard_Dean Democratic_Party
+
+Howard_Metzenbaum Democratic_Party
+
+Howard_Stern Libertarian_Party
+
+Howard_Stoate Labour_Party
+
+Howard_Wolfson Democratic_Party
+
+Howell_Heflin Democratic_Party
+
+Hubert_Humphrey Democratic_Party
+
+Huey_Long Democratic_Party
+
+Hugh_Bayley Labour_Party
+
+Hugh_Gaitskell Labour_Party
+
+Hugh_Nibley Democratic_Party
+
+Hugh_Rodham Democratic_Party
+
 Hugo_Moyano Justicialist_Party
+
+Hugo_Swire Conservative_Party
 
 Hukam_Singh Janata_Dal
 
+Huma_Abedin Democratic_Party
+
 Humberto_Moreira Institutional_Revolutionary_Party
 
+Humfrey_Malins Conservative_Party
+
 Hussein_Mwinyi Chama_Cha_Mapinduzi
+
+Hussein_Onn Independent
+
+Hywel_Francis Labour_Party
 
 Hywel_Williams Plaid_Cymru
 
 Héctor_Timerman Justicialist_Party
 
+Iain_Dale Conservative_Party
+
+Iain_Duncan_Smith Conservative_Party
+
+Iain_Macleod Conservative_Party
+
+Iajuddin_Ahmed Independent
+
+Ian_Bowles Democratic_Party
+
+Ian_Cawsey Labour_Party
+
 Ian_Paisley Democratic_Unionist_Party
 
 Ian_Swales Liberal_Democrats
+
+Ibrahim_Dabbashi Independent
 
 Idris_Jusoh Barisan_Nasional
 
@@ -1580,7 +5812,19 @@ Ieuan_Wyn_Jones Plaid_Cymru
 
 Ignacio_Bunye Lakas_Kampi_CMD
 
+Ignazio_Marino Democratic_Party
+
 Igor_Chudinov Ak_Jol
+
+Igor_Shuvalov Independent
+
+Igor_Smirnov Republic
+
+Ikaika_Anderson Democratic_Party
+
+Ike_Skelton Democratic_Party
+
+Ilya_Ponomarev Left_Front
 
 Ilya_Yashin Solidarnost
 
@@ -1600,13 +5844,31 @@ Imran_Farooq Muttahida_Qaumi_Movement
 
 Imre_Szekeres Hungarian_Socialist_Party
 
+Inez_Dickens Democratic_Party
+
+Inez_Tenenbaum Democratic_Party
+
+Inonge_Wina Patriotic_Front
+
 Iqbal_Mehmood Samajwadi_Party
 
 Iqbal_Qadri Muttahida_Qaumi_Movement
 
+Ira_Ruskin Democratic_Party
+
+Ira_Silverstein Democratic_Party
+
+Iris_Estabrook Democratic_Party
+
 Iris_Robinson Democratic_Unionist_Party
 
+Iris_Robinson Independent
+
 Isa_Qassim Al_Wefaq
+
+Ishenbai_Kadyrbekov Independent
+
+Isidro_Ungab Liberal_Party
 
 Isidro_Ungab Pwersa_ng_Masang_Pilipino
 
@@ -1626,11 +5888,59 @@ István_Hiller Hungarian_Socialist_Party
 
 Ivailo_Kalfin Bulgarian_Socialist_Party
 
+Ivan_Mikloš Democratic_Party
+
+Ivana_Bacik Labour_Party
+
+Ivanka_Trump Independent
+
+Ivo_Sanader Independent
+
+Ivor_Caplin Labour_Party
+
+J._Christian_Bollwage Democratic_Party
+
+J._Gary_Pretlow Democratic_Party
+
+J._Millard_Tawes Democratic_Party
+
 JV_Ejercito Pwersa_ng_Masang_Pilipino
 
 Jacek_Rostowski Civic_Platform
 
+Jack_Dromey Labour_Party
+
+Jack_Hidary Independent
+
+Jack_Markell Democratic_Party
+
+Jack_Mildren Democratic_Party
+
+Jack_Minore Democratic_Party
+
+Jack_Seiler Democratic_Party
+
+Jack_Straw Labour_Party
+
+Jackie_Cilley Democratic_Party
+
+Jackie_Speier Democratic_Party
+
+Jackie_Walorski Republican
+
+Jacob_Ruppert Democratic_Party
+
+Jacqueline_Kennedy_Onassis Democratic_Party
+
+Jacques_Delors Socialist_Party
+
 Jacques_Parizeau Parti_Québécois
+
+Jacques_Rueff Independent
+
+Jacqui_Lait Conservative_Party
+
+Jacqui_Smith Labour_Party
 
 Jagadish_Shettar Bharatiya_Janata_Party
 
@@ -1642,6 +5952,8 @@ Jagdish_Pradhan Bharatiya_Janata_Party
 
 Jaggesh Bharatiya_Janata_Party
 
+Jagjivan_Ram Congress
+
 Jagpal Bahujan_Samaj_Party
 
 Jahangir_Kabir_Nanak Bangladesh_Awami_League
@@ -1650,33 +5962,151 @@ Jai_Bhagwan_Goyal Bharatiya_Janata_Party
 
 Jai_Prakash Samajwadi_Party
 
+Jaime_Gama Socialist_Party
+
 Jaime_Lusinchi Acción_Democrática
 
 Jakaya_Kikwete Chama_Cha_Mapinduzi
 
+Jake_Godbold Democratic_Party
+
+Jake_McGoldrick Democratic_Party
+
+Jake_Siewert Democratic_Party
+
 Jale_Baba Soqosoqo_Duavata_ni_Lewenivanua
+
+Jamby_Madrigal Independent
 
 Jamby_Madrigal Laban_ng_Demokratikong_Pilipino
 
+Jamby_Madrigal Liberal_Party
+
+James_Abourezk Democratic_Party
+
+James_Amann Democratic_Party
+
+James_Arbuthnot Conservative_Party
+
+James_Balcer Democratic_Party
+
+James_Brochin Democratic_Party
+
+James_Brokenshire Conservative_Party
+
+James_Buskey Democratic_Party
+
+James_Carville Democratic_Party
+
+James_Casorio Democratic_Party
+
+James_Clappison Conservative_Party
+
+James_Comey Independent
+
+James_Duddridge Conservative_Party
+
+James_Ohrenschall Democratic_Party
+
+James_Plaskitt Labour_Party
+
 James_Soong Kuomintang
+
+James_Spallone Democratic_Party
+
+James_Traficant Democratic_Party
+
+Jamie_Dimon Democratic_Party
+
+Jamie_Gorelick Democratic_Party
+
+Jamie_Raskin Democratic_Party
+
+Jamilah_Nasheed Democratic_Party
+
+Jan_Drago Democratic_Party
+
+Jan_Egeland Labour_Party
 
 Jan_Krzysztof_Bielecki Civic_Platform
 
+Jan_Kubice Independent
+
+Jan_Marijnissen Socialist_Party
+
+Jan_Pronk Labour_Party
+
 Jan_Rokita Civic_Platform
+
+Jan_Schakowsky Democratic_Party
 
 Janardan_Singh_Sigriwal Bharatiya_Janata_Party
 
+Jane_Harman Democratic_Party
+
+Jane_Holl_Lute Democratic_Party
+
 Janeshwar_Mishra Samajwadi_Party
+
+Janet_Cowell Democratic_Party
+
+Janet_DiFiore Democratic_Party
+
+Janet_Napolitano Democratic_Party
+
+Janet_Reno Democratic_Party
+
+Janet_Woollard Independent
+
+Janet_Yellen Democratic_Party
+
+Janice_Hahn Democratic_Party
+
+Janis_Ringhand Democratic_Party
 
 Janmeja_Singh_Sekhon Shiromani_Akali_Dal
 
+Jannie_Blackwell Democratic_Party
+
+Janusz_Lewandowski Solidarity
+
 Janusz_Lewandowski Civic_Platform
+
+Jared_Huffman Democratic_Party
+
+Jared_Polis Democratic_Party
+
+Jaret_Gibbons Democratic_Party
+
+Jari_Askins Democratic_Party
+
+Jarrett_Barrios Democratic_Party
+
+Jason_Altmire Democratic_Party
+
+Jason_Chaffetz Democratic_Party
 
 Jaswant_Singh Bharatiya_Janata_Party
 
 Jatuporn_Prompan Pheu_Thai_Party
 
+Javier_Salas Democratic_Party
+
+Jay_Carney Democratic_Party
+
+Jay_Fisette Democratic_Party
+
+Jay_Garner Democratic_Party
+
+Jay_Goyal Democratic_Party
+
+Jay_Inslee Democratic_Party
+
 Jay_Narayan_Vyas Bharatiya_Janata_Party
+
+Jay_Nixon Democratic_Party
+
+Jay_Rockefeller Democratic_Party
 
 Jay_Sonza Kilusang_Bagong_Lipunan
 
@@ -1692,13 +6122,53 @@ Jayant_Sinha Bhartiya_Janta_Party
 
 Jayaram_Komati Telugu_Desam_Party
 
+Jean_Carnahan Democratic_Party
+
 Jean_Dorion Bloc_Québécois
 
+Jean_Godden Democratic_Party
+
+Jean_Kahwaji Independent
+
 Jean_Lapierre Bloc_Quebecois
+
+Jean_Monestime Democratic_Party
+
+Jean_Quan Democratic_Party
+
+Jean_Schodorf Democratic_Party
+
+Jeane_Kirkpatrick Democratic_Party
+
+Jeanette_Fitzsimons Alliance
+
+Jeanne_Hulit Democratic_Party
+
+Jeanne_Lambrew Democratic_Party
+
+Jeanne_Shaheen Democratic_Party
+
+Jeb_Spaulding Democratic_Party
+
+Jeff_Bingaman Democratic_Party
+
+Jeff_Merkley Democratic_Party
+
+Jeff_Roorda Democratic_Party
+
+Jeff_Steinborn Democratic_Party
+
+Jeff_Yarbro Democratic_Party
+
+Jeffrey_Davidow Democratic_Party
+
+Jeffrey_Dinowitz Democratic_Party
 
 Jeffrey_Donaldson Democratic_Unionist_Party
 
 Jeffrey_Donaldson Ulster_Unionist_Party
+
+Jeffrey_Katzenberg Democratic_Party
 
 Jeffrey_Kitingan Parti_Bersatu_Rakyat_Sabah
 
@@ -1706,11 +6176,71 @@ Jeffrey_Kitingan Parti_Bersatu_Sabah
 
 Jeffrey_Kitingan Parti_Keadilan_Rakyat
 
+Jeffrey_Schoenberg Democratic_Party
+
+Jeffrey_Zients Democratic_Party
+
+Jeh_Johnson Democratic_Party
+
+Jehmu_Greene Democratic_Party
+
+Jen_Psaki Democratic_Party
+
+Jennifer_Brunner Democratic_Party
+
+Jennifer_Granholm Democratic_Party
+
+Jennifer_Palmieri Democratic_Party
+
+Jennifer_Shilling Democratic_Party
+
+Jennifer_Veiga Democratic_Party
+
+Jenny_Durkan Democratic_Party
+
+Jens_Stoltenberg Labour_Party
+
+Jere_Beasley Democratic_Party
+
+Jeremy_Corbyn Labour_Party
+
+Jeremy_Lefroy Conservative_Party
+
+Jeremy_Nordquist Democratic_Party
+
+Jeri_Muoio Democratic_Party
+
+Jero_Wacik Democratic_Party
+
+Jerrold_Nadler Democratic_Party
+
+Jerry_Abramson Democratic_Party
+
 Jerry_Buttimer Fine_Gael
+
+Jerry_Lundergan Democratic_Party
+
+Jerry_McNerney Democratic_Party
+
+Jerry_Parisella Democratic_Party
+
+Jerry_Springer Democratic_Party
+
+Jerry_Stermer Democratic_Party
 
 Jerzy_Buzek Civic_Platform
 
 Jesse_Chacón PSUV
+
+Jesse_Helms Democratic_Party
+
+Jesse_Jackson Democratic_Party
+
+Jesse_Laslovich Democratic_Party
+
+Jesse_Robredo Liberal_Party
+
+Jessica_Lappin Democratic_Party
 
 Jesus_Crispin_Remulla Nacionalista_Party
 
@@ -1718,21 +6248,119 @@ Jesus_Crispin_Remulla Pwersa_ng_Masang_Pilipino
 
 Jesus_Dureza Laban_ng_Demokratikong_Pilipino
 
+Jigme_Thinley Independent
+
+Jill_Biden Democratic_Party
+
+Jill_Schupp Democratic_Party
+
+Jill_Techel Democratic_Party
+
 Jim_Allister Traditional_Unionist_Voice
+
+Jim_Ananich Democratic_Party
+
+Jim_Anderton Alliance
+
+Jim_Argue Democratic_Party
 
 Jim_Bollan Scottish_Socialist_Party
 
+Jim_Clyburn Democratic_Party
+
+Jim_Donelon Democratic_Party
+
+Jim_Doyle Democratic_Party
+
+Jim_Dunnam Democratic_Party
+
+Jim_Ferlo Democratic_Party
+
+Jim_Henson Democratic_Party
+
+Jim_Himes Democratic_Party
+
+Jim_Holperin Democratic_Party
+
+Jim_Jontz Democratic_Party
+
+Jim_Kastama Democratic_Party
+
+Jim_Leishman Labour_Party
+
+Jim_Marurai Democratic_Party
+
+Jim_Matheson Democratic_Party
+
+Jim_McGreevey Democratic_Party
+
+Jim_Naugle Democratic_Party
+
+Jim_Oberstar Democratic_Party
+
+Jim_Paice Conservative_Party
+
+Jim_Riesberg Democratic_Party
+
+Jim_Saleam Independent
+
+Jim_Saleam Progressive_Conservative_Party
+
+Jim_Schellinger Democratic_Party
+
+Jim_Suttle Democratic_Party
+
+Jimmy_Carter Democratic_Party
+
 Jimmy_Deenihan Fine_Gael
+
+Jimmy_Delshad Democratic_Party
 
 Jimmy_Devins Fianna_Fáil
 
+Jimmy_Durante Democratic_Party
+
+Jimmy_LaSalvia Independent
+
+Jimmy_Naifeh Democratic_Party
+
 Jimmy_Spratt Democratic_Unionist_Party
 
+Jimmy_Van_Bramer Democratic_Party
+
 Jinggoy_Estrada Pwersa_ng_Masang_Pilipino
+
+Jo_Ellen_Litz Democratic_Party
+
+Jo_Grimond Liberal_Party
 
 Jo_Grimond Liberal_Democrats
 
 Jo_Swinson Liberal_Democrats
 
 Joachim_Baxla Trinamool_Congress
+
+Joachim_Baxla Revolutionary_Socialist_Party
+
+Joan_Bakewell Labour_Party
+
+Joan_Growe Democratic_Party
+
+Joan_Humble Labour_Party
+
+Joan_Kroc Democratic_Party
+
+Joan_Millman Democratic_Party
+
+Joan_Mondale Democratic_Party
+
+Joan_Ruddock Labour_Party
+
+Joan_Wagnon Democratic_Party
+
+Joan_Walley Labour_Party
+
+Joanna_Tuffy Labour_Party
+
+Joanne_Giannini Democratic_Party
 

@@ -4,13 +4,13 @@ import gensim, re
 class Word2VecDBpedia():
 
     def loadFiles(self):
-        f1 = open("Person_Party_filtered.txt", 'w', encoding="utf-8")
+        f1 = open("Person_Party_Filtered.txt", 'w', encoding="utf-8")
         model = gensim.models.KeyedVectors.load_word2vec_format(
             'D:/dl4j-files/GoogleNews-vectors-negative300.bin/GoogleNews-vectors-negative300.bin', binary=True)
 
-        f = open("Person_Party_Clean.txt", 'r', encoding="utf-8")
+        f = open("Person_Party_Before_filtered_2.txt", 'r', encoding="utf-8")
         lines = f.readlines()
-        linesNew = []
+        #linesNew = []
         #for line in lines.split('\n'):
         for line in lines:
             Type = line.split()
@@ -19,7 +19,7 @@ class Word2VecDBpedia():
                #print(Type[0], Type[1])
                 if Type[0] in model.vocab and Type[1] in model.vocab:
                     f1.write(Type[0]+" "+Type[1]+"\n\n")
-                    print(Type[0], Type[1])
+                    #print(Type[0], Type[1])
 
 
 
