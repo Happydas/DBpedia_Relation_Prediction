@@ -1,5 +1,5 @@
 
-                          Abstract
+                                    Abstract
 Vector representation of words has been learned by many method,
 word2vec is one of them and useful in many natural language process-
 ing and information retrieval. Though, surprising fact is that Vector
