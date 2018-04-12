@@ -6,19 +6,16 @@ import numpy as np
 
 f2 = open("Main_Word2Vec_Capital.txt", "w+", encoding="utf-8")
 f3 = open("Main_Word2Vec_Capital_11.txt", "w+", encoding="utf-8")
-f4 = open("Main_Word2Vec_Capital_Counter.txt", "w+", encoding="utf-8")
+
+f4 = open("Main_Word2Vec_Capital_Counter.txt", "a", encoding="utf-8")
 f5 = open("Main_Word2Vec_Capital_Counter.txt", "a", encoding="utf-8")
 vec = gensim.models.KeyedVectors.load_word2vec_format(
     'D:/dl4j-files/GoogleNews-vectors-negative300.bin/GoogleNews-vectors-negative300.bin', binary=True)
 
-f = open("Capital_Train.txt", 'r', encoding="utf-8")
+f = open("Main_Word2Vec_Capital_Random.txt", 'r', encoding="utf-8")
 f1 = open("Capital_Test.txt", "r", encoding="utf-8")
 
-'''
-Super_Vector = vec["Kabul"] + vec["Rwanda"]
-Target_Vector = vec.similar_by_vector((Super_Vector - vec["Kigali"]), topn=3)
-print(Target_Vector)
-'''
+
 accuracy = 0
 country = np.zeros(300)
 City = np.zeros(300)
@@ -33,9 +30,9 @@ for line in lines:
     #print(Type)
     #f2.write(Type)
     if len(Type) > 1:
-        country = vec[Type[0]]
-        City = vec[Type[1]]
-        if counter == 1:
+        country += vec[Type[0]]
+        City += vec[Type[1]]
+        if counter == 5:
             break
 for line_1 in lines_1:
     Type_Test = line_1.split()
@@ -61,7 +58,7 @@ Accuracy_Percentage = accuracy / num_lines
 print(Accuracy_Percentage)
 #f4.write("Accuracy:" + " " + (str( Accuracy_Percentage)))
 #+f5.write("Count:" + " " + (str( counter)) + "\n")
-f4.write((str( Accuracy_Percentage)) + "   ")
+f4.write((str( Accuracy_Percentage)) + " ")
 f5.write((str( counter)) + "\n")
 print(counter)
 print("done")

@@ -6,12 +6,13 @@ import numpy as np
 
 f2 = open("Main_Word2Vec_Capital.txt", "w+", encoding="utf-8")
 f3 = open("Main_Word2Vec_Capital_11.txt", "w+", encoding="utf-8")
-f4 = open("Main_Word2Vec_Capital_Counter.txt", "w+", encoding="utf-8")
+
+f4 = open("Main_Word2Vec_Capital_Counter.txt", "a", encoding="utf-8")
 f5 = open("Main_Word2Vec_Capital_Counter.txt", "a", encoding="utf-8")
 vec = gensim.models.KeyedVectors.load_word2vec_format(
     'D:/dl4j-files/GoogleNews-vectors-negative300.bin/GoogleNews-vectors-negative300.bin', binary=True)
 
-f = open("Capital_Train.txt", 'r', encoding="utf-8")
+f = open("Main_Word2Vec_Capital_Random.txt", 'r', encoding="utf-8")
 f1 = open("Capital_Test.txt", "r", encoding="utf-8")
 
 '''
@@ -61,7 +62,7 @@ Accuracy_Percentage = accuracy / num_lines
 print(Accuracy_Percentage)
 #f4.write("Accuracy:" + " " + (str( Accuracy_Percentage)))
 #+f5.write("Count:" + " " + (str( counter)) + "\n")
-f4.write((str( Accuracy_Percentage)) + "   ")
+f4.write((str( Accuracy_Percentage)) + " ")
 f5.write((str( counter)) + "\n")
 print(counter)
 print("done")

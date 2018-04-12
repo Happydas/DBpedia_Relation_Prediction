@@ -7,6 +7,7 @@ import numpy as np
 
 f2 = open("Main_Word2Vec_Capital_2.txt", "w+", encoding="utf-8")
 f3 = open("Main_Word2Vec_Capital_22.txt", "w+", encoding="utf-8")
+f4 = open("Main_Word2Vec_Capital_Counter.txt", "a", encoding="utf-8")
 
 
 vec = gensim.models.KeyedVectors.load_word2vec_format(
@@ -41,7 +42,7 @@ for line_1 in lines_1:
         # TargetVector = SuperVector + vec[Type[0]]
         Super_Vector = vec[Type_Test[1]] + country
         Result = vec.similar_by_vector((Super_Vector - City), topn=3)
-        print(Result[0][0])
+        #print(Result[0][0])
         if Result[0][0] == Type_Test[1]:
             Final_Result = Result[1][0]
         else:
@@ -58,6 +59,10 @@ print(num_lines)
 Accuracy_Percentage = accuracy / num_lines
 #Accuracy_Percentage = accuracy / len(f1.readlines())
 print(Accuracy_Percentage)
+f4.write("Accuracy:" + " " + (str( Accuracy_Percentage)) + "\n")
+f4.write("Count:" + " " + (str( counter)) + "\n")
+print(counter)
+print("done")
 print("done")
 
 
