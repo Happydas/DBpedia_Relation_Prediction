@@ -4,11 +4,11 @@ import gensim, re
 class Word2VecDBpedia():
 
     def loadFiles(self):
-        f1 = open("Country_Currency_filtered.txt", 'w', encoding="utf-8")
+        f1 = open("../Data/Country_Currency_filtered.txt", 'w', encoding="utf-8")
         model = gensim.models.KeyedVectors.load_word2vec_format(
             'D:/dl4j-files/GoogleNews-vectors-negative300.bin/GoogleNews-vectors-negative300.bin', binary=True)
 
-        f = open("Country_Currency_Clean.txt", 'r', encoding="utf-8")
+        f = open("../Data/Country_Currency_Clean.txt", 'r', encoding="utf-8")
         lines = f.readlines()
         linesNew = []
         #for line in lines.split('\n'):
