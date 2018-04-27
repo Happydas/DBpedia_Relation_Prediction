@@ -1,1928 +1,986 @@
 Aamir_Khan Kiran_Rao
-
+Aang Katara
 Aaron_Spelling Candy_Spelling
-
 Aarti_Bajaj Anurag_Kashyap
-
 Aashish_Chaudhary Samita_Bangargi
-
 Abbas_Tyrewala Pakhi_Tyrewala
-
 Abby_Brammell Jake_La_Botz
-
 Abdoulaye_Wade Viviane_Wade
-
 Abdul_Sattar_Edhi Bilquis_Edhi
-
 Abdullah_Ahmad_Badawi Endon_Mahmood
-
 Abdullah_Gül Hayrünnisa_Gül
-
 Abhinav_Kohli Shweta_Tiwari
-
 Abhishek_Bachchan Aishwarya_Rai
-
 Abigail_Cruttenden Sean_Bean
-
 Adam Eve
-
 Adam_Brody Leighton_Meester
-
 Adam_C._Engst Tonya_Engst
-
 Adam_Housley Tamera_Mowry
-
 Adelaide_Tambo Oliver_Tambo
-
 Adhuna_Akhtar Farhan_Akhtar
-
 Adi_Godrej Parmeshwar_Godrej
-
 Aditya_Chopra Rani_Mukerji
-
 Aditya_Pancholi Zarina_Wahab
-
 Adolf_Hitler Eva_Braun
-
 Adriana_La_Cerva Christopher_Moltisanti
-
 Adrienne_Clarkson John_Ralston_Saul
-
 Afemo_Omilami Elisabeth_Omilami
-
 Agnetha_Fältskog Björn_Ulvaeus
-
 Agnès_Varda Jacques_Demy
-
 Agyness_Deyn Giovanni_Ribisi
-
 Ahmed_Helmy Mona_Zaki
-
 Aishwarya_Rai Abhishek_Bachchan
-
 Ajay_Devgan Kajol
-
 Ajay_Piramal Swati_Piramal
-
 Akhilesh_Yadav Dimple_Yadav
-
 Akihito Empress_Michiko
-
 Akshay_Kumar Twinkle_Khanna
-
 Al_Gore Tipper_Gore
-
 Al_Jolson Ruby_Keeler
-
 Alan_Lowenthal Bonnie_Lowenthal
-
 Alan_Rosenberg Marg_Helgenberger
-
 Alan_Ruck Mireille_Enos
-
 Albert_Finney Anouk_Aimée
-
 Albertina_Sisulu Walter_Sisulu
-
 Alejandro_Toledo Eliane_Karp
-
 Alessandro_Nivola Emily_Mortimer
-
 Alex_Karev Izzie_Stevens
-
 Alexa_Havins Justin_Bruening
-
 Alexa_Vega Sean_Covel
-
 Alexander_Korda Merle_Oberon
-
 Alexander_Siddig Nana_Visitor
-
 Alexandra_Hedison Jodie_Foster
-
 Alexandra_Wentworth George_Stephanopoulos
-
 Alexandre_Rockwell Karyn_Parsons
-
 Alexandre_Rockwell Jennifer_Beals
-
 Alexis_Bledel Vincent_Kartheiser
-
 Alexis_Denisof Alyson_Hannigan
-
 Alfred_Hitchcock Alma_Reville
-
 Alfred_Lunt Lynn_Fontanne
-
 Ali_MacGraw Steve_McQueen
-
 Alicia_Keys Swizz_Beatz
-
 Aline_Chrétien Jean_Chrétien
-
 Alison_Doody Gavin_O'Reilly
-
 Alison_Lohman Mark_Neveldine
-
 Alison_Seabeck Nick_Raynsford
-
 Allan_Arbus Diane_Arbus
-
 Allan_McKeown Tracey_Ullman
-
 Allyce_Beasley Vincent_Schiavelli
-
 Alma_Reville Alfred_Hitchcock
-
 Almanzo_Wilder Laura_Ingalls_Wilder
-
 Alvin_Sargent Laura_Ziskin
-
 Aly_Zaker Sara_Zaker
-
 Alyque_Padamsee Dolly_Thakore
-
 Alysia_Reiner David_Alan_Basche
-
 Alyson_Hannigan Alexis_Denisof
-
 Amal_Neerad Jyothirmayi
-
 Amanda_Anka Jason_Bateman
-
 Amanda_Peet David_Benioff
-
 Amarinder_Singh Preneet_Kaur
-
 Amber_Heard Johnny_Depp
-
 Amelia_Heinle Thad_Luckinbill
-
 Amitabh_Bachchan Jaya_Bachchan
-
 Amitabh_Thakur Nutan_Thakur
-
 Amrita_Singh Saif_Ali_Khan
-
 Amy_Acker James_Carpinello
-
 Amy_Brenneman Brad_Silberling
-
 Amy_Pascal Bernard_Weinraub
-
 Amy_Poehler Will_Arnett
-
 Amy_Robach Andrew_Shue
-
 Ana_Botella José_María_Aznar
-
 Anaita_Shroff_Adajania Homi_Adajania
-
 Andrea_Conte Phil_Bredesen
-
 Andrei_Sakharov Yelena_Bonner
-
 Andrei_Sannikov Iryna_Khalip
-
 Andrew_Lloyd_Webber Sarah_Brightman
-
 Andrew_Shue Amy_Robach
-
 Andrzej_Bartkowiak Diane_Venora
-
 Andy_Samberg Joanna_Newsom
-
 Andy_Serkis Lorraine_Ashbourne
-
 Angela_Kinsey Warren_Lieberstein
-
 Angela_Merkel Joachim_Sauer
-
 Angelina_Jolie Brad_Pitt
-
+Anita_Zucker Jerry_Zucker
 Anitra_Steen Göran_Persson
-
 Ann_Druyan Carl_Sagan
-
 Ann_Dunham Lolo_Soetoro
-
 Ann_Wedgeworth Rip_Torn
-
 Ann_Winterton Nicholas_Winterton
-
 Anna_Kashfi Marlon_Brando
-
 Anna_Komorowska Bronisław_Komorowski
-
 Anne_Applebaum Radosław_Sikorski
-
 Anne_Bancroft Mel_Brooks
-
 Anne_Holton Tim_Kaine
-
 Anne_Meara Jerry_Stiller
-
 Anne_Morrow_Lindbergh Charles_Lindbergh
-
 Anne_Wojcicki Sergey_Brin
-
 Annette_Bening Warren_Beatty
-
 Annie_Lowrey Ezra_Klein
-
 Anouk_Aimée Albert_Finney
-
 Anthony_Albanese Carmel_Tebbutt
-
 Anthony_Franciosa Shelley_Winters
-
 Anthony_LaPaglia Gia_Carides
-
 Anthony_Mandler Denise_Vasi
-
 Anthony_Weiner Huma_Abedin
-
 Antoine_Fuqua Lela_Rochon
-
 Anton_Chekhov Olga_Knipper
-
 Antonia_Fraser Harold_Pinter
-
 Antonio_Banderas Melanie_Griffith
-
 Antonio_Damasio Hanna_Damasio
-
 Antonio_Leviste Loren_Legarda
-
 Anup_Soni Juhi_Babbar
-
 Anupam_Kher Kirron_Kher
-
 Anupama_Chopra Vidhu_Vinod_Chopra
-
+Anuradha_Patel Kanwaljit_Singh
 Anurag_Kashyap Kalki_Koechlin
-
 Anurag_Kashyap Aarti_Bajaj
-
 Anusha_Rizvi Mahmood_Farooqui
-
 Anwar_Ibrahim Wan_Azizah_Wan_Ismail
-
 Anwar_Sadat Jehan_Sadat
-
 Aníbal_Cavaco_Silva Maria_Cavaco_Silva
-
 Aouda Phileas_Fogg
-
 Apara_Mehta Darshan_Jariwala
-
 Archana_Puran_Singh Parmeet_Sethi
-
 Archana_Taide Ashish_Sharma
-
 Archie_Bunker Edith_Bunker
-
 Archie_Kao Zhou_Xun
-
 Aretha_Franklin Glynn_Turman
-
 Ariane_Labed Yorgos_Lanthimos
-
 Aristotle_Onassis Jacqueline_Kennedy_Onassis
-
 Arjun_Punj Gurdeep_Kohli
-
 Arlene_Dahl Fernando_Lamas
-
 Arliss_Howard Debra_Winger
-
 Arn_Tellem Nancy_Tellem
-
 Arnold_Schwarzenegger Maria_Shriver
-
 Arnulfo_Arias Mireya_Moscoso
-
+Arshad_Warsi Maria_Goretti
 Arsinée_Khanjian Atom_Egoyan
-
 Aruna_Asaf_Ali Asaf_Ali
-
 Asaf_Ali Aruna_Asaf_Ali
-
 Ashish_Sharma Archana_Taide
-
 Ashok_Kumar_Jain Indu_Jain
-
 Ashton_Kutcher Mila_Kunis
-
 Ashton_Kutcher Demi_Moore
-
 Ashutosh_Rana Renuka_Shahane
-
 Asif_Ali_Zardari Benazir_Bhutto
-
+Asin Rahul_Sharma
 Astrid_Kirchherr Stuart_Sutcliffe
-
 Atom_Egoyan Arsinée_Khanjian
-
 Aung_San Khin_Kyi
-
 Ava_Gardner Frank_Sinatra
-
 Avis_DeVoto Bernard_DeVoto
-
 Avril_Lavigne Chad_Kroeger
-
 Avril_Lavigne Deryck_Whibley
-
 Axel_Springer Friede_Springer
-
 Ayaan_Hirsi_Ali Niall_Ferguson
-
 Ayelet_Waldman Michael_Chabon
-
 Azeb_Mesfin Meles_Zenawi
-
 Azrinaz_Mazhar_Hakim Hassanal_Bolkiah
-
 Baba_Azmi Tanvi_Azmi
-
 Bachir_Gemayel Solange_Gemayel
-
 Badri_Bitsadze Nino_Burjanadze
-
 Bakhtiyaar_Irani Tanaaz_Irani
-
 Balu_Mahendra Shoba
-
 Bam_Margera Missy_Rothstein
-
 Barangaroo Bennelong
-
 Barbara_Amiel Conrad_Black
-
 Barbara_Bosson Steven_Bochco
-
 Barbara_Loden Elia_Kazan
-
 Barbara_Mallory_Caraway Dwaine_Caraway
-
 Barbara_Walters Merv_Adelson
-
 Barbra_Streisand Elliott_Gould
-
 Barbra_Streisand James_Brolin
-
 Barney_Rubble Betty_Rubble
-
 Barney_Stinson Robin_Scherbatsky
-
 Barry_Diller Diane_von_Fürstenberg
-
 Bart_Freundlich Julianne_Moore
-
 Basanti_Devi Chittaranjan_Das
-
 Becki_Newton Chris_Diamantopoulos
-
 Bejoy_Nambiar Sheetal_Menon
-
 Bejoy_Nambiar Juhi_Babbar
-
 Belinda_Emmett Rove_McManus
-
 Belinda_Neal John_Della_Bosca
-
 Bella_Swan Edward_Cullen
-
 Ben_Affleck Jennifer_Garner
-
 Ben_Kingsley Daniela_Lavender
-
 Benazir_Bhutto Asif_Ali_Zardari
-
 Benjamin_Biolay Chiara_Mastroianni
-
 Benjamin_Bratt Talisa_Soto
-
 Bennelong Barangaroo
-
 Bernadette_Chirac Jacques_Chirac
-
 Bernard_DeVoto Avis_DeVoto
-
 Bernard_Foing Pascale_Ehrenfreund
-
 Bernard_Weinraub Amy_Pascal
-
 Bernie_Ecclestone Slavica_Ecclestone
-
 Bess_Houdini Harry_Houdini
-
 Bessie_Thomashefsky Boris_Thomashefsky
-
 Beth_Ostrosky_Stern Howard_Stern
-
 Betsy_DeVos Dick_DeVos
-
 Bettina_Wulff Christian_Wulff
-
 Betty_Bumpers Dale_Bumpers
-
 Betty_Draper Don_Draper
-
 Betty_Grable Jackie_Coogan
-
 Betty_Rubble Barney_Rubble
-
 Betty_Shabazz Malcolm_X
-
 Beverly_LaHaye Tim_LaHaye
-
 Beyoncé Jay_Z
-
+Bharathi_Vishnuvardhan Vishnuvardhan
 Bhumibol_Adulyadej Sirikit
-
 Bhushan_Kumar Divya_Khosla_Kumar
-
 Bianca_Jagger Mick_Jagger
-
 Bidhya_Devi_Bhandari Madan_Bhandari
-
 Bijou_Phillips Danny_Masterson
-
 Bill_Clinton Hillary_Clinton
-
 Bill_Cosby Camille_Cosby
-
 Bill_Paxon Susan_Molinari
-
 Bill_Rancic Giuliana_Rancic
-
 Bill_Ritter Jeannie_Ritter
-
 Billy_Connolly Pamela_Stephenson
-
 Bilquis_Edhi Abdul_Sattar_Edhi
-
 Bingu_wa_Mutharika Ethel_Mutharika
-
 Björn_Ulvaeus Agnetha_Fältskog
-
 Blythe_Danner Bruce_Paltrow
-
 Bob_Dole Elizabeth_Dole
-
 Bob_Fosse Gwen_Verdon
-
 Bob_Guiney Rebecca_Budig
-
 Bob_Hawke Hazel_Hawke
-
 Bobby_Cannavale Jenny_Lumet
-
 Bodhi_Elfman Jenna_Elfman
-
 Boney_Kapoor Sridevi
-
 Bonnie_Lowenthal Alan_Lowenthal
-
 Bonnie_Lythgoe Nigel_Lythgoe
-
 Boris_Thomashefsky Bessie_Thomashefsky
-
 Brad_Pitt Jennifer_Aniston
-
 Brad_Pitt Angelina_Jolie
-
 Brad_Silberling Amy_Brenneman
-
 Bradley_Whitford Jane_Kaczmarek
-
 Brandi_Glanville Eddie_Cibrian
-
 Brandon_Barash Kirsten_Storms
-
 Brian_Benben Madeleine_Stowe
-
 Brian_Mulroney Mila_Mulroney
-
 Bridget_Fonda Danny_Elfman
-
 Brigitte_Bardot Gunter_Sachs
-
 Brigitte_Bardot Roger_Vadim
-
 Brinda_Karat Prakash_Karat
-
 Britney_Spears Kevin_Federline
-
 Britt_Ekland Peter_Sellers
-
 Brittany_Murphy Simon_Monjack
-
 Bronisław_Komorowski Anna_Komorowska
-
 Brooke_Astor Vincent_Astor
-
 Brooke_Burke David_Charvet
-
 Brooke_Mueller Charlie_Sheen
-
 Brooke_Shields Chris_Henchy
-
 Bruce_Dern Diane_Ladd
-
 Bruce_Feiler Linda_Rottenberg
-
 Bruce_Paltrow Blythe_Danner
-
 Bruce_Rauner Diana_Rauner
-
 Bruce_Tulgan Debby_Applegate
-
 Bruce_Willis Emma_Heming
-
 Bruce_Willis Demi_Moore
-
 Brían_F._O'Byrne Heather_Goldenhersh
-
+Budd_Schulberg Geraldine_Brooks
 Bun_Rany Hun_Sen
-
 Burgess_Meredith Paulette_Goddard
-
 Bülent_Ecevit Rahşan_Ecevit
-
 Callista_Gingrich Newt_Gingrich
-
 Camila_Alves Matthew_McConaughey
-
 Camila_Sodi Diego_Luna
-
 Camille_Cosby Bill_Cosby
-
 Camille_Grammer Kelsey_Grammer
-
 Camille_Keaton Meir_Zarchi
-
 Candice_Bergen Louis_Malle
-
 Candy_Spelling Aaron_Spelling
-
 Carey_Mulligan Marcus_Mumford
-
 Carl_Bernstein Nora_Ephron
-
 Carl_Lumbly Vonetta_McGee
-
 Carl_Reiner Estelle_Reiner
-
 Carl_Sagan Lynn_Margulis
-
 Carl_Sagan Ann_Druyan
-
 Carla_Bruni Nicolas_Sarkozy
-
 Carlo_Ponti Sophia_Loren
-
 Carlo_Rota Nazneen_Contractor
-
 Carmel_Tebbutt Anthony_Albanese
-
 Carmela_Soprano Tony_Soprano
-
 Carmen_de_Lavallade Geoffrey_Holder
-
 Carmine_Giovinazzo Vanessa_Marcil
-
 Carole_Lombard Clark_Gable
-
 Carolee_Carmello Gregg_Edelman
-
 Caroline_Kennedy Edwin_Schlossberg
-
 Carolyne_Roehm Henry_Kravis
-
 Carroll_Rosenbloom Georgia_Frontiere
-
 Cat_Deeley Patrick_Kielty
-
 Catherine_Hickland David_Hasselhoff
-
 Catherine_Keener Dermot_Mulroney
-
 Cecile_de_Brunhoff Jean_de_Brunhoff
-
 Cecilia_Cheung Nicholas_Tse
-
 Celine_Dion René_Angélil
-
 Chabi Kublai_Khan
-
 Chad_Kroeger Avril_Lavigne
-
+Chalam Sharada
 Channing_Tatum Jenna_Dewan
-
 Chantal_Biya Paul_Biya
-
 Charles_Graner Megan_Ambuhl
-
 Charles_Laughton Elsa_Lanchester
-
 Charles_Lindbergh Anne_Morrow_Lindbergh
-
 Charles_Saatchi Nigella_Lawson
-
 Charles_Shyer Nancy_Meyers
-
 Charlie_Brooker Konnie_Huq
-
 Charlie_Chaplin Oona_O'Neill
-
 Charlie_Chaplin Paulette_Goddard
-
 Charlie_Sheen Denise_Richards
-
 Charlie_Sheen Brooke_Mueller
-
 Charo Xavier_Cugat
-
+Chaya_Singh Krishna
 Cheddi_Jagan Janet_Jagan
-
+Chen_Kaige Chen_Hong
 Chen_Liping Rayson_Tan
-
 Cher Sonny_Bono
-
 Cher Gregg_Allman
-
 Cheri_Daniels Mitch_Daniels
-
 Cherie_Blair Tony_Blair
-
 Cheryl_Benard Zalmay_Khalilzad
-
 Chiara_Mastroianni Benjamin_Biolay
-
 Chittaranjan_Das Basanti_Devi
-
 Chris_Diamantopoulos Becki_Newton
-
 Chris_Hemsworth Elsa_Pataky
-
 Chris_Henchy Brooke_Shields
-
 Chris_Huhne Vicky_Pryce
-
 Christian_Horner Geri_Halliwell
-
 Christian_Wulff Bettina_Wulff
-
 Christie_Vilsack Tom_Vilsack
-
 Christina_Applegate Johnathon_Schaech
-
 Christina_Hendricks Geoffrey_Arend
-
 Christina_Onassis Thierry_Roussel
-
 Christine_Lahti Thomas_Schlamme
-
 Christopher_Moltisanti Adriana_La_Cerva
-
 Christopher_Noxon Jenji_Kohan
-
 Christopher_Plummer Tammy_Grimes
-
 Christopher_Reeve Dana_Reeve
-
 Christopher_Walken Georgianne_Walken
-
 Chuck_Cadman Dona_Cadman
-
 Chuck_Schumer Iris_Weinshall
-
 Cilia_Flores Nicolás_Maduro
-
 Cindy_Crawford Rande_Gerber
-
 Cindy_Crawford Richard_Gere
-
 Clair_Huxtable Cliff_Huxtable
-
 Claire_Danes Hugh_Dancy
-
 Claire_Forlani Dougray_Scott
-
 Claire_Leka Donald_Leka
-
 Claire_Shipman Jay_Carney
-
 Clare_Boothe_Luce Henry_Luce
-
 Clark_Gable Carole_Lombard
-
 Claude_Chabrol Stéphane_Audran
-
 Claude_Pompidou Georges_Pompidou
-
 Claudia_Schiffer Matthew_Vaughn
-
 Claudine_Barretto Raymart_Santiago
-
 Cliff_Huxtable Clair_Huxtable
-
 Clifford_Odets Luise_Rainer
-
 Clyde_Klotz Gillian_Anderson
-
 Cobie_Smulders Taran_Killam
-
 Coen_brothers Frances_McDormand
-
 Connie_Chung Maury_Povich
-
 Connie_Schultz Sherrod_Brown
-
 Conrad_Black Barbara_Amiel
-
 Corey_Feldman Vanessa_Marcil
-
 Corin_Redgrave Kika_Markham
-
 Corinne_Vigreux Harold_Goddijn
-
 Corky_Ballas Shirley_Ballas
-
 Cory_Hardrict Tia_Mowry
-
 Costas_Mandylor Talisa_Soto
-
 Courteney_Cox David_Arquette
-
 Courtney_Love Kurt_Cobain
-
 Craig_Hatkoff Jane_Rosenthal
-
 Crispin_Odey Nichola_Pease
-
 DJ_Aqeel Farah_Khan_Ali
-
 Daenerys_Targaryen Khal_Drogo
-
 Dale_Bumpers Betty_Bumpers
-
 Damayanti Nala
-
 Damian_Chapa Natasha_Henstridge
-
 Dan_Quayle Marilyn_Quayle
-
 Dana_Reeve Christopher_Reeve
-
 Daniel_Auteuil Emmanuelle_Béart
-
 Daniel_Barenboim Jacqueline_du_Pré
-
 Daniel_Gerroll Patricia_Kalember
-
 Daniel_Inouye Irene_Hirano
-
 Daniel_Lapaine Fay_Ripley
-
 Daniel_Moder Julia_Roberts
-
 Daniel_Ortega Rosario_Murillo
-
 Daniel_Pearl Mariane_Pearl
-
 Daniel_Zelman Debra_Messing
-
 Daniela_Lavender Ben_Kingsley
-
 Danielle_Darrieux Porfirio_Rubirosa
-
 Danielle_Mitterrand François_Mitterrand
-
 Danish_Aslam Shruti_Seth
-
 Danneel_Harris Jensen_Ackles
-
 Dannii_Minogue Julian_McMahon
-
 Danny_Burstein Rebecca_Luker
-
 Danny_DeVito Rhea_Perlman
-
 Danny_Elfman Bridget_Fonda
-
 Danny_Huston Virginia_Madsen
-
 Danny_Masterson Bijou_Phillips
-
 Dario_Fo Franca_Rame
-
 Darshan_Jariwala Apara_Mehta
-
 Dasha_Zhukova Roman_Abramovich
-
 Dave_Annable Odette_Annable
-
 David_Alan_Basche Alysia_Reiner
-
 David_Arquette Courteney_Cox
-
 David_Beckham Victoria_Beckham
-
 David_Benioff Amanda_Peet
-
 David_Boreanaz Jaime_Bergman
-
 David_Charvet Brooke_Burke
-
 David_Collenette Penny_Collenette
-
 David_Duchovny Téa_Leoni
-
 David_Furnish Elton_John
-
 David_Gest Liza_Minnelli
-
 David_Gyngell Leila_McKinnon
-
 David_Hasselhoff Pamela_Bach
-
 David_Hasselhoff Catherine_Hickland
-
 David_Mamet Rebecca_Pidgeon
-
 David_Mamet Lindsay_Crouse
-
 David_Plotz Hanna_Rosin
-
 David_Wharnsby Sarah_Polley
-
 Davis_Guggenheim Elisabeth_Shue
-
+Dawn_Gibbons Jim_Gibbons
 Dax_Shepard Kristen_Bell
-
 Dean_Parisot Sally_Menke
-
 Deanna_Demuzio Vince_Demuzio
-
 Debashree_Roy Prosenjit_Chatterjee
-
 Debbie_Dingell John_Dingell
-
 Debby_Applegate Bruce_Tulgan
-
 Debina_Bonnerjee Gurmeet_Choudhary
-
 Deborah_Needleman Jacob_Weisberg
-
 Debra_Messing Daniel_Zelman
-
 Debra_Winger Arliss_Howard
-
 Debra_Winger Timothy_Hutton
-
 Debrah_Farentino James_Farentino
-
 Debrah_Farentino Gregory_Hoblit
-
 Deep_Katdare Reshma_Shetty
-
 Deepa_Dasmunsi Priya_Ranjan_Dasmunsi
-
 Deepak_Balraj_Vij Kishori_Shahane
-
 Deepti_Naval Prakash_Jha
-
 Deirdre_Imus Don_Imus
-
 Demi_Moore Bruce_Willis
-
 Demi_Moore Ashton_Kutcher
-
 Deng_Xiaoping Zhuo_Lin
-
 Denise_Richards Charlie_Sheen
-
 Denise_Vasi Anthony_Mandler
-
 Dennis_Holahan Loretta_Swit
-
 Dennis_Hopper Katherine_LaNasa
-
 Dermot_Mulroney Catherine_Keener
-
 Derryn_Hinch Jacki_Weaver
-
 Deryck_Whibley Avril_Lavigne
-
 Desmond_Hume Penny_Widmore
-
 Devaki Vasudeva
-
 Devika_Rani Himanshu_Rai
-
 Dharmendra Hema_Malini
-
+Dhritarashtra Gandhari
 Diana_Gribbon_Motz J._Frederick_Motz
-
 Diana_Rauner Bruce_Rauner
-
 Diana_Trilling Lionel_Trilling
-
 Diane_Arbus Allan_Arbus
-
 Diane_Cilento Sean_Connery
-
 Diane_Kruger Guillaume_Canet
-
 Diane_Ladd Bruce_Dern
-
 Diane_Lane Josh_Brolin
-
 Diane_Venora Andrzej_Bartkowiak
-
 Diane_von_Fürstenberg Barry_Diller
-
 Dick_Cheney Lynne_Cheney
-
 Dick_DeVos Betsy_DeVos
-
 Dick_Haymes Rita_Hayworth
-
 Diego_Luna Camila_Sodi
-
 Diego_Silang Gabriela_Silang
-
 Diether_Ocampo Kristine_Hermosa
-
 Dilip_Kumar Saira_Banu
-
 Dimple_Kapadia Rajesh_Khanna
-
 Dimple_Yadav Akhilesh_Yadav
-
 Dina_Bonnevie Vic_Sotto
-
 Dino_De_Laurentiis Silvana_Mangano
-
 Diosdado_Macapagal Eva_Macapagal
-
 Divya_Bharti Sajid_Nadiadwala
-
 Divya_Khosla_Kumar Bhushan_Kumar
-
 Dixie_Carter Hal_Holbrook
-
 Dmitry_Medvedev Svetlana_Medvedeva
-
 Dolly_Thakore Alyque_Padamsee
-
 Don_Draper Betty_Draper
-
 Don_Gummer Meryl_Streep
-
 Don_Imus Deirdre_Imus
-
 Dona_Cadman Chuck_Cadman
-
 Donald_Leka Claire_Leka
-
 Donald_Trump Melania_Trump
-
 Donald_Trump Marla_Maples
-
 Donald_Trump Ivana_Trump
-
 Dondre_Whitfield Salli_Richardson
-
 Dorrit_Moussaieff Ólafur_Ragnar_Grímsson
-
 Dou_Wei Faye_Wong
-
 Doug_Henwood Liza_Featherstone
-
 Dougray_Scott Claire_Forlani
-
 Dulce_Saguisag Rene_Saguisag
-
+Duryodhana Bhanumati
 Dwaine_Caraway Barbara_Mallory_Caraway
-
 Dwight_D._Eisenhower Mamie_Eisenhower
-
 Eamonn_Holmes Ruth_Langsford
-
 Ed_Balls Yvette_Cooper
-
 Ed_Miliband Justine_Thornton
-
 Ed_Rendell Marjorie_Rendell
-
 Eddie_Cibrian Brandi_Glanville
-
 Eddie_Mannix Toni_Mannix
-
 Edith_Bunker Archie_Bunker
-
 Edmond_Safra Lily_Safra
-
 Edna_Manley Norman_Manley
-
 Edu_Manzano Vilma_Santos
-
 Eduardo_Suplicy Marta_Suplicy
-
 Edward_Cullen Bella_Swan
-
 Edward_VIII Wallis_Simpson
-
 Edwin_Schlossberg Caroline_Kennedy
-
 Eileen_Kowall Mike_Kowall
-
 Elaine_Chao Mitch_McConnell
-
 Eleanor_Coppola Francis_Ford_Coppola
-
 Eleanor_Roosevelt Franklin_D._Roosevelt
-
 Elia_Kazan Barbara_Loden
-
 Eliane_Karp Alejandro_Toledo
-
 Eliot_Spitzer Silda_Wall_Spitzer
-
 Elisabeth_Moss Fred_Armisen
-
 Elisabeth_Omilami Afemo_Omilami
-
 Elisabeth_Shue Davis_Guggenheim
-
 Elisabetta_Gregoraci Flavio_Briatore
-
 Elizabeth_Dole Bob_Dole
-
 Elizabeth_Paepcke Walter_Paepcke
-
 Ellen_Barkin Gabriel_Byrne
-
 Elliott_Gould Barbra_Streisand
-
 Elon_Musk Talulah_Riley
-
 Elon_Musk Justine_Musk
-
 Elsa_Lanchester Charles_Laughton
-
 Elsa_Pataky Chris_Hemsworth
-
 Elton_John David_Furnish
-
 Elvis_Presley Priscilla_Presley
-
 Emily_Blunt John_Krasinski
-
 Emily_Mortimer Alessandro_Nivola
-
 Emine_Erdoğan Recep_Tayyip_Erdoğan
-
 Emma_Heming Bruce_Willis
-
 Emma_Pillsbury Will_Schuester
-
 Emmanuelle_Béart Daniel_Auteuil
-
 Emmanuelle_Seigner Roman_Polanski
-
 Empress_Michiko Akihito
-
 Endon_Mahmood Abdullah_Ahmad_Badawi
-
 Epainette_Mbeki Govan_Mbeki
-
 Eric_Cantona Rachida_Brakni
-
 Eric_Fellner Gaby_Dellal
-
 Eric_Foner Naomi_Foner_Gyllenhaal
-
 Eric_Villency Kimberly_Guilfoyle
-
 Erich_Maria_Remarque Paulette_Goddard
-
 Ernest_Bai_Koroma Sia_Koroma
-
 Ernest_Borgnine Ethel_Merman
-
 Ernest_Borgnine Katy_Jurado
-
 Eskinder_Nega Serkalem_Fasil
-
 Estelle_Reiner Carl_Reiner
-
 Etgar_Keret Shira_Geffen
-
 Ethan_Embry Sunny_Mabrey
-
 Ethan_Hawke Uma_Thurman
-
 Ethel_Kennedy Robert_F._Kennedy
-
 Ethel_Merman Ernest_Borgnine
-
 Ethel_Mutharika Bingu_wa_Mutharika
-
 Eunice_Kennedy_Shriver Sargent_Shriver
-
 Eva_Braun Adolf_Hitler
-
 Eva_Macapagal Diosdado_Macapagal
-
 Eva_Perón Juan_Perón
-
 Evan_Jonigkeit Zosia_Mamet
-
 Eve Adam
-
 Evelyn_Lauder Leonard_Lauder
-
 Evelyn_Mase Nelson_Mandela
-
 Evi_Quaid Randy_Quaid
-
 Ewan_MacColl Joan_Littlewood
-
 Ezra_Klein Annie_Lowrey
-
 Fahmida_Mirza Zulfiqar_Mirza
-
+Faline Bambi
 Farah_Khan Shirish_Kunder
-
 Farah_Khan_Ali DJ_Aqeel
-
 Farah_Pahlavi Mohammad_Reza_Pahlavi
-
 Farahnaz_Ispahani Husain_Haqqani
-
 Farhan_Akhtar Adhuna_Akhtar
-
 Fatemeh_Karroubi Mehdi_Karroubi
-
 Fatmawati Sukarno
-
 Fay_Ripley Daniel_Lapaine
-
 Faye_Wong Dou_Wei
-
 Faye_Wong Li_Yapeng
-
 Fearless_Nadia Homi_Wadia
-
 Federico_Fellini Giulietta_Masina
-
 Felipe_Calderón Margarita_Zavala
-
 Ferdinand_Marcos Imelda_Marcos
-
+Fern_Britton Phil_Vickery
+Fernanda_Montenegro Fernando_Torres
 Fernando_Lamas Arlene_Dahl
-
 Feroze_Gandhi Indira_Gandhi
-
 Finbar_Lynch Niamh_Cusack
-
 Flavia_Cacace Jimi_Mistry
-
 Flavio_Briatore Elisabetta_Gregoraci
-
+Fleur_Adcock Alistair_Campbell
 Franca_Rame Dario_Fo
-
 Frances_McDormand Coen_brothers
-
 Franchot_Tone Joan_Crawford
-
 Francis_Escudero Heart_Evangelista
-
 Francis_Ford_Coppola Eleanor_Coppola
-
 Franco_Nero Vanessa_Redgrave
-
 Frank_Sinatra Ava_Gardner
-
 Frank_Sinatra Mia_Farrow
-
 Frank_Zappa Gail_Zappa
-
 Franklin_D._Roosevelt Eleanor_Roosevelt
-
 François_Mitterrand Danielle_Mitterrand
-
 Françoise_Gilot Jonas_Salk
-
 Fred_Armisen Elisabeth_Moss
-
 Fred_Flintstone Wilma_Flintstone
-
 Fred_Thompson Jeri_Kehn_Thompson
-
 Fred_Wertheimer Linda_Wertheimer
-
 Frederic_Forrest Marilu_Henner
-
 Friede_Springer Axel_Springer
-
 Fritz_Lang Thea_von_Harbou
-
 Gabriel_Byrne Ellen_Barkin
-
 Gabriel_Macht Jacinda_Barrett
-
 Gabriela_Silang Diego_Silang
-
 Gaby_Dellal Eric_Fellner
-
 Gai_Waterhouse Robbie_Waterhouse
-
 Gail_Zappa Frank_Zappa
-
 Garry_Trudeau Jane_Pauley
-
 Garson_Kanin Marian_Seldes
-
 Gary_Dourdan Roshumba_Williams
-
 Gary_Oldman Lesley_Manville
-
 Gary_Oldman Uma_Thurman
-
 Gauri_Khan Shah_Rukh_Khan
-
 Gautami_Kapoor Ram_Kapoor
-
 Gavin_Newsom Kimberly_Guilfoyle
-
 Gavin_O'Reilly Alison_Doody
-
 Gavin_Rossdale Gwen_Stefani
-
 Gawn_Grainger Zoë_Wanamaker
-
 Geena_Davis Renny_Harlin
-
 Geena_Davis Jeff_Goldblum
-
 Geeta_Dutt Guru_Dutt
-
 Geetu_Mohandas Rajeev_Ravi
-
+Gemini_Ganesan Savitri
 Gena_Rowlands John_Cassavetes
-
 Gene_Roddenberry Majel_Barrett
-
 Gene_Wilder Gilda_Radner
-
 Geoffrey_Arend Christina_Hendricks
-
 Geoffrey_Holder Carmen_de_Lavallade
-
 Geoffrey_Robertson Kathy_Lette
-
 Georg_von_Trapp Maria_von_Trapp
-
 George_Balanchine Vera_Zorina
-
 George_Clooney Talia_Balsam
-
 George_Lakoff Robin_Lakoff
-
 George_Stephanopoulos Alexandra_Wentworth
-
 George_Tabori Viveca_Lindfors
-
 Georges_Pompidou Claude_Pompidou
-
 Georgi_Parvanov Zorka_Parvanova
-
 Georgia_Frontiere Carroll_Rosenbloom
-
 Georgianne_Walken Christopher_Walken
-
 Georgina_Chapman Harvey_Weinstein
-
 Georgiy_Gongadze Myroslava_Gongadze
-
 Gerald_Scarfe Jane_Asher
-
 Geraldine_Page Rip_Torn
-
 Geri_Halliwell Christian_Horner
-
 Ghulam_Mustafa_Khar Tehmina_Durrani
-
 Gia_Carides Anthony_LaPaglia
-
 Giada_Colagrande Willem_Dafoe
-
 Gianni_Agnelli Marella_Agnelli
-
 Gidget Moondoggie
-
 Gilda_Radner Gene_Wilder
-
 Gillian_Anderson Clyde_Klotz
-
 Ginger_Rogers Lew_Ayres
-
 Giovanni_Ribisi Agyness_Deyn
-
 Giuliana_Rancic Bill_Rancic
-
 Giulietta_Masina Federico_Fellini
-
 Glenne_Headly John_Malkovich
-
 Gloria_Swanson Wallace_Beery
-
 Gloria_Vanderbilt Sidney_Lumet
-
 Glynn_Turman Aretha_Franklin
-
 Goddard_Lieberson Vera_Zorina
-
 Goldie_Behl Sonali_Bendre
-
 Gordon_MacRae Sheila_MacRae
-
 Gordon_Ramsay Tana_Ramsay
-
 Gough_Whitlam Margaret_Whitlam
-
 Govan_Mbeki Epainette_Mbeki
-
 Graça_Machel Nelson_Mandela
-
 Graça_Machel Samora_Machel
-
 Gregg_Allman Cher
-
 Gregg_Edelman Carolee_Carmello
-
 Gregory_Hoblit Debrah_Farentino
-
 Gregory_Peck Veronique_Peck
-
 Gu_Changwei Jiang_Wenli
-
 Guido_Santi Tina_Mascara
-
 Guillaume_Canet Diane_Kruger
-
 Gunter_Sachs Brigitte_Bardot
-
 Gurdeep_Kohli Arjun_Punj
-
 Gurinder_Chadha Paul_Mayeda_Berges
-
 Gurmant_Grewal Nina_Grewal
-
 Gurmeet_Choudhary Debina_Bonnerjee
-
 Gursharan_Kaur Manmohan_Singh
-
 Guru_Dutt Geeta_Dutt
-
 Guru_Gobind_Singh Mata_Sundari
-
 Guthrie_McClintic Katharine_Cornell
-
+Guy_Ritchie Madonna
 Guy_Ritchie Jacqui_Ainsley
-
 Guy_Ullens Myriam_Ullens
-
 Gwen_Stefani Gavin_Rossdale
-
 Gwen_Verdon Bob_Fosse
-
 Göran_Persson Anitra_Steen
-
 Hadassah_Lieberman Joe_Lieberman
-
 Hal_Holbrook Dixie_Carter
-
 Hale_Boggs Lindy_Boggs
-
 Haley_Barbour Marsha_Barbour
-
 Halle_Berry Olivier_Martinez
-
 Hamma_Hammami Radhia_Nasraoui
-
 Hanna_Damasio Antonio_Damasio
-
 Hanna_Rosin David_Plotz
-
 Harivansh_Rai_Bachchan Teji_Bachchan
-
 Harold_Goddijn Corinne_Vigreux
-
 Harold_Pinter Antonia_Fraser
-
 Harold_Pinter Vivien_Merchant
-
 Harriet_Harman Jack_Dromey
-
 Harriet_Vane Lord_Peter_Wimsey
-
 Harry_Helmsley Leona_Helmsley
-
 Harry_Houdini Bess_Houdini
-
 Harvey_Pekar Joyce_Brabner
-
 Harvey_Weinstein Georgina_Chapman
-
 Hassanal_Bolkiah Azrinaz_Mazhar_Hakim
-
 Hayrünnisa_Gül Abdullah_Gül
-
 Hazel_Hawke Bob_Hawke
-
 Heart_Evangelista Francis_Escudero
-
 Heather_Goldenhersh Brían_F._O'Byrne
-
 Heather_Menzies Robert_Urich
-
 Heather_Mills Paul_McCartney
-
+Heidi_Klum Seal
 Heidi_Montag Spencer_Pratt
-
 Helen_Mirren Taylor_Hackford
-
 Helena_Guergis Rahim_Jaffer
-
 Hema_Malini Dharmendra
-
 Henry_Fonda Margaret_Sullavan
-
 Henry_Kravis Carolyne_Roehm
-
 Henry_Luce Clare_Boothe_Luce
-
 Herbert_Berghof Uta_Hagen
-
 Hifikepunye_Pohamba Penehupifo_Pohamba
-
 Hillary_Clinton Bill_Clinton
-
 Himanshu_Rai Devika_Rani
-
 Ho_Ching Lee_Hsien_Loong
-
 Holly_Palance Roger_Spottiswoode
-
 Homi_Adajania Anaita_Shroff_Adajania
-
 Homi_Wadia Fearless_Nadia
-
 Honey_Irani Javed_Akhtar
-
 Hosni_Mubarak Suzanne_Mubarak
-
 Howard_Stern Beth_Ostrosky_Stern
-
 Hu_Jintao Liu_Yongqing
-
 Hugh_Dancy Claire_Danes
-
 Hugh_Hefner Kimberley_Conrad
-
 Huma_Abedin Anthony_Weiner
-
 Hume_Cronyn Jessica_Tandy
-
 Humphrey_Bogart Lauren_Bacall
-
 Hun_Sen Bun_Rany
-
 Hunter_Tylo Michael_Tylo
-
 Husain_Haqqani Farahnaz_Ispahani
-
+Iajuddin_Ahmed Anwara_Begum
 Ian_Holm Penelope_Wilton
-
 Ian_Somerhalder Nikki_Reed
-
 Ibrahim_Babangida Maryam_Babangida
-
 Ida_Odinga Raila_Odinga
-
 Idina_Menzel Taye_Diggs
-
 Ieng_Sary Ieng_Thirith
-
 Ieng_Thirith Ieng_Sary
-
 Ilham_Aliyev Mehriban_Aliyeva
-
 Imelda_Marcos Ferdinand_Marcos
-
 Imogen_Stubbs Trevor_Nunn
-
 Indira_Gandhi Feroze_Gandhi
-
 Indrani_Mukerjea Peter_Mukerjea
-
 Indu_Jain Ashok_Kumar_Jain
-
 Ingrid_Bergman Roberto_Rossellini
-
 Ingrid_Vandebosch Jeff_Gordon
-
 Irene_Hirano Daniel_Inouye
-
 Iris_Weinshall Chuck_Schumer
-
 Irving_Abella Rosalie_Abella
-
 Irving_Thalberg Norma_Shearer
-
 Iryna_Khalip Andrei_Sannikov
-
 Isla_Fisher Sacha_Baron_Cohen
-
 Ivana_Trump Donald_Trump
-
 Ivanka_Trump Jared_Kushner
-
 Izzie_Stevens Alex_Karev
-
 J._Frederick_Motz Diana_Gribbon_Motz
-
 Jacinda_Barrett Gabriel_Macht
-
 Jack_Dromey Harriet_Harman
-
 Jack_Layton Olivia_Chow
-
 Jacki_Weaver Derryn_Hinch
-
 Jackie_Coogan Betty_Grable
-
 Jacob_Weisberg Deborah_Needleman
-
 Jacqueline_Kennedy_Onassis Aristotle_Onassis
-
 Jacqueline_Kennedy_Onassis John_F._Kennedy
-
 Jacqueline_du_Pré Daniel_Barenboim
-
 Jacques_Chirac Bernadette_Chirac
-
 Jacques_Demy Agnès_Varda
-
 Jacques_Parizeau Lisette_Lapointe
-
 Jacqui_Ainsley Guy_Ritchie
-
 Jahangir Nur_Jahan
-
 Jaime_Bergman David_Boreanaz
-
 Jake_La_Botz Abby_Brammell
-
 James_Brolin Barbra_Streisand
-
 James_Carpinello Amy_Acker
-
 James_Carville Mary_Matalin
-
 James_DeBarge Janet_Jackson
-
 James_Farentino Debrah_Farentino
-
 Jamie_Lomas Kym_Marsh
-
 Jamie_Raskin Sarah_Bloom_Raskin
-
 Jane_Asher Gerald_Scarfe
-
 Jane_Fonda Roger_Vadim
-
 Jane_Harman Sidney_Harman
-
 Jane_Kaczmarek Bradley_Whitford
-
 Jane_Pauley Garry_Trudeau
-
 Jane_Rosenthal Craig_Hatkoff
-
 Jane_Wyman Ronald_Reagan
-
+Janet_Gaynor Adrian
 Janet_Jackson James_DeBarge
-
 Janet_Jagan Cheddi_Jagan
-
 Janice_Soprano Richie_Aprile
-
 Janine_Krieber Stéphane_Dion
-
 Jared_Kushner Ivanka_Trump
-
 Jason_Bateman Amanda_Anka
-
 Jason_Momoa Lisa_Bonet
-
 Jason_O'Mara Paige_Turco
-
 Jason_Robards Lauren_Bacall
-
 Javed_Akhtar Shabana_Azmi
-
 Javed_Akhtar Honey_Irani
-
 Javier_Bardem Penélope_Cruz
-
 Jay_Carney Claire_Shipman
-
 Jay_Leno Mavis_Leno
-
 Jay_Z Beyoncé
-
 Jaya_Bachchan Amitabh_Bachchan
-
 Jayne_Mansfield Mickey_Hargitay
-
 Jean_Carnahan Mel_Carnahan
-
 Jean_Chrétien Aline_Chrétien
-
 Jean_de_Brunhoff Cecile_de_Brunhoff
-
 Jeanne_Moreau William_Friedkin
-
 Jeanne_Tripplehorn Leland_Orser
-
 Jeannette_Kagame Paul_Kagame
-
 Jeannie_Ritter Bill_Ritter
-
 Jed_Whedon Maurissa_Tancharoen
-
 Jeff_Goldblum Geena_Davis
-
 Jeff_Gordon Ingrid_Vandebosch
-
 Jehan_Sadat Anwar_Sadat
-
 Jenji_Kohan Christopher_Noxon
-
 Jenna_Dewan Channing_Tatum
-
 Jenna_Elfman Bodhi_Elfman
-
 Jennet_Conant Steve_Kroft
-
 Jennie_Garth Peter_Facinelli
-
 Jennifer_Aniston Brad_Pitt
-
 Jennifer_Aniston Justin_Theroux
-
 Jennifer_Beals Alexandre_Rockwell
-
 Jennifer_Connelly Paul_Bettany
-
 Jennifer_Garner Ben_Affleck
-
 Jenny_Lumet Bobby_Cannavale
-
 Jenny_Sanford Mark_Sanford
-
 Jensen_Ackles Danneel_Harris
-
 Jeremy_Irons Sinéad_Cusack
-
 Jeri_Kehn_Thompson Fred_Thompson
-
 Jerry_Seinfeld Jessica_Seinfeld
-
 Jerry_Stiller Anne_Meara
-
 Jesse_Itzler Sara_Blakely
-
 Jesse_Randhawa Sandip_Soparrkar
-
 Jessica_Biel Justin_Timberlake
-
 Jessica_Gavora Jonah_Goldberg
-
 Jessica_Jackley Reza_Aslan
-
 Jessica_Seinfeld Jerry_Seinfeld
-
 Jessica_Simpson Nick_Lachey
-
 Jessica_Tandy Hume_Cronyn
-
 Jetsun_Pema Jigme_Khesar_Namgyel_Wangchuck
-
 Jia_Zhangke Zhao_Tao
-
 Jiang_Qing Mao_Zedong
-
 Jiang_Wen Zhou_Yun
-
 Jiang_Wenli Gu_Changwei
-
 Jigme_Khesar_Namgyel_Wangchuck Jetsun_Pema
-
 Jill_Biden Joe_Biden
-
 Jim_Bakker Tammy_Faye_Messner
-
 Jim_Halpert Pam_Beesly
-
 Jim_Parrack Leven_Rambin
-
 Jim_Sillars Margo_MacDonald
-
 Jim_Threapleton Kate_Winslet
-
 Jimi_Mistry Flavia_Cacace
-
 Jimmi_Simpson Melanie_Lynskey
-
 Jimmy_Carter Rosalynn_Carter
-
 Jimmy_Fallon Nancy_Juvonen
-
 Jin_Yan Qin_Yi
-
 Jinkee_Pacquiao Manny_Pacquiao
-
 Joachim_Sauer Angela_Merkel
-
 Joan_Crawford Franchot_Tone
-
 Joan_Kroc Ray_Kroc
-
 Joan_Littlewood Ewan_MacColl
-
 Joan_Mondale Walter_Mondale
-
 Joan_Sutherland Richard_Bonynge
-
 Joanna_Newsom Andy_Samberg
-
 Joanne_Peh Qi_Yuwu
-
 Joanne_Whalley Val_Kilmer
-
 Jodie_Foster Alexandra_Hedison
-
 Joe_Biden Jill_Biden
-
 Joe_Lieberman Hadassah_Lieberman
-
 Joe_Manganiello Sofía_Vergara
-
 Joel_Kleefisch Rebecca_Kleefisch
-
 John_Bercow Sally_Bercow
-
 John_Cassavetes Gena_Rowlands
-
 John_Della_Bosca Belinda_Neal
-
 John_Dingell Debbie_Dingell
-
 John_F._Kennedy Jacqueline_Kennedy_Onassis
-
 John_Humphrys Valerie_Sanderson
-
 John_Krasinski Emily_Blunt
-
 John_Malkovich Glenne_Headly
-
 John_Ralston_Saul Adrienne_Clarkson
-
 John_Stamos Rebecca_Romijn
-
 Johnathon_Schaech Christina_Applegate
-
 Johnny_Depp Amber_Heard
-
 Joice_Mujuru Solomon_Mujuru
-
 Joke_Silva Olu_Jacobs
-
 Jon_Gosselin Kate_Gosselin
-
 Jon_Tenney Teri_Hatcher
-
 Jon_Voight Marcheline_Bertrand
-
 Jonah_Goldberg Jessica_Gavora
-
 Jonas_Salk Françoise_Gilot
-
 Jonathan_Harker Mina_Harker
-
 Jonathan_Safran_Foer Nicole_Krauss
-
 Joseph_Goebbels Magda_Goebbels
-
 Josh_Brolin Diane_Lane
-
 José_María_Aznar Ana_Botella
-
 Joy_Philbin Regis_Philbin
-
 Joyce_Brabner Harvey_Pekar
-
 Juan_Perón Eva_Perón
-
 Judd_Apatow Leslie_Mann
-
 Jude_Law Sadie_Frost
-
 Judith_Viorst Milton_Viorst
-
 Judy_Finnigan Richard_Madeley
-
 Judy_Garland Vincente_Minnelli
-
 Juergen_Teller Sadie_Coles
-
 Jugnu_Mohsin Najam_Sethi
-
 Juhi_Babbar Anup_Soni
-
 Juhi_Babbar Bejoy_Nambiar
-
 Juhi_Parmar Sachin_Shroff
-
 Jules_Asner Steven_Soderbergh
-
 Jules_Dassin Melina_Mercouri
-
 Julia_Roberts Daniel_Moder
-
 Julian_McMahon Dannii_Minogue
-
 Julianne_Moore Bart_Freundlich
-
 Julie_Gayet Santiago_Amigorena
-
 Julius_Genachowski Martha_Raddatz
-
 Justin_Bruening Alexa_Havins
-
 Justin_Theroux Jennifer_Aniston
-
 Justin_Timberlake Jessica_Biel
-
 Justine_Larbalestier Scott_Westerfeld
-
 Justine_Musk Elon_Musk
-
 Justine_Thornton Ed_Miliband
-
 Jyothirmayi Amal_Neerad
-
 Kabir_Bedi Protima_Bedi
-
 Kaifi_Azmi Shaukat_Kaifi
-
 Kaitlin_Olson Rob_McElhenney
-
 Kajol Ajay_Devgan
-
 Kakoli_Ghosh_Dastidar Sudarshan_Ghosh_Dastidar
-
 Kalki_Koechlin Anurag_Kashyap
-
 Kamal_Amrohi Meena_Kumari
-
 Kamal_Haasan Vani_Ganapathy
-
 Kanchi_Kaul Shabbir_Ahluwalia
-
 Kanye_West Kim_Kardashian
-
 Karan_Mehra Nisha_Rawal
-
 Kareena_Kapoor Saif_Ali_Khan
-
 Karen_Gillmor Paul_Gillmor
-
 Karna Vrushali
-
 Karthik_Kumar Suchitra
-
 Karyn_Parsons Alexandre_Rockwell
-
 Kate_Beckinsale Len_Wiseman
-
