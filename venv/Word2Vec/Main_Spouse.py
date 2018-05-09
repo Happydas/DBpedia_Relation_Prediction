@@ -18,12 +18,9 @@ vec = gensim.models.KeyedVectors.load_word2vec_format(
 
 train  = open("../Data/Spouse_Train.txt", 'r', encoding="utf-8")
 test = open("../Data/Spouse_Test.txt", 'r', encoding="utf-8")
-#data = open("../Data/Country_Currency_Data_2", 'r', encoding="utf-8")
 
 train_lines = train.readlines()
 test_lines = test.readlines()
-#data_lines = data.readlines()
-
 
 def createSuperVector(number):
     counter = 0
@@ -58,25 +55,20 @@ while i < 20:
                 if len(Data_Test) > 1:
                     Super_Vector = vec[Data_Test[1]] + m_spouse_super
                     Result = vec.similar_by_vector((Super_Vector - f_spouse_super), topn=3)
-                    # print(Result[0][0])
-                    if Result[0][0] == Data_Test[1]:
-                        Final_Result = Result[1][0]
-                    elif Result[1][0] == Data_Test[0]:
+                    if Result[1][0] == Data_Test[0]:
                          Final_Result = Result[1][0]
                     elif Result[2][0] == Data_Test[0]:
                         Final_Result = Result[2][0]
                     else:
                         Final_Result = Result[0][0]
-
                     if Final_Result == Data_Test[0]:
                         correct_result+= 1
-                    f2.write(str(Result) + " " + Data_Test[1] + "\n")
-                    f3.write(str(Final_Result) + " " + Data_Test[1] + "\n")
-
+                    f2.write(str(Result) + " " + Data_Test[0] + "\n")
+                    f3.write(str(Final_Result) + " " + Data_Test[0] + "\n")
         print(correct_result)
         accuracy += correct_result / line_number
         print(accuracy)
-        f4.write((str(accuracy)) + "\n")
+        f4.write(str(correct_result) + " " + (str(accuracy)) + "\n")
     Avg_Accuracy = (accuracy / 10)
     print("Average Accuracy for Average ", i, ": ", Avg_Accuracy)
     f5.write(str(i) + " " + (str(Avg_Accuracy)) + "\n")
