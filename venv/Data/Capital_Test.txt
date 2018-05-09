@@ -7,7 +7,7 @@ Belarus Minsk
 Belize Belmopan
 Bolivia Sucre
 Burkina_Faso Ouagadougou
-Chad N'Djamena
+Canada Ottawa
 Chile Santiago
 China Beijing
 Croatia Zagreb
@@ -40,6 +40,7 @@ Malaysia Putrajaya
 Malta Valletta
 Morocco Rabat
 Mozambique Maputo
+Nepal Kathmandu
 Niue Alofi
 Norway Oslo
 Pakistan Islamabad
@@ -49,7 +50,6 @@ Qatar Doha
 Romania Bucharest
 Russia Moscow
 Rwanda Kigali
-Saint_Lucia Castries
 Senegal Dakar
 Serbia Belgrade
 Sierra_Leone Freetown
@@ -65,9 +65,9 @@ Thailand Bangkok
 Togo Lomé
 Tunisia Tunis
 Ukraine Kiev
-United_Kingdom London
 Uruguay Montevideo
 Vanuatu Port_Vila
+Vietnam Hanoi
 Yemen Aden
 Yemen Sana'a
 Zambia Lusaka

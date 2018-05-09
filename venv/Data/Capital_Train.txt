@@ -10,7 +10,7 @@ Bulgaria Sofia
 Burundi Bujumbura
 Cambodia Phnom_Penh
 Cameroon Yaoundé
-Canada Ottawa
+Chad N'Djamena
 Colombia Bogotá
 Cyprus Nicosia
 Dominica Roseau
@@ -41,7 +41,6 @@ Mongolia Ulaanbaatar
 Montenegro Podgorica
 Myanmar Naypyidaw
 Namibia Windhoek
-Nepal Kathmandu
 Netherlands Amsterdam
 New_Zealand Wellington
 Nicaragua Managua
@@ -50,6 +49,7 @@ Nigeria Abuja
 North_Korea Pyongyang
 Peru Lima
 Poland Warsaw
+Saint_Lucia Castries
 Saudi_Arabia Riyadh
 Slovenia Ljubljana
 Solomon_Islands Honiara
@@ -67,7 +67,7 @@ Tajikistan Dushanbe
 Turkey Ankara
 Turkmenistan Ashgabat
 United_Arab_Emirates Abu_Dhabi
+United_Kingdom London
 Uzbekistan Tashkent
 Venezuela Caracas
-Vietnam Hanoi
 Zimbabwe Harare
