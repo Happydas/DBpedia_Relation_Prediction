@@ -11,6 +11,8 @@ endpoint.setQuery("""
 SELECT DISTINCT ?x ?y WHERE {
 ?x dbo:spouse ?y.
 ?y dbo:spouse ?x.
+?x dbo:spouse|^dbo:spouse ?y .
+FILTER (?x < ?y)
 }  order by ?x
 
 """)
