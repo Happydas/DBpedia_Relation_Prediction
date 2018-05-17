@@ -12,16 +12,16 @@ data1 = {
   "x": X,
   "y": Y,
 
-  "name": "Accuracy for Person-Party",
+  "name": "Average accuracy for Person-Party",
   "type": "scatter"
 }
 
 
 data = Data([data1])
 layout = {
-  "title": "Accuracy against testing data set.",
-  "xaxis": {"title": "Number of Vectors."},
-  "yaxis": {"title": "Accuracy"}
+  "title": "Average accuracy against testing data set",
+  "xaxis": {"title": "Number of Vectors"},
+  "yaxis": {"title": "Average accuracy"}
 }
 
 fig = Figure(data=data, layout=layout)
