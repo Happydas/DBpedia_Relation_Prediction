@@ -5,25 +5,17 @@ import random
 import gensim, re
 import numpy as np
 
-#warnings.filterwarnings(action="ignore", category=UserWarning, module='gensim')
-
-f2 = open("../Results/Main_Person_Party.txt", "w+", encoding="utf-8")
-f3 = open("../Results/Main_Person_Party_Final.txt", "w+", encoding="utf-8")
-
-f4 = open("../Results/Main_Person_Party_Accuracy.txt", "w", encoding="utf-8")
-f5 = open("../Results/Main_Person_Party_Average_Accuracy.txt", "w+", encoding="utf-8")
+f2 = open("../Results/Person_Party/Main_Person_Party.txt", "w+", encoding="utf-8")
+f3 = open("../Results/Person_Party/Main_Person_Party_Final.txt", "w+", encoding="utf-8")
+f4 = open("../Results/Person_Party/Main_Person_Party_Accuracy.txt", "w", encoding="utf-8")
+f5 = open("../Results/Person_Party/Main_Person_Party_Average_Accuracy.txt", "w+", encoding="utf-8")
 vec = gensim.models.KeyedVectors.load_word2vec_format(
     'D:/dl4j-files/GoogleNews-vectors-negative300.bin/GoogleNews-vectors-negative300.bin', binary=True)
 
-
-train  = open("../Data/Person_Party_Train.txt", 'r', encoding="utf-8")
-test = open("../Data/Person_Party_Test.txt", 'r', encoding="utf-8")
-#data = open("../Data/Country_Currency_Data_2", 'r', encoding="utf-8")
-
+train  = open("../Data/Person_Party/Person_Party_Train.txt", 'r', encoding="utf-8")
+test = open("../Data/Person_Party/Person_Party_Test.txt", 'r', encoding="utf-8")
 train_lines = train.readlines()
 test_lines = test.readlines()
-#data_lines = data.readlines()
-
 
 def createSuperVector(number):
     counter = 0
@@ -39,7 +31,7 @@ def createSuperVector(number):
 
 
 i = 0
-line_number = sum(1 for line in open('../Data/Person_Party_Test.txt', 'r', encoding="utf-8" ))
+line_number = sum(1 for line in open('../Data/Person_Party/Person_Party_Test.txt', 'r', encoding="utf-8" ))
 
 while i < 20:
     i += 1
@@ -51,14 +43,11 @@ while i < 20:
         correct_result = 0
 
         person_super, party_super = createSuperVector(i)
-
-
         for line in test_lines:
                 Data_Test = line.split()
                 if len(Data_Test) > 1:
                     Super_Vector = vec[Data_Test[0]] + party_super
                     Result = vec.similar_by_vector((Super_Vector - person_super), topn=3)
-                    # print(Result[0][0])
                     if Result[1][0] == Data_Test[1]:
                          Final_Result = Result[1][0]
                     elif Result[2][0] == Data_Test[1]:

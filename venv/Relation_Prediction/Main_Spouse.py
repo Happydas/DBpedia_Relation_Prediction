@@ -5,19 +5,14 @@ import random
 import gensim, re
 import numpy as np
 
-#warnings.filterwarnings(action="ignore", category=UserWarning, module='gensim')
-
-f2 = open("../Results/Main_Spouse.txt", "w+", encoding="utf-8")
-f3 = open("../Results/Main_Spouse_Final.txt", "w+", encoding="utf-8")
-
-f4 = open("../Results/Main_Spouse_Accuracy.txt", "w", encoding="utf-8")
-f5 = open("../Results/Main_Spouse_Average_Accuracy.txt", "w+", encoding="utf-8")
+f2 = open("../Results/Spouse/Main_Spouse.txt", "w+", encoding="utf-8")
+f3 = open("../Results/Spouse/Main_Spouse_Final.txt", "w+", encoding="utf-8")
+f4 = open("../Results/Spouse/Main_Spouse_Accuracy.txt", "w", encoding="utf-8")
+f5 = open("../Results/Spouse/Main_Spouse_Average_Accuracy.txt", "w+", encoding="utf-8")
 vec = gensim.models.KeyedVectors.load_word2vec_format(
     'D:/dl4j-files/GoogleNews-vectors-negative300.bin/GoogleNews-vectors-negative300.bin', binary=True)
-
-
-train  = open("../Data/Spouse_Train.txt", 'r', encoding="utf-8")
-test = open("../Data/Spouse_Test.txt", 'r', encoding="utf-8")
+train  = open("../Data/Spouse/Spouse_Train.txt", 'r', encoding="utf-8")
+test = open("../Data/Spouse/Spouse_Test.txt", 'r', encoding="utf-8")
 
 train_lines = train.readlines()
 test_lines = test.readlines()
@@ -36,7 +31,7 @@ def createSuperVector(number):
 
 
 i = 0
-line_number = sum(1 for line in open('../Data/Spouse_Test.txt'))
+line_number = sum(1 for line in open('../Data/Spouse/Spouse_Test.txt'))
 print(line_number)
 
 while i < 20:

@@ -2,8 +2,8 @@ from random import shuffle
 import random
 
 fin = open("../Data/Country_Currency_filtered.txt", 'r')
-fout = open("../Data/Currency_Train.txt", 'w+')
-fout2 = open("../Data/Currency_Test.txt", 'w+')
+fout = open("../Data/Currency_Country/Currency_Train.txt", 'w+')
+fout2 = open("../Data/Currency_Country/Currency_Test.txt", 'w+')
 for line in fin:
     r = random.random()
     if r < 0.60:
