@@ -3,7 +3,7 @@ import plotly.plotly as py
 from plotly.graph_objs import *
 py.sign_in('Happy_Das', 'gqFHrnV4u2yQkUdckBtD')
 X, Y = [], []
-for line in open('../Results/Main_Country_Currency_Average_Accuracy.txt', 'r'):
+for line in open('../Results/Currency_Country/Main_Currency_Country_Average_Accuracy.txt', 'r'):
   values = [str(s) for s in line.split()]
   X.append(values[0])
   Y.append(values[1])

@@ -3,7 +3,7 @@ import plotly.plotly as py
 from plotly.graph_objs import *
 py.sign_in('Happy_Das', 'gqFHrnV4u2yQkUdckBtD')
 X, Y = [], []
-for line in open('../Results/Main_Capital_Average_Accuracy.txt', 'r'):
+for line in open('../Results/Capital_Country/Main_Capital_Country_Average_Accuracy.txt', 'r'):
   values = [str(s) for s in line.split()]
   X.append(values[0])
   Y.append(values[1])
@@ -17,7 +17,7 @@ data1 = {
 }
 
 X, Y = [], []
-for line in open('../Results/Main_Country_Currency_Average_Accuracy.txt', 'r'):
+for line in open('../Results/Currency_Country/Main_Currency_Country_Average_Accuracy.txt', 'r'):
   values = [str(s) for s in line.split()]
   X.append(values[0])
   Y.append(values[1])
@@ -30,7 +30,7 @@ data2 = {
 }
 
 X, Y = [], []
-for line in open('../Results/Main_Spouse_Average_Accuracy.txt', 'r'):
+for line in open('../Results/Spouse/Main_Spouse_Average_Accuracy.txt', 'r'):
   values = [str(s) for s in line.split()]
   X.append(values[0])
   Y.append(values[1])
@@ -44,7 +44,7 @@ data3 = {
 }
 
 X, Y = [], []
-for line in open('../Results/Main_Person_Party_Average_Accuracy.txt', 'r'):
+for line in open('../Results/Person_Party/Main_Person_Party_Average_Accuracy.txt', 'r'):
   values = [str(s) for s in line.split()]
   X.append(values[0])
   Y.append(values[1])
