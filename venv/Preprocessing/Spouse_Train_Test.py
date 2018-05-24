@@ -1,7 +1,7 @@
 from random import shuffle
 import random
 
-f = open("../Data/Spouse_filtered.txt", 'r')
+f = open("../Data/Spouse/Spouse_filtered.txt", 'r')
 train = open("../Data/Spouse/Spouse_Train.txt", 'w+')
 test = open("../Data/Spouse/Spouse_Test.txt", 'w+')
 for line in f:

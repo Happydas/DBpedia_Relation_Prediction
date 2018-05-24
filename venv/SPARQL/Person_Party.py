@@ -24,7 +24,7 @@ endpoint.setReturnFormat(JSON)
 # Note: The JSON returned by the SPARQL endpoint is converted to nested Python dictionaries, so additional parsing is not required.
 results = endpoint.query().convert()
 
-f= open("../Data/Person_Party.txt","w+", encoding="utf-8")
+f= open("../Data/Person_Party/Person_Party.txt","w+", encoding="utf-8")
 for res in results["results"]["bindings"] :
     f.write("%s %s\n" %  (res['person']['value'],  res['party']['value']))
 

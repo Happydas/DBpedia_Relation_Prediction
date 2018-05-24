@@ -1,7 +1,7 @@
 import io
 
-fin = open("../Data/spouse.txt", "r",  encoding="utf-8")
-fout = open("../Data/Spouse_Clean.txt", "w+", encoding="utf-8")
+fin = open("../Data/Spouse/spouse.txt", "r",  encoding="utf-8")
+fout = open("../Data/Spouse/Spouse_Clean.txt", "w+", encoding="utf-8")
 delete_list = ['http://dbpedia.org/resource/']
 for line in fin:
     for word in delete_list:

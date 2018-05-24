@@ -1,7 +1,7 @@
 from random import shuffle
 import random
 
-fin = open("Capital_filtered.txt", 'r')
+fin = open("../Data/Capital_Country/Capital_filtered.txt", 'r')
 fout = open("../Data/Capital_Country/Capital_Train.txt", 'w+')
 fout2 = open("../Data/Capital_Country/Capital_Test.txt", 'w+')
 for line in fin:

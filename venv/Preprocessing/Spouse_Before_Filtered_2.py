@@ -1,6 +1,6 @@
 
-f = open('../Data/Spouse_Before_Filtered.txt_2', 'w', encoding="utf-8")
-with open('../Data/Spouse_Before_Filtered.txt', 'r', encoding="utf-8") as fin:
+f = open('../Data/Spouse/Spouse_Before_Filtered.txt_2', 'w', encoding="utf-8")
+with open('../Data/Spouse/Spouse_Before_Filtered.txt', 'r', encoding="utf-8") as fin:
     for line in fin:
         sen = line.strip()
         if sen[-1:] == '_':

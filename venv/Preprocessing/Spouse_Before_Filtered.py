@@ -1,8 +1,8 @@
-newFile = open('../Data/Spouse_Before_Filtered.txt', 'w', encoding="utf-8")
+newFile = open('../Data/Spouse/Spouse_Before_Filtered.txt', 'w', encoding="utf-8")
 
 Directions = False
 
-with open('../Data/Spouse_Clean.txt', encoding="utf-8") as f:
+with open('../Data/Spouse/Spouse_Clean.txt', encoding="utf-8") as f:
     for c in f.read():
         if Directions is False and c == '(':
             Directions = True
