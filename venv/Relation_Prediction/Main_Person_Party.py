@@ -4,6 +4,9 @@ warnings.filterwarnings(action="ignore", category=UserWarning, module='gensim')
 import random
 import gensim, re
 import numpy as np
+import plotly.plotly as py
+from plotly.graph_objs import *
+py.sign_in('Happy_Das', 'gqFHrnV4u2yQkUdckBtD')
 
 f2 = open("../Results/Person_Party/Main_Person_Party.txt", "w+", encoding="utf-8")
 f3 = open("../Results/Person_Party/Main_Person_Party_Final.txt", "w+", encoding="utf-8")
@@ -29,9 +32,34 @@ def createSuperVector(number):
     party = np.average(party_arr, axis=0)
     return person, party
 
+def visualize(arg1, arg2):
+    vect, avgr = [], []
+    for a, b in zip(arg1, arg2):
+        vect.append(a)
+        avgr.append(b)
+
+    data1 = {
+        "x": vect,
+        "y": avgr,
+
+        "name": "Average accuracy for Company_Headquarter",
+        "type": "scatter"
+    }
+
+    data = Data([data1])
+    layout = {
+        "title": "Average accuracy against testing data set",
+        "xaxis": {"title": "Number of Vectors"},
+        "yaxis": {"title": "Average accuracy"}
+    }
+    return data, layout
+
 
 i = 0
 line_number = sum(1 for line in open('../Data/Person_Party/Person_Party_Test.txt', 'r', encoding="utf-8" ))
+
+vector = []
+avg = []
 
 while i < 20:
     i += 1
@@ -66,3 +94,10 @@ while i < 20:
     Avg_Accuracy = (accuracy/10)
     print("Average Accuracy for Average ", i, ": ", Avg_Accuracy)
     f5.write(str(i) + " " + (str(Avg_Accuracy)) + "\n")
+    vector.append(i)
+    avg.append(Avg_Accuracy)
+    visualize(vector, avg)
+data, layout = visualize(vector, avg);
+fig = Figure(data=data, layout=layout)
+plot_url = py.plot(fig)
+

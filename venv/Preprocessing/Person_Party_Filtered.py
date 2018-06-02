@@ -10,16 +10,12 @@ class Word2VecDBpedia():
 
         f = open("../Data/Person_Party/Person_Party_Before_filtered_2.txt", 'r', encoding="utf-8")
         lines = f.readlines()
-        #linesNew = []
-        #for line in lines.split('\n'):
         for line in lines:
             Type = line.split()
 
             if len(Type)> 1:
-               #print(Type[0], Type[1])
                 if Type[0] in model.vocab and Type[1] in model.vocab:
                     f1.write(Type[0]+" "+Type[1]+"\n")
-                    #print(Type[0], Type[1])
 
 
 
