@@ -12,16 +12,13 @@ fout.close()
 print ('Completed')
 
 
-
-
-
 f = open( "../Data/Capital_Country/Capital1.txt", "r" )
 text = f.read()
 f.close()
 newText = ""
 for each in text:
     if each == "-":
-        each = "_" #Or replace it with whatever you like.
+        each = "_" 
     newText += each
 f = open( "../Data/Capital_Country/Capital_Clean.txt", "w" )
 f.write( newText )
